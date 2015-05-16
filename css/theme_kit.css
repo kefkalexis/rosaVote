@@ -1,0 +1,95 @@
+
+/* Hintergund der Seite */
+body {
+	font: normal 1em Ubuntu, sans-serif;
+	color: black;
+	background-color: #E17900;
+	background-image: -webkit-linear-gradient(top, #EFBA6C, #E17900 66%);
+	background-image: -moz-linear-gradient(top, #EFBA6C, #E17900 66%);
+	background-image: -o-linear-gradient(top, #EFBA6C, #E17900 66%);
+	background-image: linear-gradient(to bottom, #EFBA6C, #E17900 66%);
+	background-attachment: fixed;
+}
+
+
+/* Die Box, die alle weiteren Objekte enthält*/
+#rosaVoteContainer {
+	/* Hauptcontainer */
+	background-color: rgba(255,255,255,.7);
+	box-shadow:0px 4px 4px #666;
+	-moz-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	border: 2px solid #808080; 
+}
+
+
+/* Die Buttons in der Navigationsleiste */
+.naviButton {	
+	border: 1px solid #aaaaaa;
+	border-radius: 5px;
+	box-shadow:0px 2px 2px #666;
+	text-align: center;
+	font: bold 13pt/110% Ubuntu, sans-serif;
+	background-color:rgba(200,200,200,0.2);
+	cursor:pointer;
+}
+
+
+.naviButton:hover {border-color: black;background-color:rgba(200,200,200,0.8);}
+
+
+/*Antwort-Buttons*/
+.question_button {
+
+	border-color: #aaaaaa;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 15px;
+	box-shadow:0px 2px 2px #666;
+	cursor: pointer;
+}
+
+
+.question_button:hover {border-color: black;font-weight: bold}
+
+
+/* Fragenübersicht*/
+.questiontable {
+	border-color: #aaaaaa;
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 15px;
+}
+
+
+.questiontable table{border-collapse:collapse;}
+
+
+/* Einzelne Zellen der Fragentabelle*/
+.questiontable td {border: 1px solid #AAA;cursor: pointer;}
+.questiontable td:hover {font-weight: bold;}
+
+
+/* aktuelle Frage wird markiert*/
+.selectedcell {border: 2px solid black !important}
+
+
+.diagramBar {background-color:orange;}
+
+
+/*Fragen in Auswertung abwechselnd färben */
+
+
+.evalDetailTab:nth-child(even) {background-color: #FFC699}
+.evalDetailTab:nth-child(odd) {background-color: #FFFFFF}
+
+
+#overlay {
+	background-color: rgb(255,255,255);
+	box-shadow:0px 4px 4px #666;
+	-moz-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	border: 2px solid #808080; 
+}

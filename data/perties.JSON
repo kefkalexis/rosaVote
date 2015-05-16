@@ -1,0 +1,44 @@
+{
+  "CDU":
+    {
+      "shortname" : "CDU",
+      "longname" : "Christlich Demokratische Union Deutschlands",
+      "website" : "http://www.cdu.de",
+      "logo" : "logos/logo_cdu.png"
+    },
+  "SPD":
+    {
+      "shortname" : "SPD",
+      "longname" : "Sozialdemokratische Partei Deutschlands",
+      "website" : "http://www.spd.de",
+      "logo" : "logos/logo_spd.png"
+    },
+  "GRÜNE":
+    {
+      "shortname" : "GRÜNE",
+      "longname" : "BÜNDNIS 90/DIE GRÜNEN",
+      "website" : "http://www.gruene.de",
+      "logo" : "logos/logo_gruene.png"
+    },
+  "FDP":
+    {
+      "shortname" : "FDP",
+      "longname" : "Freie Demokratische Partei",
+      "website" : "http://www.fdp.de",
+      "logo" : "logos/logo_fdp.png"
+    },
+  "LINKE":
+    {
+      "shortname" : "LINKE",
+      "longname" : "DIE LINKE",
+      "website" : "http://www.die-linke.de",
+      "logo" : "logos/logo_linke.png"
+    },
+  "PIRATEN":
+    {
+      "shortname" : "PIRATEN",
+      "longname" : "Piratenpartei Deutschland",
+      "website" : "http://www.piratenpartei.de",
+      "logo" : "logos/logo_piraten.png"
+    }
+}

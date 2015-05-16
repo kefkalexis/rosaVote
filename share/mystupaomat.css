@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font: normal 1em/1.5em Ubuntu, sans-serif;
+    color: black;
+    background-color: #E17900;
+    background-image: -moz-linear-gradient(top, #EFBA6C, #E17900 66%);
+    background-attachment: fixed;
+
+	margin-bottom:0;
+	padding-bottom:0;
+  
+
+}
+
+
+
+h1 { font-size:130%;}
+
+
+a:link { color:#000000; } 
+a:visited { color:#000000; }
+a:active { color:#000000; }
+a:hover { color:#FF0000; text-decoration:none; }
+ 
+table { font-size:100%; }
+
+td { 
+	/*border: 0px solid #C0C0C0; */
+	padding: 2px;
+	/*-moz-border-radius: 2px; */
+	-khtml-border-radius: 2px;
+	border-radius: 2px; 
+	font-size:110%;
+ 	}
+
+#container {
+    background-color: white;
+    background-color: rgba(255,255,255,.7);
+	width:600px; 
+	height:600px;
+	text-align:left; 
+	margin: 1em auto auto auto;
+	padding:10px;
+	-khtml-border-radius: 15px;
+	border-radius: 15px;
+	overflow:hidden;
+	box-shadow:0px 4px 4px #666;
+	display:block;
+	}
+	
+.naviButtons {    /* KIT-Hack*/
+	border-color: #aaaaaa;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 5px;
+	box-shadow:0px 2px 2px #666;
+	padding:7px;
+	margin:0pt 2pt 2pt 2pt;
+	text-align: center;
+	 font: bold 13pt/110% Ubuntu, sans-serif;
+	background-color:rgba(200,200,200,0.2);
+	cursor:pointer;
+	}	
+
+
+
+.chartPercent {
+	position:relative;
+	text-align:center;
+	width:100%;
+	height:100%;
+	vertical-align:bottom;
+	overflow:visible;
+	display:inline;
+	font-size:10;
+}
+
+.chartName {
+	position:relative;
+	text-align:center;
+	width:100%;
+	height:100%;
+	vertical-align:bottom;
+	overflow:visible;
+	display:inline;
+	font-size:12;
+}
+.chartRect {
+	position:relative;
+	margin: 0 auto -12;
+	background-color:#EA8F17;
+	width:50px;
+	font-size:10;
+	display:block;
+	vertical-align:bottom;	
+	}
+.chartFakeRect { /*ist nur dazu da, damit Listenname über Prozentanteil angezeigt wird*/
+	position:relative;
+	margin: 0 auto -12;
+	background:0;
+	width:60%;
+	font-size:10;
+	display:block;
+	vertical-align:bottom;	
+	}
+
+.chartTable {border:0;table-layout:fixed;border-collapse: collapse;}
+
+.chartTable td {
+	position:relative;
+	text-align:center;
+	font-size:12;
+	width:80px;
+} 
+
+.chartimg {max-width: 50; max-height: 50;}
+.charttd {border-bottom:1px solid #000000;vertical-align: bottom;}

@@ -1,0 +1,3 @@
+0	3	stimme zu	neutral	stimme nicht zu	pro_icon.png	neutral_icon.png	contra_icon.png	rgba(0,255,0,0.2)	rgba(255,255,0,0.2)	rgba(255,0,0,0.2)	3	0	0	1	1	1	0	0	3
+1	3	zu hoch	angemessen	zu niedrig	high_icon.png	pro_icon.png	low_icon.png	rgba(255,0,0,0.2)	rgba(0,255,0,0.2)	rgba(255,0,0,0.2)	3	0	0	0	3	0	0	0	3
+3	4	a	b	c	d	high_icon.png	high_icon.png	low_icon.png	low_icon.png	rgba(255,255,255,0.2)	rgba(200,200,200,0.2)	rgba(100,100,100,0.2)	rgba(10,10,10,0.2)	1	2	3	4	1	2	3	4	1	2	3	4	1	2	3	4	

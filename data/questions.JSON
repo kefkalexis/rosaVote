@@ -1,0 +1,919 @@
+[
+  {
+    "title": "Euro",
+    "question": "Deutschland soll den Euro als Währung behalten.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Der Euro stärkt die Wirtschaft und macht Deutschland international wettbewerbsfähiger. Beides sind zentrale Voraussetzungen für Millionen gut bezahlter Arbeitsplätze und unseren Wohlstand insgesamt. Der Euro schafft aber auch politische Stabilität, indem er Europa zur Geschlossenheit nach innen und zu gemeinsamen Positionen nach außen bringt. Der Euro ist deshalb mehr als eine Währung. Er ist ein großes Gemeinschaftsprojekt und für eine gute Zukunft Europas unverzichtbar.",
+       "SPD" : "Der Euro hat sich als stabile Währung bewährt und trägt maßgeblich zu Wohlstand, Wachstum und Arbeitsplätzen gerade auch in Deutschland bei. Wir wollen ihn in schwieriger Zeit  stärken. Wir wollen die Konstruktionsmängel in der Währungsunion dadurch beheben, dass wir eine besser koordinierte Wirtschaftspolitik der EU voranbringen. Nur mit einer starken gemeinsamen Währung kann sich Europa gegenüber internationalen Währungsspekulationen behaupten.",
+       "GRÜNE" : "Die Eurozone und Deutschland profitieren von der gemeinsamen Währung. Sie ist der sichtbarste Ausdruck für gelebte europäische Integration und trägt zur Zusammengehörigkeit in Europa bei. Um krisenfest zu sein, erfordert unsere gemeinsame Währung aber engere Zusammenarbeit in der Wirtschafts- und Finanzpolitik. Ein Zusammenbruch des Euros würde eine verheerende Krise auslösen, die Vermögen und Arbeitsplätze zerstören und die europäische Integration gefährden würde.",
+       "FDP" : "Der Euro hat für Deutschland viele Vorteile gebracht: Mit dem Euro ist Deutschland Exportweltmeister, hat so viele sozialversicherungspflichtige Beschäftigungsverhältnisse wie noch nie und Rekordsteuereinnahmen. Darüber hinaus ist der Euro längst ein Symbol der europäischen Einigung und Solidarität geworden.",
+       "LINKE" : "Auch wenn die Europäische Währungsunion große Konstruktionsfehler enthält, tritt DIE LINKE nicht für ein Ende des Euro ein. Voraussetzung für dessen Fortbestand ist, dass der Kurs der Austerität, der Kürzungspolitik, beendet wird. Es ist die Politik von Troika, Merkel & Co, die die Gemeinschaftswährung zerstört. Die Währungsunion muss vom Kopf auf die Füße gestellt und neu ausgerichtet werden, damit sie nicht die Spaltungen vertieft, sondern die Zusammenarbeit in Europa befördert.",
+       "PIRATEN" : "Die Europäische Union befindet sich noch immer in der schwersten Krise seit ihrer Gründung. Insbesondere in Südeuropa ist die Arbeitslosigkeit extrem hoch, die Staatsverschuldung in Kombination mit der Überschuldung vieler Banken weiterhin kritisch. Wir sind zu der Überzeugung gelangt: Um die Krise dauerhaft zu überwinden, müssen Geld- und Fiskalpolitik in der Eurozone koordiniert und im richtigen Mix eingesetzt werden. Eine gemeinsame Währung ist dabei förderlich."
+      }
+  },
+  {
+    "title": "EU-weite Bürgerentscheide",
+    "question": "Es sollen EU-weite gemeinsame Bürgerentscheide eingeführt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Es gibt bereits ein Verfahren für direkte Bürgerbeteiligung auf EU-Ebene. Mit der Europäischen Bürgerinitiative können eine Million EU-Bürger die Europäische Kommission auffordern, sich mit einem Thema zu befassen oder eine Gesetzesinitiative zu ergreifen. EU-weite Bürgerentscheide, die schwierige Sachverhalte auf Ja-Nein-Abstimmungen vereinfachen, lehnen wir ab.",
+       "SPD" : "Die SPD hat sich immer wieder dafür stark gemacht, mehr Möglichkeiten für direkte Bürgerbeteiligung an der deutschen und europäischen Politik zu schaffen. Auf Ebene der EU haben wir hierfür als ersten Schritt durchgesetzt, dass das Instrument einer Europäischen Bürgerinitiative eingeführt wird. Wir werden uns in Deutschland und Europa im Rahmen künftiger Reformschritte auch weiterhin für eine Stärkung direktdemokratischer Instrumente einsetzen.",
+       "GRÜNE" : "Je stärker die Europäische Union den Alltag der Bürgerinnen und Bürger prägt, desto mehr müssen diese Einfluss auf Entscheidungen nehmen und die EU mitgestalten können. Einen wichtigen ersten Schritt zu mehr direkter Demokratie hat der Vertrag von Lissabon eingeführt: Die Europäische Bürgerinitiative. Wir Grüne wollen sie zu einem wirksamen Instrument ausbauen, das europäische Fragen auch den Bürgerinnen und Bürgern der EU zur Abstimmung vorlegt.",
+       "FDP" : "Eine große Mehrheit der Deutschen will nicht nur auf Bundesebene, sondern auch auf europäischer Ebene mehr direkte Demokratie. Die FDP unterstützt diesen Wunsch. Die FDP bekennt sich zur repräsentativen Demokratie. Sie will diese jedoch um Elemente der direkten Demokratie bereichern. Der Bürger muss sich nicht nur in seinem unmittelbaren Umfeld stärker an Entscheidungen beteiligen können, sondern auch an Entscheidungen, die ihn direkt oder indirekt betreffen.",
+       "LINKE" : "EU-Politik greift tief in unser Leben ein. Wir wollen, dass die Menschen in der Europäischen Union an den Entscheidungen auf EU-Ebene beteiligt werden, die für sie bindend sind. Dazu sollen die Bürgerinnen und Bürger in der EU das Recht erhalten, über Volksentscheide konkrete EU-Politik mitzugestalten mittels Volksentscheid über die Änderung der EU-Verträge und eine Verfassung zu entscheiden.",
+       "PIRATEN" : "Europa soll demokratischer werden und Volksentscheide sind dabei für uns ein wichtiges Element. Wir streben einen gemeinsamen Standard für Bürgerinitiativen auf lokaler, regionaler, nationaler und europäischer Ebene an. Um den Bürgern mehr Einfluss zu geben, möchten wir, dass erfolgreiche Bürgerinitiativen durch ein anschließendes Referendum insbesondere auch Verfassungen und Gesetze ändern können, wenn dies nicht bereits durch den Gesetzgeber erfolgt."
+      }
+  },
+  {
+    "title": "Gentechnisch veränderte Pflanzen",
+    "question": "Der Anbau von gentechnisch veränderten Pflanzen soll in der Europäischen Union erlaubt sein.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 1,
+       "SPD" : 2,
+       "GRÜNE" : 2,
+       "FDP" : 0,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Über eine Anbauzulassung muss in jedem Einzelfall entschieden werden. Es darf kein Risiko für Gesundheit und Umwelt geben. Sicherheit und Unbedenklichkeit haben für uns absoluten Vorrang vor wirtschaftlichen Überlegungen.",
+       "SPD" : "Grundsätzlich gilt: Die SPD lehnt den Anbau von GVO-Pflanzen ab, denn die große Mehrheit der Bevölkerung will gentechnisch veränderte Pflanzen weder auf dem Acker noch im Essen.",
+       "GRÜNE" : "Gentechnisch veränderte Lebensmittel haben in der EU nichts verloren. Beim Anbau von veränderten Pflanzen machen deren Pollen nicht Halt am Feldrand und verbreiten sich unkontrolliert in wilden Populationen und andere Beständen. Damit kontaminiert die Gentechnikindustrie unsere Biodiversität und das Saatgut der Zukunft.",
+       "FDP" : "Die FDP ist grundsätzlich der grünen Gentechnik gegenüber positiv eingestellt, fordert aber vorher im Einzelfall eine mögliche Gesundheitsgefährdung durch die Europäische Behörde für Lebensmittelsicherheit zu prüfen.",
+       "LINKE" : "Gentechnisch veränderter Produkte sollen lückenlos gekennzeichnet und schließlich verboten werden. Dies gilt auch für Produkte von Tieren, die mit gentechnisch manipulierten Futtermitteln gemästet wurden. Der Grund ist ein einfacher: Die Risiken für Mensch und Natur überschreiten den vermeintlichen Nutzen bei weitem!",
+       "PIRATEN" : "Beeinträchtigungen der natürlichen Umwelt durch gentechnisch veränderte Freilandpflanzen sind nicht mehr umzukehren und unvermeidbar. Es ist erwiesen, dass die Erträge durch konventionelle  Zuchtverfahren stärker gesteigert werden konnten als durch die Gentechnik. Auch der Weltagrarbericht bestätigt dies regelmäßig. Niemand müsste hungern, wenn Ressourcen, Wissen und die Möglichkeiten, Lebensmittel zu erzeugen, gerecht verteilt würden."
+      }
+  },
+  {
+    "title": "Aufnahme von Flüchtlingen",
+    "question": "Die EU-Mitgliedsstaaten sollen mehr Flüchtlinge aufnehmen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Nach wie vor nimmt Deutschland mehr Flüchtlinge als die anderen Mitgliedstaaten auf und setzt bei der Flüchtlingshilfe Maßstäbe. Gleichzeitig sind die Staaten an den Außengrenzen der Europäischen Union mit einer zunehmenden Zahl von Flüchtlingen belastet. Auch in Zukunft werden wir Flüchtlingen helfen. Unser Ziel muss sein, dass sich Flüchtlinge gar nicht erst in eine lebensbedrohliche Situation begeben. Eine nachhaltige Asylpolitik setzt daher bei den Fluchtursachen an.",
+       "SPD" : "Europa darf nicht zulassen, dass an seinen Grenzen immer wieder Menschen sterben. Die Flüchtlingskatastrophe von Lampedusa hat uns deutlich gemacht: Wir brauchen eine  humanitäre Flüchtlingspolitik der EU. Und in diesem Rahmen auch eine gerechtere Verantwortungsteilung zwischen den Mitgliedstaaten.",
+       "GRÜNE" : "Die EU tut zu wenig für den Flüchtlingsschutz. Mehr als 2,5 Millionen Menschen sind vor dem Krieg in Syrien auf der Flucht. In den Nachbarländern Syriens sind die Flüchtlingslager völlig überfüllt. Allein der Libanon bietet fast einer Million Flüchtlingen Schutz. Dagegen haben alle 28 EU-Länder zusammen bisher nicht einmal 15.000 syrische Flüchtlinge über das Flüchtlingsaufnahme-Programm der Vereinten Nationen aufgenommen. Das ist ein Armutszeugnis für die EU.",
+       "FDP" : "Richtig ist: Im internationalen Vergleich nimmt die EU noch immer wenige Flüchtlinge auf. Insbesondere Anrainerstaaten von Krisenherden nehmen Hunderttausende Flüchtlinge auf. Daher muss die EU mehr Verantwortung übernehmen. Hierzu eignen sich auch Neuansiedlungsprogramme und gezielte Aufnahmen, wie z.B. von Flüchtlingen aus Syrien.",
+       "LINKE":"Wir stehen zum Grundrecht auf Asyl, wollen einen deutlich stärkeren Einsatz für Kriegsflüchtlinge, insbesondere aus dem Nahen Osten und Nordafrika. Wir fordern unbedingtes Bleiberecht und menschenwürdige Unterkünfte, soziale Absicherung und gleiche Rechte für alle Flüchtlinge.",
+       "PIRATEN" : "Zuflucht vor politischer Verfolgung und den Folgen von Krieg und Bürgerkrieg zu gewähren gehört zu den elementaren Verpflichtungen des Völkerrechts. Diese Pflicht ist eine europäische Gemeinschaftsaufgabe, für die wir uns einsetzen."
+      }
+  },
+  {
+    "title": "Mindestlohn",
+    "question": "Einführung eines EU-weiten Mindestlohns, dessen Höhe abhängig vom Durchschnittseinkommen im jeweiligen Mitgliedsstaat ist!",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Es gibt schon in fast allen EU-Staaten einen allgemeinen gesetzlichen Mindestlohn, deren Ausgestaltung jedoch in nationaler Verantwortung liegt. Alle Bürger sollen existenzsichernde Einkommen erzielen können. Deshalb haben wir Mindestlöhne in zahlreichen Branchen mit vier Millionen Beschäftigten geschaffen und im Koalitionsvertrag einen gesetzlichen Mindestlohn vereinbart. Dabei werden auch die Tarifpartner in die Pflicht genommen, die in einer Kommission den Mindestlohn regelmäßig überprüfen.",
+       "SPD" : "Um Lohn- und Sozialdumping zu bekämpfen und für faire Löhne in Europa zu sorgen, wollen wir Standards für existenzsichernde Mindestlöhne in allen EU-Staaten gemessen am jeweiligen Durchschnittseinkommen.",
+       "GRÜNE" : "Wir Grüne begrüßen, dass die Europäische Kommission unsere langjährige Forderung nach Mindestlöhnen in jedem EU-Mitgliedsstaat nun aufgreift. Das bedeutet keinen einheitlichen Mindestlohn in der ganzen EU, aber einen garantierten Mindestlohn in allen EU-Staaten anhand von Kriterien, auf die sich die EU vorab verständigt.",
+       "FDP" : "Ein allgemeiner, flächendeckender Mindestlohn führt regelmäßig zu höherer Jugendarbeitslosigkeit, denn pauschale Lohnfestsetzung durch die Politik wird der differenzierten Arbeitsmarktlage und den unterschiedlichen Lebenshaltungskosten in den Regionen nicht gerecht. Das gilt für Deutschland und noch viel mehr für Europa. Deshalb lehnen wir einen Einheitsmindestlohn ab, der verhindert, dass Menschen, insbesondere jüngere und geringqualifizierte, in den Arbeitsmarkt einsteigen können.",
+       "LINKE" : "Eine EU-weite Regelung zum Mindestlohn in Höhe von 60 Prozent des jeweiligen nationalen Durchschnittslohns wäre ebenso machbar wie ein großer Fortschritt im Kampf gegen Lohndumping in Europa. Der Mindestlohn könnte gesetzlich oder tarifvertraglich gewährleistet werden. Natürlich müsste er die Existenz der Menschen sichern. Profitieren würden vor allem Frauen, die überall weniger verdienen als Männer und besonders häufig von Altersarmut betroffen sind.",
+       "PIRATEN" : "Ein Mensch kann nur in Würde leben, wenn für seine Grundbedürfnisse gesorgt und ihm gesellschaftliche Teilhabe möglich ist. Bis zur Einführung eines bedingungslosen Grundeinkommens setzen wir uns europaweit für Mindestlöhne ein, welche den  Lohnwettbewerb eindämmen sollen, für menschenwürdige Arbeits- und Lebensverhältnisse sorgen und genauso wie das Grundeinkommen auch die Binnennachfrage steigern würden."
+      }
+  },
+  {
+    "title": "EU-Erweiterung",
+    "question": "Die Europäische Union soll keine neuen Mitgliedsstaaten aufnehmen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 1,
+       "SPD" : 1,
+       "GRÜNE" : 2,
+       "FDP" : 2,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Angesichts der noch nicht überwundenen Wirtschafts- und Finanzkrise muss in den nächsten Jahren die Festigung der EU Vorrang vor weiteren Erweiterungen haben. Allerdings muss die EU grundsätzlich für europäische Staaten offen bleiben. Entscheidend sind zum einen die Beitrittsfähigkeit der Kandidaten und zum anderen die Aufnahmefähigkeit der Europäischen Union. Wir stehen zur Beitrittsperspektive der Staaten des westlichen Balkans zur EU.",
+       "SPD" : "Die Kooperations- und Erweiterungspolitik der EU hat sich als Friedenspolitik bewährt. Wir wollen, dass die EU ihre Türen für neue Mitglieder offenhält, wenn diese vor dem Beitritt alle erforderlichen Kriterien erfüllen. Nach dem Beitritt Kroatiens im letzten Jahr wird es aber auf absehbare Zeit zu keinen weiteren EU-Beitritten kommen. Wichtig ist, dass die EU auch ihre eigene Aufnahmefähigkeit sicherstellt.",
+       "GRÜNE" : "Wir wollen unter den notwendigen Voraussetzungen die Balkanstaaten Bosnien, Mazedonien, Serbien, Montenegro, Kosovo und Albanien aufnehmen. Hier steht die EU im Wort, denn dies haben die Staats- und Regierungschefs diesen Staaten 2003 versprochen. Jeder dieser Staaten sollte nach einem transparenten, offenen und fairen Prozess das Recht haben beizutreten. Wir halten auch an einer Beitrittsperspektive für die Türkei und die übrigen europäischen Länder fest.",
+       "FDP" : "Wir wollen den Weg der Erweiterung der Europäischen Union verantwortungsvoll weitergehen, weil wir keinem Nachbarn, der unsere Werte teilt, eine Absage erteilen werden. Dazu müssen nicht nur die Beitrittskandidaten die in den Europäischen Verträgen vorgesehenen Bedingungen dauerhaft erfüllen. Auch die Europäische Union selbst muss aufnahmefähig sein. Für alle weiteren Erweiterungsschritte gilt: Rabatte bei der Erfüllung der Kriterien wie in der Vergangenheit darf es nicht geben.",
+       "LINKE" : "Der Beitritt neuer Mitgliedsstaaten muss zwingend zu einer Hebung sozialer und ökologischer Standards und einer Verbesserung dortiger Lebensverhältnisse führen. Weitere wichtige Bedingungen sind für uns eine demokratische Regierungsform, die Gewährleistung und Durchsetzung der Menschenrechte, die Achtung und der Schutz von Minderheiten, Religionsfreiheit für alle und Rechtsstaatlichkeit.",
+       "PIRATEN" : "Wir PIRATEN streben für die Zukunft Europas einen offenen Prozess an, der von den Bürgerinnen und Bürgern Europas gemeinsam getragen wird. Die EU-Standards (Kopenhagener Kriterien) müssten im Rahmen möglicher Beitrittsverhandlungen erfüllt werden. Das gilt besonders in Bezug auf demokratische und rechtsstaatliche Ordnung,  Menschenrechte, Minderheitenschutz und Religionsfreiheit. Jedes Land muss dabei gleichbehandelt werden."
+      }
+  },
+  {
+    "title": "Ökologische Tierhaltung",
+    "question": "Die Europäische Union soll ausschließlich ökologische Tierhaltung fördern.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 2,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 1,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Der CDU kommt es darauf an, dass die Tiere vernünftig und artgerecht gehalten werden und der Tierschutz gewährleistet ist. Das gilt für die konventionelle wie für die ökologische Tierhaltung gleichermaßen. Deshalb setzen wir auf positive Anreize für mehr Tierschutz für alle europäischen Landwirte, auf Forschungsförderung und eine EU-einheitliche Weiterentwicklung der Tierschutzstandards für alle Haltungsformen.",
+       "SPD" : "Die Förderung der ökologischen Tierhaltung ist überaus wichtig, sollte aber nicht der alleinige Fokus sein. Gefördert werden soll auch der Umbau und Neubau zu artgerechten Ställen. Denn: Die Tierhaltung soll sich den Tieren anpassen und nicht umgekehrt.",
+       "GRÜNE" : "Wir Grüne wollen die Massentierhaltung beenden und artgerechte Haltung sicherstellen. Aber auch artgerechte Tierhaltungssysteme, die nicht den ökologischen Richtlinien unterliegen, haben ihre Berechtigung, weil sie den Tierschutz voranbringen. Damit die Verbraucherinnen und Verbraucher eine Wahlfreiheit erhalten, fordern wir eine Kennzeichnung der Tierhaltungsform auf Lebensmitteln.",
+       "FDP" : "Nicht alle Familien können durchgehend Bio-Produkte kaufen, da diese oft sehr teuer sind. Die FDP vertritt zudem die Meinung, dass die Ernährungssicherheit allein mit der ökologischen Tierhaltung nicht gewährleistet wäre.",
+       "LINKE" : "Wir treten dafür ein, dass die umweltgerechte Landwirtschaft nach sozial-ökologischen Kriterien und durch Unterstützung regionaler Verarbeitungs- und Vermarktungsstrukturen gefördert wird. Wichtig sind uns die Erhaltung der biologischen Vielfalt in der Natur sowie die Arten-, Rassen- und Sortenvielfalt in der Agrarwirtschaft. Den Einsatz von Mineraldüngern und Pestiziden wollen wir verringern.",
+       "PIRATEN" : "Wir setzen uns dafür ein, dass keine öffentlichen Gelder in Form von Agrarsubventionen ohne Gegenleistung in den Bereichen Klima, Umwelt, Natur sowie Tier- und Artenschutz vergeben werden. Wir lehnen industrielle Massentierhaltung ab, weil diese die Lebensqualität in den ländlichen Räumen beeinträchtigt und mit inakzeptablen Standards in der Nutztierhaltung einhergeht. Traditionelle bäuerliche Landwirtschaft ist gefährdet. Artgerechte Haltungsform aller Nutztiere ist unser Ziel."
+      }
+  },
+  {
+    "title": "Asyl für Snowden",
+    "question": "Edward Snowden soll in einem EU-Mitgliedsstaat Asyl gewährt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 1,
+       "GRÜNE" : 0,
+       "FDP" : 1,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Die Voraussetzung dafür, dass Edward Snowden in Deutschland politisches Asyl bekommen könnte, liegt nicht vor.",
+       "SPD" : "Bei einem Asylantrag ist grundsätzlich zunächst zu prüfen, ob Edward Snowden politisch verfolgt wird. Unabhängig davon ist es ein großes Verdienst von Edward Snowden, dass er eine breite gesellschaftliche Debatte über schrankenlose staatliche Überwachung ausgelöst hat.",
+       "GRÜNE" : "Edward Snowden hat uns die Augen geöffnet für die Tätigkeiten amerikanischer und europäischer Geheimdienste. Dafür verdient er unseren Dank und Schutz. Er hat sich in den USA an die Regeln gehalten und zunächst versucht, die Probleme intern zu melden - ohne Erfolg. Erst dann ist er auf Journalisten zugegangen. Verantwortungsvoller kann man solche Enthüllungen nicht machen. Nicht der Schutz für Snowden in der EU würde die Beziehungen belasten, sondern sie sind wegen der Massenüberwachung getrübt!",
+       "FDP" : "Voraussetzung für die Gewährung von Asyl ist, dass die Person politisch verfolgt wird. Dies ist bei Edward Snowden nicht der Fall. Gleichzeitig unterstützt die FDP die Schaffung eines Schutzprogrammes für Whistleblower wie Edward Snowden und fordert einen europäischen Schutzstatus, den auch Edward Snowden erhalten könnte.",
+       "LINKE" : "Edward Snowden hat der Welt die illegale und kriminelle Praxis des US-amerikanischen Geheimdienstes NSA vor Augen geführt. DIE LINKE fordert für Edward Snowden Asyl in Deutschland und eine lückenlose Aufklärung des Abhörskandals. Zudem schlagen wir Edward Snowden für seinen Einsatz im Namen von Demokratie und Transparenz für den Friedensnobelpreis vor. Grundsätzlich wollen wir Whistleblower gesetzlich und vor Auslieferung schützen.",
+       "PIRATEN" : "In Anbetracht der Enthüllungen der Aktivitäten britischer und amerikanischer Geheimdienste durch den amerikanischen Whistleblower Edward Snowden fordern wir die deutsche Bundesregierung sowie jeden anderen demokratischen Staat dazu auf, Edward Snowden politisches Asyl und Schutz vor der Verfolgung durch die amerikanische Regierung anzubieten."
+      }
+  },
+  {
+    "title": "Sozialleistungen",
+    "question": "EU-Bürger sollen Sozialleistungen nur von ihrem Heimatland empfangen können.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 1,
+       "SPD" : 2,
+       "GRÜNE" : 2,
+       "FDP" : 1,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Grundsätzlich kann jeder EU-Bürger Sozialleistungen von der Sozialversicherung in Europa beziehen, in die er auch einbezahlt hat. Zur Förderung der Arbeitnehmerfreizügigkeit gibt es dabei mittlerweile Regelungen, die eine (Teil-) Übertragung von Ansprüchen ermöglichen. Bei Transferleistungen wie Hartz IV müssen pragmatische Wege gefunden werden, die geltendes EU-Recht beachten und eine Zuwanderung in die Sozialsysteme verhindern helfen.",
+       "SPD" : "Dies widerspricht dem europäischen Recht und der Freizügigkeit innerhalb der EU. Allerdings ist der Erhalt von Sozialleistungen durch EU-Bürger an bestimmte rechtliche Voraussetzungen gebunden. Zugleich sind wirksame Maßnahmen gegen Sozialtourismus und den Missbrauch von Sozialleistungen erforderlich.",
+       "GRÜNE" : "Nach EU-Regeln haben Menschen dort ein Anrecht auf Sozialleistungen, wo sie arbeiten. Das steht auch Menschen aus anderen EU-Ländern zu. Aber natürlich gibt es kein Anrecht auf Sozialleistungen durch einen einfachen Umzug innerhalb der EU. Kommunen, die besonders von der Zuwanderung durch Niedrigqualifizierte betroffen sind, benötigen Hilfen vom Bund, um die neuen Zuwanderinnen und Zuwanderer menschenwürdig aufnehmen zu können.",
+       "FDP" : "Bürger sollten aus dem Land Sozialleistungen erhalten, in dem sie eingezahlt  haben. Wurde in kein Sozialsystem eingezahlt, ist der Heimatstaat verantwortlich. Da die Mobilität innerhalb der EU steigt, will die FDP erreichen, dass erworbene Sozialversicherungsansprüche unbürokratischer 'mitgenommen' werden können.",
+       "LINKE" : "Alle Bürgerinnen und Bürger in der EU sollen unabhängig von der Erwerbsbiografie, Herkunft oder Nationalität sowie dem Vorliegen einer Behinderung Anspruch auf soziale Mindestsicherung an ihrem Wohnort haben. Nicht Armutszuwanderung, sondern Reichtumsflucht (Steuerhinterziehung, - vermeidung und -flucht) ist das Problem vieler Mitgliedstaaten. Wir wenden uns gegen die Stimmungsmache über angeblichen Sozialbetrug, mit der Rassismus und Feindseligkeiten in der Gesellschaft geschürt werden.",
+       "PIRATEN" : "Die europaweite Übertragbarkeit von Sozial- und Rentenleistungen soll gefördert werden. Diskriminierungsmaßnahmen jeder Art stellen unnötige und unangemessene Hürden für die Menschen dar und behindern die Entwicklung der Wirtschaft."
+      }
+  },
+  {
+    "title": "Finanztransaktionssteuer",
+    "question": "Einführung einer Steuer auf den Handel mit Finanzprodukten!",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir wollen europa- und weltweit eine Finanztransaktionssteuer durchsetzen. Bei der Ausgestaltung der Steuer wollen wir vermeiden, dass Anleger an andere Finanzplätze ausweichen. Es gilt, die Auswirkungen der Steuer auf Instrumente der Altersversorgung, auf die Kleinanleger sowie die Realwirtschaft zu bewerten und negative Folgen zu vermeiden. Bei der Umsetzung werden wir darauf achten, dass Wettbewerbsverzerrungen vermieden und die Interessen des Finanzplatzes Deutschlands gewahrt bleiben.",
+       "SPD" : "Wir wollen eine Finanztransaktionssteuer in Europa. Wir haben gegen Widerstände von Konservativen und Liberalen durchgesetzt, dass diese Steuer jetzt immerhin von einer Gruppe europäischer Staaten eingeführt wird. Die Finanztransaktionssteuer ist wirtschaftlich vernünftig, weil so exzessive Spekulation auf den Finanzmärkten eingedämmt werden kann. Und sie ist sozial gerecht, indem sie die Spekulanten auf den Finanzmärkten zur Bewältigung der Krisenkosten heranzieht.",
+       "GRÜNE" : "Wir kämpfen für eine EU-weite Finanztransaktionsteuer, die alle Arten von Finanztransaktionen umfasst. Sie soll Spekulationen eindämmen und stabilisierend auf die Finanzmärkte wirken. Die Finanzindustrie wird durch die Steuer an den Kosten der Finanzkrise beteiligt. Die Einnahmen in Milliardenhöhe sollen dem EU-Haushalt zugeführt werden, der damit entscheidende Zukunftsinvestitionen in globale öffentliche Güter ermöglichen kann.",
+       "FDP" : "Eine solche Finanztransaktionssteuer würde als indirekte Steuer an Verbraucher und Unternehmen weitergegeben werden und darüber hinaus die Kosten für die Altersversorge in die Höhe treiben.",
+       "LINKE" : "Finanzspekulationen gefährden die ökonomische Stabilität und die Demokratie. Dem lässt sich mittels einer Steuer auf den Handel mit Finanzprodukten gegensteuern. Wir fordern einen Steuersatz von mindestens 0,1 Prozent. Damit würde Deutschland 30 Milliarden Euro im Jahr einnehmen. Dieses Geld wollen wir für eine nachhaltige Entwicklung in den Ländern des Südens, den globalen Klimaschutz sowie für den sozial-ökologischen Umbau unserer Industriegesellschaft nutzen.",
+       "PIRATEN" : "Die Piratenpartei setzt sich dafür ein, dass eine Finanztransaktionssteuer eingeführt wird. Die Ausschüttung der Steuermehreinnahmen erfolgt in Form eines Sockeleinkommens."
+      }
+  },
+  {
+    "title": "Christliche Wertegemeinschaft",
+    "question": "Die Europäische Union soll sich als christliche Wertegemeinschaft verstehen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 1,
+       "GRÜNE" : 2,
+       "FDP" : 2,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Die CDU setzt sich dafür ein, dass bei Entscheidungen in der EU das kulturelle, religiöse und humanistische Erbe Europas berücksichtigt wird. Allerdings wissen wir auch um die Vielfalt in der EU. Dies betrifft einerseits die unterschiedlichen religiösen Prägungen, andererseits die unterschiedlichen Beziehungen zwischen Kirche und Staat in den EU-Mitgliedsländern.",
+       "SPD" : "Die EU beruht auf den Werten der Freiheit, Demokratie, Gleichheit und Solidarität, den Menschenrechten sowie auch der kulturellen Offenheit. Religionen haben in den Gesellschaften Europas einen wichtigen Platz. Gerade auch das Christentum spielt eine prägende gesellschaftliche Rolle in Europa. Für uns ist die EU aber vor allem eine demokratische Wertegemeinschaft.",
+       "GRÜNE" : "Die EU ist religiös und weltanschaulich plural. Die christlichen Wurzeln im modernen Europa lassen sich kaum bestreiten, dürfen allerdings nicht mit der Verteidigung einer christlichen 'Leitkultur' verwechselt werden. Die Achtung der Menschenwürde, Freiheit, Demokratie, Gleichheit, Rechtsstaatlichkeit und die Wahrung der Menschenrechte sind Werte aller Mitgliedstaaten unserer Gesellschaft. Sie zeichnen sich durch Pluralismus, Toleranz, Gerechtigkeit, Solidarität und Nichtdiskriminierung aus.",
+       "FDP" : "Die EU ist eine politische Gemeinschaft. Die christlichen Wertvorstellungen haben das europäische Werteempfinden maßgeblich geprägt. Die Grundlage des europäischen Wertverständnisses sollten aber dennoch die Charta der Grundrechte der Europäischen Union und die Europäische Menschenrechtskonvention bilden. Denn die EU soll politische Heimat für alle Menschen unabhängig von ihren religiösen Überzeugungen sein.",
+       "LINKE" : "Die EU ist durch das Zusammenleben ganz unterschiedlicher Menschen geprägt, die je nach Herkunft und Kulturkreis eine allgemeine Weltanschauung, einen Glauben oder auch eine sehr persönliche Sicht der Dinge haben. Eine wichtige Voraussetzung dieser Vielfalt ist die Freiheit des Glaubens und Nicht-Glaubens. Diese ist nur möglich, wenn sich die einzelnen Staaten wie die EU insgesamt in Glaubensfragen neutral verhalten und jeden Eindruck der Bevorzugung einer Religion vermeiden.",
+       "PIRATEN" : "Freiheit und Vielfalt der kulturellen, religiösen und weltanschaulichen Einstellungen kennzeichnen die modernen Gesellschaften. In der Europäischen Union leben Menschen mit vielen verschiedenen Religionen und Weltanschauungen. Diese Heterogenität ist ein Reichtum, den wir würdigen und unterstützen. Wir erkennen und achten die Bedeutung, die individuell gelebte Religiosität für den einzelnen Menschen erlangen kann."
+      }
+  },
+  {
+    "title": "Abbau der Agrarsubventionen",
+    "question": "Die Europäische Union soll die finanzielle Unterstützung der Landwirtschaft deutlich verringern.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 1,
+       "FDP" : 1,
+       "LINKE" : 2,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Die CDU will keine industrielle Landwirtschaft, sondern eine bäuerlich nachhaltige, die die Kulturlandschaft pflegt und ein Gewinn für Umwelt und Gesellschaft ist. Ihre Leistungen werden aber nicht alle über den Markt und die Lebensmittelpreise abgegolten. Deshalb stehen wir zur Unterstützung der Landwirtschaft. Die Direktzahlungen für die Landwirtschaft haben wir an strenge Umweltauflagen gebunden und fördern z. B. Investitionen in Tierschutz. Schädliche Exportsubventionen haben wir abgeschafft.",
+       "SPD" : "Wir wollen, dass Investitionen in Wachstum, Beschäftigung, Innovation, Forschung und Bildung schrittweise ein immer stärkeres Gewicht im europäischen Haushalt erhalten. Nur wenn Europa in die Zukunft investiert kommt es aus der Krise und kann sich eine gute Zukunft erarbeiten. Die Unterstützung der Landwirtschaft bleibt dennoch wichtig, weil diese eine unverzichtbare Rolle für sichere, gute Ernährung ebenso wie für die ökologische Entwicklung des ländlichen Raumes hat.",
+       "GRÜNE" : "Für die Gemeinsame Agrarpolitik wird eine Menge Geld ausgegeben - aber es mangelt noch immer an politischem Willen, dieses Geld sinnvoll und fair zu verteilen. Wir fordern den Subventions-Stopp für umweltschädigende Landwirtschaft und für Massentierhaltung und eine Umverteilung der Gelder zu Gunsten grüner Haushaltsprioritäten. Wir wollen das Recht auf gute und sichere Ernährung für alle durchsetzen. Eine faire Landwirtschaftspolitik bedeutet auch, Exportsubventionen endgültig zu streichen.",
+       "FDP" : "Die FDP unterstützt zwar, dass die Direktzahlungen langfristig und stufenweise abgebaut werden, jedoch sind hierfür noch weitere Maßnahmen notwendig, damit landwirtschaftliche Betriebe eine entsprechendes Einkommen am Markt erzielen können. Zudem sind die Agrarmittel untrennbar verbunden mit der Entwicklung des ländlichen Raumes, der auch weiterhin noch viele Mittel binden wird.",
+       "LINKE" : "DIE LINKE will die Gemeinsame Agrarpolitik (GAP), die die Ernährungsgrundlage für die 500 Millionen Bürgerinnen und Bürger der EU maßgeblich bestimmt, unter Berücksichtigung der weltweiten Probleme - Armut, Hunger, Ressourcenknappheit und Klimawandel - zu einer aktiven zukunftsorientierten Politik weiterentwickeln. Sie muss zur Lösung der wirtschaftlichen, sozialen und ökologischen Probleme und verbesserter Teilhabe der Menschen innerhalb und außerhalb der EU beitragen.",
+       "PIRATEN" : "Wir setzen uns dafür ein, dass künftig keine öffentlichen Gelder in Form von Agrarsubventionen ohne Gegenleistung in den Bereichen Klima, Umwelt, Natur sowie Tier- und Artenschutz vergeben werden. Langfristiges Ziel ist ein Abbau der Agrarsubventionen. Um die landwirtschaftlichen Betriebe vor den Folgen des plötzlichen Wegfalls der Subventionen zu schützen, sollen diese in der Übergangsphase degressiv ausgerichtet und ab einer zu bestimmenden einzelbetrieblichen Auszahlungshöhe gekappt werden."
+      }
+  },
+  {
+    "title": "Frauenquote",
+    "question": "In der Europäischen Union: Einführung einer verbindlichen Frauenquote in den Aufsichtsräten börsennotierter Unternehmen!",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 1
+       }, 
+    "comments":
+      {
+       "CDU" : "In Deutschland haben wir uns dafür ausgesprochen, eine verbindliche Quote für große börsennotierte Unternehmen einzuführen. Für alle börsennotierten - also auch die kleineren Unternehmen - lehnen wir eine europaweite, verbindliche Quote allerdings ab.",
+       "SPD" : "Wir setzen eine Frauenquote in Deutschland um und unterstützen sie auch auf Ebene der EU.  Eine möglichst verbindliche Frauenquote ist ein Beitrag zur Gleichstellung und sorgt für mehr Gerechtigkeit zwischen den Geschlechtern. Noch immer sind deutlich weniger Frauen in den Führungsetagen der Unternehmen vertreten als Männer.",
+       "GRÜNE" : "Ohne verbindliche Frauenquote geht es nicht! 12 Jahre freiwilliger Selbstverpflichtungen der Unternehmen haben nichts gebracht. In den Chefetagen der börsennotierten Unternehmen haben noch immer Männer das Sagen. Der Frauenanteil liegt bei schmalen 17 Prozent, obwohl die Hälfte aller HochschulabsolventInnen weiblich ist. Das wollen wir Grüne ändern.",
+       "FDP" : "Eingriffe in Eigentümer- und Aktionärsrechte, beispielsweise durch Vorgabe bestimmter Quoten bei der Besetzung von Aufsichtspositionen,  lehnen wir ab. Nicht Geschlecht, Herkunft oder Religion sollen entscheiden, ob jemand Karriere macht, sondern allein die Leistung.",
+       "LINKE" : "Die Einführung einer verbindlichen Frauenquote in den Führungsetagen von Unternehmen ist ein Schritt, der zu mehr Gleichberechtigung zwischen Männern und Frauen im Arbeitsleben führen würde. Aber dabei kann es dann nicht bleiben: Eine grundlegend andere Arbeitsmarkt- und Familienpolitik ist nötig. Frauen sind auf allen Hierarchieebenen der Arbeitswelt - also nicht nur in den obersten Führungsetagen - unterrepräsentiert und erhalten einen deutlich geringeren Verdienst.",
+       "PIRATEN" : "Zur Frage nach einer möglichen Frauenquote gibt es  entgegen der verbreiteten Fehldarstellung, die Piratenpartei sei dagegen  noch keinen Beschluss. Wir sind eine basisdemokratische Partei und zu dem Thema gibt es noch hitzige Debatten. Nicht zuletzt braucht es einen breiten gesellschaftlichen Wandel: Geschlechterstereotype müssen abgebaut werden. Eine langfristige Verbesserung wird es nur geben, wenn es auch einen gesellschaftlichen Wandel der Rollenbilder gibt."
+      }
+  },
+  {
+    "title": "Europaarmee",
+    "question": "Die EU-Mitgliedsstaaten sollen eine gemeinsame Armee schaffen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 2,
+       "FDP" : 0,
+       "LINKE": 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Langfristig streben wir eine europäische Armee an. Wir wollen die Gemeinsame Sicherheits- und Verteidigungspolitik Schritt für Schritt zu einer gemeinsamen Verteidigung der EU ausbauen. So wollen wir die militärischen Fähigkeiten der EU stärken und dabei zugleich eng mit der NATO zusammenarbeiten. Nur gemeinsam können wir erfolgreich unsere Werte und Interessen in der Welt verteidigen und durchsetzen.",
+       "SPD" : "Zivile und diplomatische Mittel der Konfliktprävention haben für uns immer Vorrang. Eine europäische Armee ist für uns eine langfristige Perspektive. Indem Kapazitäten europäisch zusammengelegt werden, entstehen auch Spielräume für geringere Rüstungsausgaben. Der Einsatz einer europäischen Armee muss parlamentarisch legitimiert sein.",
+       "GRÜNE" : "Für uns Grüne erfordert die Schaffung einer gemeinsamen Armee bestimmte Voraussetzungen. Die Verträge müssten so geändert werden, dass das EU-Parlament über Einsätze mitentscheidet. Zudem müssten die Aufgaben dieser Armee definiert sein. Für uns sind zentral: Frieden schaffen und stabilisieren mit einem Mandat des UN-Sicherheitsrates. Eine europäische Armee kann aus unserer Sicht über keine Nuklearwaffen verfügen.",
+       "FDP" : "Europas Staaten haben zusammen mehr Soldaten als die USA - das ist absurd.  Die Aufrechterhaltung nationaler Armeen in der jetzt bestehenden Größenordnung führt zu erheblicher Verschwendung von Steuermitteln sowie Mehrfachstrukturen bei der militärischen Organisation, Rüstungsentwicklung und Rüstungsbeschaffung. Liberale wollen diese Zersplitterung überwinden.",
+       "PIRATEN" : "Da die derzeitigen Strukturen der EU weit von einer angemessenen demokratischen Einflussmöglichkeit entfernt sind, sind wir PIRATEN derzeit gegen eine aktive Gemeinsame Sicherheits- und Verteidigungspolitik (GSVP), insbesondere was den Einsatz von bewaffneten Kräften im Ausland betrifft. Wir sind davon überzeugt, dass ein Bundestagsbeschluss als notwendige Bedingung für Einsätze von Bundeswehrsoldaten im Ausland keinesfalls wegfallen darf.",
+       "LINKE": "DIE LINKE kämpft gemeinsam mit der Friedensbewegung gegen die Militarisierung der EU. Sie setzt darauf, Auslandseinsätze zu beenden und Rüstungsproduktion und -exporte zu verbieten. Statt auf einen weiteren Ausbau einer Militärmacht EU setzen wir auf eine friedliche und zivile EU."
+
+      }
+  },
+  {
+    "title": "Direktwahl des Kommissionspräsidenten",
+    "question": "Der Präsident der Europäischen Kommission soll von den Bürgerinnen und Bürgern der Europäischen Union direkt gewählt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 2,
+       "FDP" : 0,
+       "LINKE" : 2,
+       "PIRATEN" : 1
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir wollen, dass die Europäische Union ein Gesicht und eine Stimme bekommt. Deshalb soll der Präsident der Europäischen Kommission künftig von allen EU-Bürgern direkt gewählt werden. Die übrigen Mitglieder müssen sich auch weiterhin einem gemeinsamen Zustimmungsvotum des Europäischen Parlaments stellen.",
+       "SPD" : "Die europäischen Parteien haben bei dieser Europawahl erstmals EU-weite Spitzenkandidaten aufgestellt. Nach dem  neuen EU-Vertrag wählt das Parlament mit Mehrheit den Kommissionspräsidenten. Erstmals hängt die Entscheidung über den Kommissionspräsidenten vom Wahlergebnis bei der Europawahl ab. Der neue EU-Kommissionspräsident wird somit eine direkte demokratische Legitimation haben. Die europäischen Sozialdemokraten haben diese demokratische Innovation von Beginn an unterstützt.",
+       "GRÜNE" : "Die europäische Demokratie ist nach unserer Auffassung eine parlamentarische Demokratie und das Parlament soll auch in Zukunft den Kommissionspräsidenten wählen. Wir Grüne haben uns erfolgreich dafür eingesetzt, dass alle europäischen Parteien mit SpitzenkandidatInnen antreten, damit die Bürgerinnen und Bürger über die Personalie der nächsten Kommissionspräsidentin oder des nächsten Kommissionspräsidenten mitbestimmen können.",
+       "FDP" : "Eine Direktwahl des Kommissionspräsidenten wäre allerdings nur dann sinnvoll, wenn die Positionen des Kommissionspräsidenten und Ratspräsidenten miteinander verschmolzen würden. Momentan gibt es zwei Präsidenten der Europäischen Union. Würde nur das Amt des Präsidenten der Europäischen Kommission direkt gewählt, ist die Wahrscheinlichkeit, dass die Bürgerinnen und Bürger enttäuscht werden, sehr groß.",
+       "LINKE" : "Eine Direktwahl würde den Mangel an Demokratie in der EU nicht beheben. Wir wollen, dass die Menschen in der Europäischen Union das Recht erhalten, über Volksentscheide konkrete EU-Politik mitzugestalten, mittels Volksentscheid über die Änderung der EU-Verträge und eine Verfassung zu entscheiden. DIE LINKE kämpft für das Recht des EU-Parlaments, die Kommission und deren Präsidenten vorzuschlagen und zu wählen.",
+       "PIRATEN" : "Das direkt von den Bürgern gewählte europäische Parlament soll gemeinsam mit einer zweiten Kammer, in der die föderalen Elemente ihre Interessen vertreten können, die Kompetenzen auf gesetzgeberischer Ebene, bei der Wahl einer europäischen Regierung und der Kontrolle wichtiger Staatsorgane erhalten. Das europäische Parlament soll eine Regierung wählen. Im verfassungsgebenden Prozess soll diskutiert und entschieden werden, nach welchem Modell der Regierungschef gewählt wird."
+      }
+  },
+  {
+    "title": "Gleichgeschlechtliche Ehen",
+    "question": "In der Europäischen Union geschlossene gleichgeschlechtliche Ehen sollen von allen Mitgliedsstaaten anerkannt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 1,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Für die CDU gilt der Grundsatz, dass Ehe und Familie auch zukünftig geschützt sind und besonders gefördert werden. Uns geht es dabei nicht darum, gleichgeschlechtliche Lebenspartnerschaften zu diskriminieren oder gar auszugrenzen. Wir haben Respekt auch vor diesen Lebensgemeinschaften, wo ebenfalls Verantwortung und Sorge füreinander gelebt werden. Eine Öffnung der Ehe für gleichgeschlechtliche Paare in Deutschland lehnen wir ab.",
+       "SPD" : "Das Recht auf die Ausübung der Reise- und Niederlassungsfreiheit in der Europäischen Union (die Freizügigkeit) muss für alle gelten. Die Nichtanerkennung gleichgeschlechtlicher Ehen zwischen den Mitgliedstaaten führt aber leider immer noch dazu, dass gleichgeschlechtliche Ehepaare diskriminiert werden.",
+       "GRÜNE" : "Gleiche Liebe verdient gleichen Respekt und gleiche Rechte. Es ist ein Gewinn für unsere Gesellschaft insgesamt, wenn Menschen füreinander Verantwortung übernehmen. Wir Grüne wollen die Gleichstellung vollenden und die Ehe für lesbische und schwule Paare öffnen. Wir fordern, dass in allen Mitgliedstaaten gleichgeschlechtliche Partnerschaften anerkannt werden. Eine in einem Mitgliedsstaat geschlossene Partnerschaft, muss in der gesamten EU anerkannt werden.",
+       "FDP" : "Als ersten Schritt dazu wollen wir den rechtlichen Rahmen für gleichgeschlechtliche Partnerschaften und binationale Ehen sowie das Erb- und Sorgerecht vereinfachen.",
+       "LINKE" : "Wir treten für die EU-weite Anerkennung eingetragener Partnerschaften und gleichgeschlechtlicher Ehen ein. Darüber hinaus setzen wir uns für die vollständige Gleichstellung nicht-heterosexueller Partnerschaften in sämtlichen Rechtsbereichen ein. Heute stehen gleiche Pflichten nicht gleichen Rechten gegenüber, etwa im Steuerrecht und im Adoptionsrecht werden gleichgeschlechtliche Paare diskriminiert. Diese Ungleichbehandlung ist verfassungswidrig.",
+       "PIRATEN" : "Politik muss der Vielfalt der Lebensentwürfe gerecht werden und eine wirklich freie Entscheidung für die individuell gewünschte Form des Zusammenlebens ermöglichen. Die Piraten setzen sich für die vollständige rechtliche Gleichstellung sämtlicher, auch gleichgeschlechtlicher, Partnerschaften ein."
+      }
+  },
+  {
+    "title": "Schutzzölle",
+    "question": "Die Europäische Union soll zum Schutz heimischer Produkte verstärkt Zölle erheben.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 2,
+       "GRÜNE" : 2,
+       "FDP" : 2,
+       "LINKE" : 2,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir setzen uns für fairen Wettbewerb und Freihandel ein, da diese gerade für die Exportnation Deutschland Beschäftigung und Wohlstand fördern. Schutzzölle wirken dem entgegen. Wir wollen diese daher weltweit weiter ab- und nicht ausbauen.",
+       "SPD" : "Wir unterstützen einen freien, fairen Handel, weil dieser bester Garant für Wohlstandsgewinne ist und gerade Deutschland hiervon besonders profitiert.",
+       "GRÜNE" : "Europäische Produkte sind sehr wettbewerbsfähig auf dem Weltmarkt. Dagegen haben es viele Entwicklungsländer schwer, ihre Produkte zu verkaufen. Entwicklungsländer sollten demnach einen besseren Zugang zum europäischen Markt erhalten. Außerdem sollte die EU-Zollpolitik Anreize liefern, dass nicht nur Rohstoffe und landwirtschaftliche Produkte exportiert werden, sondern die Kapazitäten zur Weiterverarbeitung in Entwicklungsländern gestärkt werden.",
+       "FDP" : "Argument: Eine Anhebung von Zöllen an den EU-Außengrenzen oder andere Handelshemmnisse würden zu steigenden Preisen für Verbraucher und Unternehmen führen.  Diese protektionistischen Maßnahmen ziehen zudem entsprechende Reaktionen unserer Handelspartner nach sich, was gerade für die exportorientierte deutsche Wirtschaft gravierende Folgen hätte. Schutzzölle sind nur in Ausnahmefällen angebracht, wenn z.B. die Exporte im Ursprungsland erwiesenermaßen illegal subventioniert wurden.",
+       "LINKE" : "Schutzzölle treffen vor allem Entwicklungsländer hart und konterkarieren die Bemühungen der Entwicklungshilfe. So erleiden die Entwicklungsländer durch den EU-Protektionismus ein Vielfaches an Schaden dessen, was sie durch die die Entwicklungszusammenarbeit erhalten. Wir setzen uns daher für die  Aufhebung der Schutzzölle ein.",
+       "PIRATEN" : "Es ist uns wichtig, dass soziale und ökologische Standards nicht dadurch unterminiert werden, dass Importprodukte, die ohne Berücksichtigung solcher Standards hergestellt wurden, die Europäische Wirtschaft unter Druck setzen. Mindeststandards sind festzulegen, deren Verletzung zur Erhebung von Strafzöllen und anderen Anti-Dumping-Maßnahmen berechtigt. Sonderregelungen mit Entwicklungsländern, die deren wirtschaftliche und strukturelle Schwäche berücksichtigen, müssen gewährt werden."
+      }
+  },
+  {
+    "title": "CO2-Ausstoß",
+    "question": "Die Europäische Union soll sich höhere Ziele zur Reduzierung des CO2-Ausstoßes setzen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir setzen uns weiterhin für eine europäische Führungsrolle im weltweiten Klimaschutz ein. Wir bekennen uns zu dem Ziel, klimaschädliche Treibhausgase bis zum Jahr 2030 um 40 Prozent im Vergleich zu 1990 zu verringern. Darüber hinaus setzen wir uns für ein verbindliches weltweites Klimaschutzabkommen ein, in dem nicht nur die Industrieländer, sondern auch wichtige Schwellenländer konkrete Verpflichtungen übernehmen.",
+       "SPD" : "Wir wollen, dass die EU bis 2030 die Treibhausgasemissionen um mindestens 40 Prozent reduziert.",
+       "GRÜNE" : "Die EU muss in der Klimapolitik endlich wieder internationale Vorreiterin werden. Ansonsten wird sie nicht ihren Anteil leisten können, den Klimawandel auf 2 Grad Celsius zu begrenzen. Deshalb fordern wir Grüne eine Rückkehr zu aktivem Klimaschutz. Dafür fordern wir eine Erhöhung des Klimaziels für 2020 auf 30 Prozent und eine 55-60 prozentige Emissionsminderung bis 2030. Unsere Kinder werden es uns danken!",
+       "FDP" : "Das aktuelle Ziel für 2020 ist ehrgeizig genug. Die EU sollte zwar bereit bleiben, ihre Klima-Ambitionen zu erhöhen, aber nicht einseitig ehrgeizige Ziele setzen, es sei denn andere Länder tun dies auch. Ein 40% Reduktionsziel bis 2030 würde gerade in der andauernden Wirtschaftskrise viele Arbeitsplätze kosten. Wir sollten also mit der endgültigen Zielsetzung warten, bis es bei den laufenden internationalen Verhandlungen zu gemeinsamen Ergebnissen kommt.",
+       "LINKE" : "Wir wollen den Ausstoß an Klimagasen in der EU gegenüber 1990 um 40 Prozent bis 2020, um 60 Prozent bis 2030 und um 95 Prozent bis Mitte des Jahrhunderts reduzieren. Unter anderem wollen wir dazu die CO2-Grenzwerte für Personen- und Nutzfahrzeuge verschärfen und Unternehmen dazu verpflichten, Emissionen von Klimagasen dort zu reduzieren, wo sie entstehen, anstatt sie mit Emissionsrechten aus anderen Teilen der Welt zu verrechnen.",
+       "PIRATEN" : "Die Klimaziele der EU sind für uns Minimalziele. Wir setzen bei der Reduktion  der Treibhausgasemissionen auf die Erhöhung der Energieeffizienz, ein funktionierendes System für den Emissionsrechtehandel auf europäischer Ebene sowie die Förderung der erneuerbaren Energien. Wir setzen uns dafür ein, dass die EU bis zum Jahr 2030 mindestens 40 % des Treibhausgasausstoßes im Vergleich zum Jahr 1990 reduziert."
+      }
+  },
+  {
+    "title": "Freihandelsabkommen mit den USA",
+    "question": "Die Europäische Union soll ein Freihandelsabkommen mit den USA abschließen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 2,
+       "FDP" : 0,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Das Freihandelsabkommen ist von großer Bedeutung für Europa und die USA. Das gilt besonders für die Exportnation Deutschland. Es wirkt wie ein kostenfreies Konjunkturprogramm für mehr Wachstum und mehr und bessere Arbeitsplätze. Mit ihm haben Deutschland und Europa im weltweiten Wettbewerb die Chance, auch künftig die entscheidenden Handelsvorschriften zu setzen und die hohen Standards zum Umwelt-, Verbraucher- und Arbeitnehmerschutz durchzusetzen.",
+       "SPD" : "Ein Freihandelsabkommen der EU mit den USA bietet erhebliche Chancen für Wachstum und Arbeitsplätze in Europa. Klar ist aber, dass durch ein Freihandelsabkommen nicht unsere hohen sozialen, ökologischen, arbeitnehmerrechtlichen und Verbraucherstandards in Deutschland und Europa ausgehöhlt werden dürfen. Auch spezielle Investitionsschutzvorschriften sind in einem solchen Abkommen nicht erforderlich. Dies ist für uns eine wichtige Voraussetzung für ein Gelingen der Verhandlungen.",
+       "GRÜNE" : "Wir Grüne sagen Nein zu diesem Handelsabkommen mit den USA. Es wird weitgehend intransparent verhandelt. Außerdem droht es im Umwelt-, Verbraucher-, Datenschutz-, Arbeitsschutz- und Agrarbereich wichtige Standards auszuheben. Wir wollen keine Chlorhühnchen und kein Klonfleisch. Auch zum Klagerecht von Investoren vor privaten Handelstribunalen sagen wir Nein, weil damit demokratische Politiksetzung übergangen werden kann.",
+       "FDP" : "Die Verhandlungen darüber sollten allerdings mit einem Datenschutzabkommen verbunden werden. Die Verlässlichkeit in Hinblick auf die Sicherheit der Daten ist ebenso wichtig wie der persönliche Mehrwert, den jeder Bürger aus dem Zustandekommen des Freihandelsabkommens ziehen wird.",
+       "LINKE" : "Das Freihandelsabkommen TTIP würde nur den Banken und Konzernen nutzen und kleinen/mittleren Unternehmen und den Kommunen beträchtlich schaden. Konzernen soll ein Klagerecht gegen Staaten bzw. soziale und ökologische Standards eingeräumt werden. Es droht, dass der Finanzsektor weiter dereguliert wird, öffentliche Dienstleistungen privatisiert sowie Monopolisten im Bereich des geistigen Eigentums gestärkt werden. Schutz und Vielfalt von Kulturgütern gemäß der UNESCO-Konvention würden gefährdet.",
+       "PIRATEN" : "Die Verhandlungen zum Freihandelsabkommen TAFTA / TTIP werden abseits der Parlamente und ohne jede Beteiligung der Bürger Europas und der USA geführt. Der Zombie ACTA feiert so seine Auferstehung unter dem Namen TTIP. Dieses Freihandelsabkommen greift mit erweiterten Konzernklagerechten und deregulativer Kooperation die demokratische Ordnung in Europa an. Es gibt großen Konzernen praktisch unbegrenzte Macht und Kontrollmöglichkeiten gegenüber demokratisch legitimierten Staaten."
+      }
+  },
+  {
+    "title": "Projekte gegen Rechtsextremismus",
+    "question": "Die Europäische Union soll Projekte gegen Rechtsextremismus fördern.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir gehen entschieden gegen jede Form des politischen oder religiösen Extremismus vor. Projekte gegen den Rechtsextremismus werden wir weiterhin gezielt unterstützen und darauf achten, dass erfolgreiche Ansätze nachhaltig umgesetzt werden. Dies gilt auch für die europäische Ebene.",
+       "SPD" : "Der Kampf gegen Rechtsextremismus, Rassismus und Antisemitismus muss europaweit als gemeinsame demokratische Aufgabe angepackt werden. Wir fordern hierfür ein europäisches Aktionsprogramm.",
+       "GRÜNE" : "Der Kampf gegen Rechtsradikalismus ist eine gesellschaftliche Daueraufgabe. Initiativen gegen Rechtsextremismus brauchen einen langen Atem in ihrer Arbeit - daher ist eine nachhaltige, stetige Förderung nötig. Wirtschaftliche und soziale Krisen wie wir sie im Moment erleben, befeuern rechtsextreme Ressentiments. Die EU muss durch die Förderung von Projekten auf eine intensive Auseinandersetzung mit dem ideologischen Fundament setzen, um ihrem Mobilisierungspotential entgegenzutreten.",
+       "FDP" : "Rechtsextremismus stellt die freiheitlich-demokratische Grundordnung in Frage. Die FDP setzt sich seit jeher für Kampagnen gegen Rechtsextremismus und Fremdenfeindlichkeit ein. Deshalb sollten auch zukünftig Projekte in diesem Sinne unterstützt werden.",
+       "LINKE" : "DIE LINKE fordert weiterhin die finanzielle Stärkung EU-weiter Programme, die Mittel für Projekte gegen Rassismus und andere Formen der Diskriminierung als auch für kulturelle Projekte, die für Vielfalt und Toleranz werben, sichern. Diese sollen Bestandteil einer zu schaffenden europäischen Präventionsarchitektur gegen alle Formen des Rassismus und Neofaschismus sein.",
+       "PIRATEN" : "Die Förderung von Toleranz und der Kampf gegen Diskriminierung ist eine gesamtgesellschaftliche Aufgabe. Zur Unterstützung der beteiligten Gruppen sind ausreichende finanzielle Mittel bereit zu stellen."
+      }
+  },
+  {
+    "title": "Eurobonds",
+    "question": "Alle Staaten der Eurozone sollen für die Kreditaufnahme der anderen Staaten haften können.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 1,
+       "GRÜNE" : 1,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Nationale Verantwortung für den Haushalt und länderübergreifende, gemeinsame Haftung sind unvereinbar. Solange jeder Staat im Rahmen seiner Haushaltspolitik eigenverantwortlich über Einnahmen und Ausgaben entscheidet, ist eine Haftungsgemeinschaft für Staatsschulden unverantwortlich. Eine gemeinsame Haftung aller Euroländer für die Staatsschulden ohne Entscheidungszuständigkeit würde jeden Anreiz zu Reformen nehmen. Eurobonds und Schuldentilgungsfonds lehnen wir deshalb ab.",
+       "SPD" : "Richtig ist: Die Staaten der Eurozone haben eine gemeinsame Verantwortung für die gemeinsame Währung. Für Instrumente zu einer begrenzten gemeinsamen Haftung für die Schulden in der Eurozone wie etwa einen Schuldentilgungsfonds oder Eurobonds gibt es keine politischen Mehrheiten. Dies ist daher auf absehbare Zeit kein Thema, das zur politischen Entscheidung ansteht.",
+       "GRÜNE" : "Weil die Regierungen sich vor ihrer Verantwortung gedrückt haben klaren Regeln zuzustimmen, übernimmt zurzeit die Europäische Zentralbank die Haftung. Dadurch stehen indirekt alle Länder für die Risiken ein. Wir Grüne wollen die gemeinsame Haftung hingegen transparent machen und an klare Bedingungen knüpfen. Verbindlicher Schuldenabbau und gemeinschaftliche Haftung gehören zusammen. Das Instrument dafür ist der Schuldentilgungspakt, finanziert beispielsweise aus der Vermögensabgabe.",
+       "FDP" : "Die Währungsunion kann nur dann dauerhaft bestehen, wenn die marktwirtschaftlichen Grundprinzipien der Stabilitätsgemeinschaft,  insbesondere der Ausschluss einer Verpflichtung zur gegenseitigen Budgethilfe der Euro-Staaten (No-Bail-Out-Klausel), wieder vollständig etabliert werden. Die Vermischung von Verantwortung durch gemeinschaftliche Haftung muss ausgeschlossen bleiben. Eurobonds lehnen wir ab.",
+       "LINKE" : "Euro-Bonds sind gemeinschaftliche Anleihen der Euro-Staaten. Um die Finanzspekulation gegen einzelne Euro-Staaten zu verhindern, würden Eurobonds eine gemeinschaftliche Kreditaufnahme (das meint nicht die Schuldentilgung) über gemeinsame Staatsanleihen ermöglichen. Dies wäre aus Sicht der LINKEN eine zusätzliche Maßnahme zur Direktfinanzierung der Euro-Staaten bei der Europäischen Zentralbank.",
+       "PIRATEN" : "Um unseren 'Marshall-Plan 2.0 für Europa' zu finanzieren, der kurz- und langfristig bei der Bekämpfung der Krise und der Beseitigung der Ungleichgewichte in Europa helfen soll, sind Eurobonds eindeutig eine gute Option. Sie passen in unser Konzept eines solidarischen Europas."
+      }
+  },
+  {
+    "title": "Anerkennung von Berufsabschlüssen",
+    "question": "In der Europäischen Union erworbene Berufsabschlüsse sollen EU-weit anerkannt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Um den wirtschaftlichen Erfolg und den Wohlstand in Deutschland auf Dauer zu erhalten, brauchen wir qualifizierte Menschen aus anderen Ländern. Bereits heute fehlen Fachkräfte in einigen Branchen. Dieser Mangel wird in den nächsten Jahren zunehmen. Daher haben wir die Weichen für die Zuwanderung von Fachkräften bereits richtig gestellt: Im Ausland erworbene Berufsabschlüsse werden leichter anerkannt.",
+       "SPD" : "Eine verbesserte Anerkennung von erworbenen Berufsabschlüssen kann ein wichtiger Beitrag zum Zusammenwachsen und zur wirtschaftlichen Entwicklung Europas sein. Dabei darf es aber nicht um eine Harmonisierung auf niedrigem Niveau gehen. Stattdessen muss es Ziel sein, gemeinsame Schritte hin zu einer in allen EU-Ländern möglichst hochwertigen qualifizierten Berufsausbildung zu gehen.",
+       "GRÜNE" : "Die gegenseitige Anerkennung von Berufsabschlüssen ist eine wichtige Voraussetzung für die Mobilität von Arbeitskräften innerhalb der EU. In Zeiten hoher Jugendarbeitslosigkeit im Süden Europas und fehlenden Fachkräften vielerorts in Deutschland setzen wir uns für eine vereinfachte gegenseitige Anerkennung ein. Dies darf aber nicht zu Lasten der Ausbildungsstandards gehen. Die duale Berufsausbildung darf dadurch nicht untergraben werden.",
+       "FDP" : "Gut ausgebildete Menschen in Europa brauchen eine Perspektive. Zur Bekämpfung der Arbeitslosigkeit muss deshalb die Mobilität der Arbeitnehmerinnen und Arbeitnehmer erleichtert werden. Dafür brauchen wir eine reibungslose Anerkennung von Bildungsabschlüssen.",
+       "LINKE" : "Die Anerkennung in EU-Ländern - aber auch in anderen Ländern - erworbener Berufsabschlüsse ist eine wichtige Voraussetzung für ein selbstbestimmtes Leben und berufliche Teilhabe an der Gesellschaft. Migrantinnen und Migranten aus EU- und Nicht-EU-Ländern dürfen nicht benachteiligt und als billige Arbeitskräfte benutzt werden.",
+       "PIRATEN" : "Wir wollen es den Menschen in Europa ermöglichen, ihre jeweilige Bildungs- und Berufslaufbahn in unterschiedlichsten Staaten, Ländern und Regionen fortzusetzen, ohne Einschränkungen zu befürchten. Abschlüsse und andere bisher erreichte Leistungen müssen grenzüberschreitend anerkannt werden. Vereinheitlichung bietet hier Chancen, ihr sollte aber immer eine gesellschaftliche Diskussion unter Beteiligung aller Akteure und einer breiten europäischen Öffentlichkeit vorausgehen."
+      }
+  },
+  {
+    "title": "Beitritt der Türkei",
+    "question": "Deutschland soll sich für einen Beitritt der Türkei zur Europäischen Union einsetzen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 1
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir sehen die Bedeutung der Türkei für Europa und die vielfältigen Beziehungen zwischen den Menschen in der EU und in der Türkei. Das gilt besonders für die türkeistämmige Bevölkerung in Deutschland. Wir wollen daher eine möglichst enge Zusammenarbeit zwischen der EU und der Türkei. Eine Vollmitgliedschaft der Türkei lehnen wir aber ab, weil sie die Voraussetzung für einen EU-Beitritt nicht erfüllt. Angesichts der Größe des Landes und seiner Wirtschaftsstruktur wäre zudem die EU überfordert.",
+       "SPD" : "Wir unterstützen eine Beitrittsperspektive der Türkei. Die Vertiefung der Beziehungen mit der Türkei und ihre Anbindung an die EU liegen im deutschen Interesse. Wie auch die jüngsten Entwicklungen in der Türkei zeigen, ist aber klar, dass die Türkei noch große Fortschritte bei zentralen Fragen wie der Meinungsfreiheit, den Minderheitenrechten, dem Umgang mit der demokratischen Opposition, der Justiz und dem Rechtstaat wird umsetzen müssen.",
+       "GRÜNE" : "Die Türkei ist derzeit auf dem falschen Weg: Die Polizei geht gewaltsam gegen Demonstranten vor, die Unabhängigkeit der Justiz ist ebenso bedroht wie die Pressefreiheit. Nur wenn die EU die Beitrittsverhandlungen mit der Türkei ernsthaft fortführt, kann sie darauf drängen, dass europäische Grundwerte wie Demokratie und Rechtsstaatlichkeit schnell umgesetzt werden.",
+       "FDP" : "Ein Beitritt der Türkei hängt nicht zuerst von Deutschland ab. Ausschlaggebend für einen Beitritt ist, dass die Türkei die nötigen Reformen durchführt, um die Kopenhagener Kriterien zu erfüllen. Dazu gehören auch der Respekt und der Schutz der Menschenrechte, der Meinungs-, der Presse- und der Versammlungsfreiheit. In den letzten Jahren hat sich die Türkei leider immer weiter von europäischen Werten entfernt.",
+       "LINKE" : "Wir sind grundsätzlich für einen Beitritt der Türkei zur EU. Wichtige Bedingungen sind für uns eine demokratische Regierungsform, die Gewährleistung und Durchsetzung der Menschenrechte, die Achtung und der Schutz von Minderheiten, Religionsfreiheit für alle und Rechtsstaatlichkeit. Angesichts der innenpolitischen Situation in der Türkei soll bei Fortsetzung der Gespräche und Beitrittsverhandlungen gegenwärtig kein weiteres EU-Beitrittskapitel eröffnet werden.",
+       "PIRATEN" : "Die EU-Standards (Kopenhagener Kriterien) müssten im Rahmen möglicher Beitrittsverhandlungen erfüllt werden. Das gilt besonders in Bezug auf demokratische und rechtsstaatliche Ordnung, Menschenrechte, Minderheitenschutz, Religionsfreiheit und die Lösung des Zypern-Konflikts. Die derzeitigen Entwicklungen der Türkei in Bezug auf Menschen- und Bürgerrechte betrachten wir,  ebenso wie die Türkische Piratenpartei, allerdings mit Sorge."
+      }
+  },
+  {
+    "title": "Mindestsatz für Unternehmenssteuern",
+    "question": "Einführung eines EU-weiten Mindestsatzes für die Besteuerung von Unternehmen!",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "Die PARTEI" : "Aber nur, wenn der Antrag zum Beitritt von Erdogan auf Twitter formuliert wird. Und wenn die Türken versprechen, auch noch Facebook zu verbieten.",
+       "CDU" : "Europäische Regelungen zur Verbesserung und Vereinfachung des Steuerrechts werden wir vorantreiben, insbesondere durch eine europaweite gemeinsame Körperschaftsteuer-Bemessungsgrundlage.",
+       "SPD" : "Wir wollen verhindern, dass künftig Großunternehmen weiterhin durch Steuertricks und Steuerdumping Milliarden am Fiskus vorbeischmuggeln. Wir sind deshalb europaweit für eine einheitliche Bemessungsgrundlage und Mindestsätze bei den Unternehmenssteuern.",
+       "GRÜNE" : "Wenn wir Steuerdumping verhindern wollen, brauchen wir einen Mindeststeuersatz für die Körperschaftsteuer. Unser Ziel ist, einen konkreten Pfad zu einem Mindeststeuersatz von 25 Prozent zu vereinbaren. Über einige Länder können Unternehmen und Privatpersonen Gewinne und Kapitalerträge steuerfrei in außereuropäische Steueroasen bringen. Wir wollen mit Mindeststeuersätzen einer Erosion der nationalen Steueraufkommen Einhalt gebieten, damit der Staat die öffentlichen Aufgaben finanzieren kann.",
+       "FDP" : "Entscheidend ist nicht der Steuersatz, sondern eine einheitliche Bemessungsgrundlage, um Steuern vergleichbar zu machen. Denn der Steuerwettbewerb ist ein Ausgleich für die fehlende Möglichkeit der Abwertung von Währungen. Wettbewerb sorgt dauerhaft für niedrige und gerechte Steuern. Zum fairen Wettbewerb gehört aber auch, dass jedes Unternehmen seine Steuern zahlt.",
+       "LINKE" : "DIE LINKE fordert einen EU-weiten Mindeststeuersatz für Unternehmen mit breiten und einheitlichen Bemessungsgrundlagen. Wir wollen Steueroasen innerhalb und außerhalb der EU austrocknen: Doppelbesteuerungsabkommen mit unkooperativen Staaten sind zu kündigen und ggf. Steuern direkt an der Quelle zu erheben, um Steuertricks von Konzernen, wie die konzerninterne Verschiebung von Gewinnen und Verlusten, zu unterbinden. Banken, die in Steueroasen operieren, ist die Lizenz zu entziehen.",
+       "PIRATEN" : "Es ist mit der Idee eines vereinten Europa nicht vereinbar, dass Mitgliedsländer in der Europäischen Union über niedrige Unternehmenssteuern europaweit hohe Steuerausfälle verursachen und Unternehmen durch aggressive Steuerplanung zum Beispiel über Lizenzgebühren Unternehmensgewinne in Länder mit niedriger Besteuerung verlagern können. Wir werden uns dafür einsetzen, dass die Mitgliedsländer ihre Unternehmenssteuersätze annähern und einheitlichere Besteuerungsgrundlagen schaffen."
+      }
+  },
+  {
+    "title": "Prostitution",
+    "question": "Die Inanspruchnahme sexueller Dienstleistungen gegen Bezahlung soll strafbar sein.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 1,
+       "GRÜNE" : 2,
+       "FDP" : 2,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir werden das Prostitutionsgesetz verbessern. Frauen sollen vor Menschenhandel und Zwangsprostitution besser geschützt und die Täter konsequenter bestraft werden. Dies soll sowohl für die Menschenhändler als auch für diejenigen gelten, die wissentlich und willentlich die Zwangslage der Opfer von Zwangsprostitution ausnutzen und diese zu sexuellen Handlungen missbrauchen.",
+       "SPD" : "Die in den letzten Jahren zunehmenden Fehlentwicklungen, wie z.B. Zwangsprostitution oder Frauenhandel machen deutlich: der Schutz von Prostituierten muss weiter verbessert werden. Zu prüfen ist dabei, inwieweit hierfür auch strafrechtliche Instrumente zur Anwendung kommen sollten.",
+       "GRÜNE" : "Es soll nicht strafbar sein, wenn Prostitution von Erwachsenen das Ergebnis einer individuellen Entscheidung ist. Die Rechte der Prostituierten müssen gestärkt werden um sie vor Übergriffen und Gewalt zu schützen. Im Gegensatz zu dieser legalen Prostitution ist Menschenhandel zur sexuellen Ausbeutung eine eklatante Menschenrechtsverletzung, die konsequent verfolgt werden muss. Die EU-Richtlinie zur Verhütung und Bekämpfung des Menschenhandels und zum Schutz seiner Opfer muss umgesetzt werden.",
+       "FDP" : "Die Kriminalisierung von Freiern wird den Frauenhandel in Europa nicht beenden. Stattdessen sollte der Opferschutz und die grenzübergreifende Verfolgung des organisierten Menschenhandels verbessert werden.",
+       "LINKE" : "Würde die Inanspruchnahme sexueller Dienstleistungen als Straftat bewertet, würden auch die eigen- und selbstbestimmt arbeitenden Sexarbeiter/innen kriminalisiert werden. Von der Inanspruchnahme sexueller Dienstleistungen strikt zu unterscheiden sind Menschenhandel zur sexuellen Ausbeutung und Zwangsprostitution. Dabei handelt es sich um eklatante Menschenrechtsverletzungen, die entsprechend strafrechtlich verfolgt werden müssen.",
+       "PIRATEN" : "Die Entscheidung zur Ausübung der Prostitution fällt sowohl unter das Recht auf freie Berufswahl sowie unter das Recht auf sexuelle Selbstbestimmung. Die Entscheidung zur Ausübung der Prostitution ist daher von Staat und Gesellschaft zu akzeptieren. Eine Diskriminierung und Kriminalisierung von Sexarbeitern und ihren Kunden lehnt die Piratenpartei ab."
+      }
+  },
+  {
+    "title": "Ausbau der EU-Außenpolitik",
+    "question": "Die gemeinsame Außenpolitik der Europäischen Union soll ausgebaut werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 1,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Die Europäische Union tritt für Frieden, Freiheit und Wohlstand, Demokratie, Rechtsstaatlichkeit und die Achtung der Menschenrechte ein - in Europa selbst und in der Welt. Nur gemeinsam können wir erfolgreich unsere Werte und Interessen in der Welt verteidigen und durchsetzen. Die Globalisierung können wir Europäer maßgeblich mitgestalten, wenn wir eine starke und handlungsfähige Europäische Union haben. Dafür müssen wir gemeinsam Lösungen erarbeiten und mit einer Stimme sprechen.",
+       "SPD" : "Wir wollen, dass Europa in seiner Außenpolitik noch besser zusammenarbeitet und mit einer Stimme spricht. In der globalisierten Welt kann Europa seine Werte und Interessen nur gemeinsam behaupten. Deshalb ist auch eine starke gemeinsame Außenpolitik der EU wichtig.",
+       "GRÜNE" : "Aktuelle Krisen in der Ukraine, Mali, Zentralafrika oder Syrien zeigen, dass die 28 EU-Staaten außenpolitisch mit einer gemeinsamen Position agieren müssen. Nur im Verbund haben wir genug Gewicht, um positiven Einfluss zu nehmen. Europäische Außenpolitik muss noch mehr Wert auf Prävention legen. Gerade zivile Konfliktprävention und -bearbeitung sind Kernkompetenz der EU und müssen deutlich ausgebaut werden.",
+       "FDP" : "Nur wenn wir in Fragen globaler Politik geeint auftreten, wird die europäische Stimme Gewicht erlangen. Nur wenn es uns gelingt, auch in den strittigen Fragen im passenden Moment eine europäische Antwort zu geben, wird man uns als Friedensmacht, die wir sein wollen, ernst nehmen. Nur dann wird Europa die Verantwortung übernehmen können, die es von sich selbst erwartet.",
+       "LINKE" : "DIE LINKE tritt für eine zivile, friedliche Politik innerhalb und außerhalb Europas ein. Damit die EU einen Beitrag zu einer friedlichen Entwicklung leisten kann, brauchen wir einen Neustart: für soziale Gerechtigkeit, Demokratie und soziale Beziehungen in Europa und der EU in der Welt, für Abrüstung und Frieden. Wir wollen den Verzicht auf Krieg als Instrument der internationalen Beziehungen. Wir wollen Auslandseinsätze beenden und Rüstungsproduktion und -exporte verbieten.",
+       "PIRATEN" : "Eine gemeinsame, auf demokratischen  Fundamenten fußende europäische Außen- und Sicherheitspolitik muss den Menschen- und Bürgerrechten verpflichtet sein. Sie soll sich nicht an nationalen Einzelinteressen orientieren, sondern die Bedürfnisse aller Menschen im Blick haben."
+      }
+  },
+  {
+    "title": "Verstaatlichung von Banken",
+    "question": "Alle Banken sollen verstaatlicht werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 2,
+       "GRÜNE" : 2,
+       "FDP" : 2,
+       "LINKE" : 1,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "In einer Marktwirtschaft soll sich der Staat auf die Festlegung von Rahmenbedingungen beschränken und sich nur in Ausnahmefällen an Unternehmen oder Banken beteiligen. Unsere Bankenstruktur mit Genossenschaftsbanken, Privatbanken und Sparkassen hat sich insbesondere in der Finanzmarktkrise als stabil erwiesen. Wir wollen diese Struktur erhalten und stärken. Staatliche Beteiligungen sind dafür nicht notwendig.",
+       "SPD" : "Keine Begründung.",
+       "GRÜNE" : "Verstaatlichung allein ist keine Lösung. Auch die öffentlichen Landesbanken mussten in der Krise mit Steuergeldern gerettet werden. Wir wollen, dass die Risiken von InvestorInnen getragen werden und nicht von den SteuerzahlerInnen. Wenn diese Voraussetzung erfüllt ist, sollte das bestehende System aus Sparkassen, Genossenschafts- und Privatbanken weiter bestehen bleiben. Wir wollen die Finanzmärkte sicherer machen: mit einer Schuldenbremse für Banken und einer europäischen Bankenunion.",
+       "FDP" : "Das wäre nichts anderes als eine Enteignung. Dem stellen wir uns entgegen.",
+       "LINKE" : "Wir sehen das differenziert: Wir brauchen keine Banken, die einerseits riskant spekulieren und andererseits gesellschaftlich sinnvolle Investition ausbremsen, weil sich damit keine Superrenditen erzielen lassen. Wir wollen die Banken stattdessen dem Gemeinwohl verpflichten, so wie das heute schon bei den Sparkassen der Fall ist. Deshalb ist es geboten, die privaten Großbanken zu vergesellschaften. Denn gerade sie sind es, die mit ihrer Macht Staaten erpressen und gegeneinander ausspielen.",
+       "PIRATEN" : "Wir fordern die kurzfristige Durchführung frühzeitiger einmaliger Schuldenschnitte von Staatsschulden in der EU sowie eine effektive Restrukturierung, und wenn nötig, Rekapitalisierung maroder Banken. Ist nach konsequenter Beteiligung der Eigentümer die Eigenkapitalquote einer Bank zu niedrig, soll die betroffene Bank durch Umwandlung von Fremdkapital in Eigenkapital stabilisiert werden. Verstaatlichung nur, wenn eine Insolvenz aufgrund der gesamtwirtschaftlichen Folgewirkungen ausscheidet."
+      }
+  },
+    {
+    "title": "Asylgesetze",
+    "question": "In allen Ländern der Europäischen Union sollen gleiche Regeln für die Aufnahme von Asylsuchenden gelten.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Mit dem Gemeinsamen Europäischen Asylsystem haben wir hohe Schutzstandards für Flüchtlinge errichtet. Damit verfügt die Europäische Union über ein Asyl- und Flüchtlingsschutzrecht, das weltweit zu den modernsten und weitreichendsten zählt. Wir werden darauf drängen, dass alle Mitgliedstaaten die gemeinsamen Asylregelungen in der Praxis tatsächlich anwenden.",
+       "SPD" : "Alle EU-Mitgliedstaaten müssen das gemeinsame europäische Asylsystem umsetzen.",
+       "GRÜNE" : "Wir brauchen starke und einheitliche Schutzstandards für Asylsuchende in Europa, damit der Verschiebebahnhof für Flüchtlinge geschlossen wird. Es kann nicht sein, dass jemand, der in Frankreich Asyl beantragt, viel geringere Chancen hat anerkannt zu werden als jemand, der in Schweden Schutz sucht. Genauso inakzeptabel ist es, dass Flüchtlinge in manchen EU-Ländern grundlos eingesperrt werden. Nur mit gleichen Regeln in allen EU-Ländern schaffen wir einen gemeinsamen Schutzraum für Flüchtlinge.",
+       "FDP" : "Liberale haben sich stets für ein menschenwürdiges Asylrecht eingesetzt. Wir wollen, dass Europa in der Welt ein sicherer Zufluchtsort für politisch Verfolgte ist. Deswegen setzen wir uns für eine europaweite menschenwürdige Regelung des Grundrechts auf Asyl ein.",
+       "LINKE" : "Wir stehen zum Grundrecht auf Asyl. Kriegsflüchtlinge, insbesondere aus dem Nahen Osten und Nordafrika, brauchen unsere Solidarität. Niemand darf mehr an den EU-Grenzen zu Tode kommen oder  unter unwürdigen Bedingungen in Lagern festgehalten werden. FRONTEX ist aufzulösen. Wir fordern ein humanes europäisches Asylrecht auf hohem menschenrechtlichen Niveau für alle Menschen, die aus politischen oder anderen Gründen fliehen müssen.",
+       "PIRATEN" : "Die rechtliche Angleichung in EU-Ländern darf nicht mit Absenkung des Flüchtlingsschutzes einhergehen. Im Gegenteil wollen wir diesen stärken und die europäische Flüchtlings- und Asylpolitik einer grundlegenden Neuausrichtung unterziehen. Alle Mitgliedstaaten müssen gemäß ihren Kapazitäten Flüchtlinge und Asylsuchende aufnehmen. Eine von Solidarität geprägte europäische Politik darf einzelne Mitgliedstaaten nicht mit dem finanziellen, logistischen und administrativen Aufwand alleine lassen."
+      }
+  },
+    {
+    "title": "Volksentscheide über EU-Vertragsänderungen",
+    "question": "Über Änderungen der EU-Verträge soll auch in Deutschland per Volksabstimmung entschieden werden können.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 1,
+       "GRÜNE" : 0,
+       "FDP" : 1,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Für uns hat sich die parlamentarisch-repräsentative Demokratie mit direkt gewählten Abgeordneten des Deutschen Bundestages bewährt. Wir lehnen Volksentscheide mit Blick auf die Komplexität der Themen bei gleichzeitiger Beschränkung auf Ja-Nein-Alternativen ab.",
+       "SPD" : "EU-Vertragsänderungen werden in Deutschland durch Bundestag und Bundesrat ratifiziert. Dieser Weg hat sich bewährt. Allerdings hat das Bundesverfassungsgericht deutlich gemacht, dass bei möglichen, weitreichenden Kompetenztransfers auf die EU in Zukunft Volksabstimmungen auch in Deutschland notwendig werden können.",
+       "GRÜNE" : "Wir Grüne setzen auf einen Dialog über unsere gemeinsame Zukunft in Europa und fordern einen demokratisch legitimierten Europäischen Konvent. Der Konvent soll die Überarbeitung der Europäischen Verträge vorbereiten und diskutieren. Die Weiterentwicklung der europäischen Demokratie, wie auch der Wirtschafts-, Finanz- und Sozialpolitik muss ins Zentrum gerückt werden. Über die Ergebnisse dieses Konvents sollen die Bürgerinnen und Bürger in einem europaweiten Referendum abstimmen können.",
+       "FDP" : "Nicht jede Vertragsänderung bedarf einer Volksabstimmung - sonst wäre Europa auf Jahre gelähmt. Gleichzeitig setzten wir Liberalen uns für die weitere Vertiefung ein, hin zu einer politischen Union. Am Ende dieser Entwicklung sollte ein demokratisch legitimierter, föderaler, subsidiärer und dezentraler Bundestaat stehen, über den die Bürgerinnen und Bürger in einer europaweiten Volksabstimmung entscheiden.",
+       "LINKE" : "EU-Politik greift tief in unser Leben ein. Wir wollen, dass die Menschen in der Europäischen Union an den Entscheidungen auf EU-Ebene beteiligt werden, die für sie bindend sind. Dazu sollen die Bürgerinnen und Bürger in der EU das Recht erhalten, über Volksentscheide konkrete EU-Politik mitzugestalten, mittels Volksentscheid über die Änderung der EU-Verträge und eine Verfassung zu entscheiden.",
+       "PIRATEN" : "Wir gehen sogar noch weiter. Wie wir allgemein Volksabstimmungen für notwendig erachten, um die Akzeptanz von politischen Entscheidungen zu erhöhen, sollen auch Änderungen der EU-Verträge nur dann in Kraft treten, wenn die Bürgerinnen und Bürger sie in europaweiten, zeitgleichen Abstimmungen befürworten."
+      }
+  },
+    {
+    "title": "Verkehrsnetz",
+    "question": "Bei der Infrastrukturförderung durch die Europäische Union: Schiene vor Straße!",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 1,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Der grenzüberschreitende Schienenverkehr ist für die europäische Verkehrspolitik von großer Bedeutung. Denn gerade der Schienengüterverkehr ist die wichtigste Alternative zu den überlasteten Straßennetzen. Wir brauchen jedoch ein gut ausgebautes Straßen- und Schienennetz genauso wie leistungsstarke Flughäfen und Wasserstraßen, um die Vorteile des Binnenmarktes noch besser nutzen zu können. Es kommt darauf an, nicht nur mehr zu bauen, sondern alle Verkehrsträger besser miteinander zu verknüpfen.",
+       "SPD" : "Die Straße ist mit dem ständig wachsenden Lkw-Verkehr überfordert. Daher müssen wir die Schiene massiv ausbauen.",
+       "GRÜNE" : "Wir Grüne wollen den Klimawandel stoppen und bezahlbare Mobilität sichern. Dafür muss die Schiene als umweltfreundliches Verkehrsmittel gestärkt werden. Deshalb wollen wir mindestens 40 Prozent der EU-Verkehrsgelder in die Ertüchtigung und Wiederherstellung von Bahnstrecken - vor allem auf grenzüberschreitenden Abschnitten - investieren. Aktuell fließen nur 20 Prozent der EU-Verkehrsfonds in den Bahnverkehr, jedoch mehr als 60 Prozent in neue Straßen.",
+       "FDP" : "Der EU-Fördertopf zum Ausbau der Transeuropäischen Verkehrsnetze (grenzüberschreitende Korridore für Personen-/Güterverkehre), den wir 2013 eingerichtet haben, dient vor allem der Finanzierung von Schieneninfrastruktur. Das ist auch richtig, denn was die Infrastruktur angeht, haben Schiene und Binnenwasserwege großen Aufholbedarf. Aber die FDP wird den Straßenverkehr nicht verteufeln. Es gibt Strecken und Güter, wo die Schiene keine Alternative und nur ein LKW-Transport sinnvoll ist.",
+       "LINKE" : "Die Eisenbahn muss zur Flächenbahn mit schnellen Verbindungen entwickelt werden. Öffentliche Bahnen und der ÖPNV dürfen nicht desaströsem Wettbewerb geopfert werden. Wir wollen die Weiterentwicklung der Bahn und des ÖPNV, barrierefrei, mit guter Arbeit, so dass viele Arbeitsplätze geschaffen werden und mit dem Ziel, einen beträchtlichen Teil des innereuropäischen Flugverkehrs auf die Schiene zu verlagern.",
+       "PIRATEN" : "Der Ausbau der transeuropäischen Eisenbahnkorridore und der Schifffahrtswege sowie die Schaffung einheitlicher technischer Standards sind wichtige wirtschaftspolitische Ziele. Die Verlagerung des Verkehrs von der Straße auf die Schiene und auf Wasserwege löst viele Probleme. Deshalb müssen technische und organisatorische Hürden des transeuropäischen Verkehrs, auch die Bahninfrastruktur betreffend, abgebaut werden."
+      }
+  },
+    {
+    "title": "EU-Entwicklungshilfe",
+    "question": "Die Europäische Union soll mehr Geld für die Entwicklungshilfe bereitstellen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Solidarität mit den Ärmsten ist nicht nur ethisch geboten, sondern auch in unserem eigenen Interesse. Die EU und ihre Mitgliedstaaten sind die weltweit mit großem Abstand wichtigsten Geber von Entwicklungsleistungen. Die CDU will weiterhin eine starke europäische Entwicklungszusammenarbeit. Wir haben uns erfolgreich dafür eingesetzt, dass in den nächsten Jahren die Mittel für die Entwicklungszusammenarbeit der EU erhöht werden, obwohl der EU-Haushalt insgesamt sinken wird.",
+       "SPD" : "Den schwächsten Ländern der Welt müssen wir besonders helfen. Wir wollen, dass Europa eine Vorreiterrolle in der Entwicklungszusammenarbeit einnimmt. Sie ist vorausschauende Friedenspolitik. Wir wollen, dass die EU in ihrer Entwicklungszusammenarbeit vor allem den Menschen und seine Rechte auf Nahrung, Gesundheit und Bildung in den Mittelpunkt stellt.",
+       "GRÜNE" : "Die Entwicklungsgelder der EU umfassen lediglich 6 Prozent des gesamten EU-Haushalts. Sie sind aber vor Ort von enormer Wichtigkeit: Sie unterstützen die Ärmsten dieser Welt dabei sich selbst aus der Spirale extremer Armut zu befreien. Zwischen 2004 und 2009 haben EU-Entwicklungsgelder über neun Millionen Kindern eine schulische Grundausbildung ermöglicht und 32 Millionen Menschen mit Zugang zu sauberem Wasser versorgt. Diese Erfolge wollen wir Grüne weiter ausbauen.",
+       "FDP" : "Es geht derzeit nicht darum, mehr Geld in klassische Entwicklungshilfe zu investieren, sondern eine zielgenauere Entwicklungszusammenarbeit zu leisten. Die vergangenen Jahre sind von dem Aufschwung einiger klassischer Entwicklungsländer und Regionen geprägt. Daher sollten die vorhandenen Mittel besser eingesetzt werden, um die ärmsten Länder stärker zu unterstützen. Wir wollen die Entwicklungshilfe zudem stärker an bestimmte Kriterien, wie gute Regierungsführung knüpfen.",
+       "LINKE" : "DIE LINKE fordert die Konzentration der Entwicklungshilfe auf Maßnahmen zur direkten Armutsbekämpfung. Militarisierung mit Entwicklungshilfegeldern darf es nicht geben. Wir wollen fairen Handel, nur so entstehen reale Entwicklungschancen für Millionen arme Menschen. Wir wollen eine Neuausrichtung der Entwicklungszusammenarbeit auf die Bedürfnisse der Betroffenen in den Ländern des Südens.",
+       "PIRATEN" : "Die EU-Mitgliedsländer hatten zugesagt, bis 2015 mindestens 0,7 Prozent ihres BIP für Entwicklungshilfe auszugeben. Derzeit geben laut OECD jedoch nur vier der 27 EU-Staaten mehr als 0,7 Prozent ihres BIP für Entwicklungshilfe aus: Dänemark, Luxemburg, Schweden und die Niederlande. Eine Einhaltung der selbst auferlegten Grenzen halten wir für notwendig."
+      }
+  },
+    {
+    "title": "Verbot von Produkten",
+    "question": "Die Europäische Union soll weiterhin Produkte mit niedriger Energieeffizienz verbieten dürfen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 0,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir messen der Steigerung der Energieeffizienz einen hohen Stellenwert bei. Dabei setzen wir jedoch vor allem auf Anreize und marktwirtschaftliche Instrumente anstelle von Verboten. Ordnungsrecht sollte mit Augenmaß eingesetzt werden. Daher werden wir uns für eine maßvolle Umsetzung der Ökodesign-Richtlinie einsetzen.",
+       "SPD" : "Wir brauchen in Europa dynamische und anspruchsvollere Standards für energierelevante Produkte, die verbindliche Mindestanforderungen für die umweltgerechte Gestaltung von Produkten setzten. Wenn diese wirtschaftlich vertretbar, technisch machbar und ökologisch sinnvoll sind, können Verbraucher, Unternehmen und Klima davon gleichermaßen profitieren.",
+       "GRÜNE" : "Mit der Öko-Design-Richtlinie hat die EU dafür gesorgt, dass besonders stromfressende Fernseher, Kühlschränke, Waschmaschinen oder Ventilatoren vom Markt verschwinden. Niemand vermisst diese Stromschlucker und die Verbraucherinnen und Verbraucher müssen weniger Geld für Strom ausgeben.",
+       "FDP" : "Die FDP sieht generelle Verbote im Kontext der Öko-Design-Maßnahmen kritisch, da diese wie bei der Glühbirne unzulässige Markteingriffe darstellen. Produktstandards sollten nicht im Detail von Behörden geregelt werden. Die Verbraucher sollten sich selbst für die besten Produkte entscheiden dürfen. Die FDP fordert die Abschaffung der Öko-Designrichtlinie.",
+       "LINKE" : "Der beste Weg, Umweltschäden durch die Energieerzeugung zu vermeiden, ist Energie zu sparen. Deswegen setzen wir uns dafür ein, energieeffiziente Technologien zu fördern. Die Energieeffizienzrichtlinie und ihre ordnungspolitischen Vorgaben für die Wirtschaft zum Einsparen von Energie müssen verschärft werden.",
+       "PIRATEN" : "Die Klimaziele der EU sind für uns Minimalziele. Wir setzen bei der Reduktion der Treibhausgasemissionen auf die Erhöhung der Energieeffizienz, ein funktionierendes System für den Emissionsrechtehandel auf europäischer Ebene sowie die Förderung der erneuerbaren Energien. Wir setzen uns dafür ein, dass die EU bis zum Jahr 2030 mindestens 40 % des Treibhausgasausstoßes im Vergleich zum Jahr 1990 reduziert."
+      }
+  },
+    {
+    "title": "Europäische Steuern",
+    "question": "Die Europäische Union soll durch die Einführung eigener Steuern Teile ihres Haushaltes decken können.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 2,
+       "LINKE" : 2,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Wir wollen nicht, dass die EU eigene Steuern einführen kann. Das würde unweigerlich zu einer höheren Steuerbelastung für Bürger und Unternehmen führen. Die EU soll stattdessen mit dem Geld, das ihr zur Verfügung geht, sparsam umgehen und es wirksam einsetzen.",
+       "SPD" : "Im Rahmen einer Reform des Eigenmittelsystems der EU sollte dies perspektivisch ermöglicht werden. Wir wollen konkret, dass Mittel aus der von uns geforderten Finanztransaktionssteuer in Europa auch auf europäischer Ebene zur Verfügung stehen, etwa für europäische Infrastrukturprojekte.",
+       "GRÜNE" : "Wir Grüne fordern insbesondere die Einführung der Finanztransaktionssteuer, aber auch neue Umweltsteuern, wie eine Abgabe auf Kerosin. Die Abhängigkeit der EU von den Beitragszahlungen der Mitgliedsstaaten könnten so reduziert und nationale Haushalte entlastet werden. Die Einnahmen wollen wir in erster Linie für Investitionen in Bildung und Forschung, grüne Arbeitsplätze und den Kampf gegen den Klimawandel investieren.",
+       "FDP" : "Auch die EU ist zur Sparsamkeit und zur effizienten Mittelverwendung angehalten. Deshalb muss sich auch die EU auf das Wesentliche konzentrieren. Durch eigene Steuern den Handlungsspielraum einfach nur zu erweitern, wäre in Zeiten der Staatsschuldenkrise das falsche Signal.",
+       "LINKE" : "Der EU werden von den Mitgliedstaaten, insbesondere von der Bundesrepublik, regelmäßig  Zahlungen versagt. Wir verlangen von der Bundesregierung, ihre unseriöse Politik im Rat einzustellen und stattdessen dafür zu sorgen, dass die EU ihre gesetzlich verbrieften Mittel unverzüglich erhält. Der EU-Haushalt sollte vom Parlament alleine beschlossen werden und bis zu 3 Prozent des Brutto-Nationaleinkommens (derzeit: 1,23 Prozent) der EU betragen können.",
+       "PIRATEN" : "Wir sind für eine Transaktionssteuer, die auf der EU-Ebene angesiedelt sein soll. Diese fließt direkt in den Haushalt der EU ein und dient der Finanzierung eines europaweiten Sockeleinkommens."
+      }
+  },
+    {
+    "title": "Organspende",
+    "question": "In der Europäischen Union soll jeder Erwachsene Organspender sein, wenn er keinen Widerspruch eingelegt hat.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 2,
+       "GRÜNE" : 1,
+       "FDP" : 2,
+       "LINKE" : 2,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Für die CDU sind die sachliche Information und die Aufklärung über die Organspende wichtig. Die Entscheidung über eine Organspende ist eine höchst persönliche Sache. Mit einer bewussten Entscheidung sollen mehr Menschen dazu bewegt werden, Organspender zu werden. Jeder, der zu Lebzeiten die Frage, ob er zur Organspende nach seinem Tod bereit sei, mit Ja beantwortet, kann Leben retten. Durch Zwang würde sich die Bereitschaft, sich als Organspender zur Verfügung zu stellen, nicht erhöhen.",
+       "SPD" : "Organspenden können Leben retten. Die SPD steht zur Entscheidung des Bundestages, dass Bürgerinnen und Bürger einer Organspende zustimmen müssen. Die SPD setzt auf Information und Aufklärung beim Thema Organspende.",
+       "GRÜNE" : "Uns Grünen ist es wichtig, dass es allen Menschen freisteht, ob sie eine Erklärung zur Organspende abgeben wollen oder nicht. Grundrechtliche Erwägungen des Spenders treffen hier auf einen Bedarf an Spenderorganen, der das Angebot übersteigt. Für uns ist klar, dass es hierbei um eine Gewissensentscheidung geht. Die Kompetenzen liegen hier auf nationalstaatlicher Ebene, sodass dies nicht die EU einheitlich regeln kann.",
+       "FDP" : "Für die sehr sensible und höchstpersönliche Erklärung zur Organspende darf es auch in Zukunft keinen Zwang geben. Die FDP setzt auf die bewusste Zustimmung des Einzelnen bzw. der nächsten Angehörigen des Verstorbenen.",
+       "LINKE" : "Eine Organspende sollte auf einem aktiven Beschluss beruhen. Wir wollen die Voraussetzungen dafür stärken: intensive und zugleich ergebnisoffene Informationen, die die Bedeutung der Organspende aufzeigen und die Bevölkerung für das Thema sensibilisieren. Zudem muss die Organvergabe-Praxis transparent gestaltet werden, damit Vertrauen entstehen kann.",
+       "PIRATEN" : "Ein Meinungsbild unter unseren Parteimitgliedern hat mit deutlicher Mehrheit ergeben, dass die Entnahme von Organen und Gewebe eines Verstorbenen durch einen Arzt zur medizinischen Verwendung grundsätzlich zulässig sein soll, falls ihr nicht zu Lebzeiten widersprochen wurde. Auch der nächste Angehörige des Verstorbenen kann im vermuteten Willen des Verstorbenen widersprechen."
+
+      }
+  },
+    {
+    "title": "Regionalförderung",
+    "question": "Die finanziellen Mittel für wirtschaftlich schwächere Regionen in der Europäischen Union sollen reduziert werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU":0,
+       "SPD" : 2,
+       "GRÜNE" : 2,
+       "FDP" : 1,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+
+       }, 
+    "comments":
+      {
+       "CDU": "Die Förderung strukturschwacher Regionen durch die Europäische Union hat viel dazu beigetragen, notwendigen Strukturwandel vor Ort zu bewältigen. Der erfolgreiche Aufbau Ost wäre ohne die tatkräftige Unterstützung Brüssels nicht möglich gewesen. In Zukunft wird es darum gehen, die Regionalförderung nach einheitlichen Kriterien in den neuen und alten Ländern zu verstetigen. Wir setzen uns zudem dafür ein, dass der Aufbau Ost auch seitens der Europäischen Union weiterhin unterstützt wird.",
+       "SPD" : "Die europäische Strukturpolitik leistet einen wichtigen Beitrag zum wirtschaftlichen und sozialen Zusammenhalt Europas. Auch viele strukturschwache Regionen in Deutschland profitieren erheblich von den EU-Fördermitteln. Es ist wichtig, diese EU-Strukturpolitik weiter zu stärken und noch stärker auf Zukunftsinvestitionen auszurichten.",
+       "GRÜNE" : "Das Herz der Strukturfondspolitik ist es, schwächere Regionen zu unterstützen, um den sozialen, ökonomischen und territorialen Zusammenhalt in der EU zu fördern. Das soll so bleiben. Deshalb muss auch weiterhin das Geld vor allem in die wirtschaftlich schwachen Regionen fließen.",
+       "FDP" : "Die Mittel der europäischen Strukturfonds sind degressiv zu gestalten und laufend auf ihre Wirksamkeit zu überprüfen, da die europäische Regionalpolitik bisher hinter ihren Erwartungen zurückgeblieben ist. Die FDP bekennt sich allerdings zur Solidarität mit den ärmeren Regionen und fordert eine europäische Hilfe zur Selbsthilfe mit einem Fokus auf Existenzgründung, Förderung von Innovation, Forschung und Entwicklung, Technologietransfer und Mittelstand.",
+       "LINKE" : "Die derzeitigen wirtschaftlichen und sozialen Ungleichheiten in der EU gefährden die Zukunft Europas. Auch die Regional- und Strukturpolitik der EU muss dort gegensteuern. Unser Ziel ist und bleibt die Gleichwertigkeit der Lebensverhältnisse in der Europäischen Union. Gerade in Zeiten der Krise müssen die Mittel der Regional- und Strukturpolitik aufgestockt werden und vordringlich den Ländern zu Gute kommen, die sie am dringendsten benötigen.",
+       "PIRATEN" : "Wir PIRATEN fordern Transparenz im Staatswesen als Voraussetzung für außergewöhnliche Stabilisierungs- und Konsolidierungsmaßnahmen für Mitgliedsstaaten der Europäischen Union. Maßnahmen wie zum Beispiel Kredite oder Schuldenschnitte sind an die Verabschiedung umfangreicher Informationsfreiheits- und Transparenzgesetze in den betreffenden Staaten zu koppeln. Nur so kann sichergestellt werden, dass Finanzmittel im Sinne und unter Aufsicht der Bevölkerung der jeweiligen Länder eingesetzt werden."
+
+      }
+  },
+    {
+    "title": "Grenzkontrollen",
+    "question": "An deutschen Grenzen sollen wieder generelle Ausweiskontrollen eingeführt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 2,
+       "GRÜNE" : 2,
+       "FDP" : 2,
+       "LINKE" : 2,
+       "PIRATEN" : 2
+       }, 
+    "comments":
+      {
+       "CDU" : "Offene Grenzen in Europa - also innerhalb des Schengen-Raums - sind ein Gewinn für uns alle. Doch auch bei offenen Binnengrenzen muss die innere Sicherheit in der Europäischen Union gewährleistet bleiben. Für den Ausnahmefall ist es daher auch bei Schengen-Mitgliedstaaten richtig, als letzte Möglichkeit die zeitlich begrenzte Wiedereinführung von Binnengrenzkontrollen vorzusehen.",
+       "SPD" : "Die Freizügigkeit ist eine der großen Errungenschaften der europäischen Einigung, von der Millionen Menschen profitieren, indem sie EU-weit arbeiten, studieren oder Urlaub machen können. Dahinter darf der europäische Einigungsprozess nicht wieder zurückfallen.",
+       "GRÜNE" : "Es darf in Europa kein Zurück zu Schlagbäumen geben. Die Reisefreiheit ist eine der größten Errungenschaften der EU. Lange Warteschlangen an den Grenzen gehören zu Recht der Vergangenheit an. Europa ist dadurch zusammen gewachsen, dass wir uns in Europa frei bewegen, ungehindert reisen, studieren und arbeiten können wo wir wollen.",
+       "FDP" : "Die Freizügigkeit, einschließlich des freien Reisens, ist eine der größten Errungenschaften der EU und darf durch systematische Ausweiskontrollen nicht eingeschränkt werden.",
+       "LINKE" : "DIE LINKE setzt sich dafür ein, dass die Grundrechte in Europa gestärkt werden. Dazu gehört auch die Reisefreiheit. Sie muss innerhalb von Europa für alle gelten und darf nicht durch Einreisekontrollen behindert werden. Die EU schottet sich auch durch ihre Visa-Politik ab. Trotz Abkommen zur Visaliberalisierung genießen zum Beispiel Sinti und Roma aus Nicht-EU-Ländern des Balkans real oft keine Reisefreizügigkeit innerhalb der EU.",
+       "PIRATEN" : "Als Teil einer transnationalen politischen Bewegung, deren Kommunikationsraum keine staatlichen Grenzen kennt, sehen wir uns in einer besonderen Verantwortung, den Bestand der europäischen Idee sicherzustellen. Ziel ist es, sie unter Einbeziehung der historisch gewachsenen kulturellen Unterschiede innerhalb Europas fortzuentwickeln. Dabei sehen wir unsere europäischen Nachbarn als Mitglieder einer Familie, gegen die wir uns nicht abschotten. Europapolitik ist keine Außenpolitik."
+      }
+  },
+    {
+    "title": "Managergehälter",
+    "question": "Über die Höhe von Managergehältern sollen Unternehmen frei entscheiden können.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 0,
+       "SPD" : 2,
+       "GRÜNE" : 2,
+       "FDP" : 0,
+       "LINKE" : 2,
+       "PIRATEN" : 1
+       }, 
+    "comments":
+      {
+       "CDU" : "Es ist nicht Aufgabe des Staates, Gehälter gesetzlich festzulegen. Weder bei Managern noch bei Sportlern oder anderen Spitzenverdienern. Eine Ausnahme ist der öffentliche Dienst oder wenn der Staat Eigentümer von Unternehmen ist. Wir haben aber Rahmenbedingungen geschaffen, die auf eine stärkere Orientierung der Managergehälter an der langfristigen Unternehmensentwicklung und eine wichtigere Rolle der Hauptversammlung bei der Gehälterfestlegung zielen. Auswüchsen können die Aktionäre so begegnen.",
+       "SPD" : "Wir treten für Regeln ein, die Gehälter von Spitzenmanagern so begrenzen können, dass sie in einem angemessenen Verhältnis zum Einkommen ihrer Mitarbeiter stehen.",
+       "GRÜNE" : "Wir Grüne wollen Managergehälter am langfristigen Erfolg ausrichten und die volle steuerliche Absetzbarkeit auf 500.000 Euro Jahreseinkommen begrenzen. Millionenabfindungen für gescheiterte Managerinnen und Manager darf es nicht mehr geben.",
+       "FDP" : "Manager sollen ihr Gehalt nicht selber steuern oder nur intransparent mit Aufsichtsräten verhandeln. Daher wollen wir die Rechte der Aktionäre an ihrem Unternehmen stärken. Sie sind die Eigentümer. Die Manager sind ihre Verwalter. Dieses Verhältnis muss sich in den Aktionärsrechten widerspiegeln. Auch um nachhaltige und unter Risikogesichtspunkten verantwortbare Investitionsentscheidungen zu befördern. Daher wollen wir den Einfluss der Hauptversammlung auf die Vergütung des Managements stärken.",
+       "LINKE" : "Wir fordern eine gesetzliche Begrenzung der Managergehälter auf das 20-fache der untersten Lohngruppe des jeweiligen Unternehmens. Das entspräche in Deutschland immer noch einem Jahresgehalt von etwa einer halben Million Euro. Dazu soll die steuerliche Abzugsfähigkeit von Jahresgehältern auf eine halbe Million Euro beschränkt werden. Boni und überhöhte Abfindungen wollen wir insgesamt ausschließen.",
+       "PIRATEN" : "Zu dieser Frage haben wir noch keine abschließende Position. Wir wollen zwar nicht Reichtum verhindern, sondern Armut. Es ist aber notwendig, dass die Verursacher der Krise für ihre Kosten aufkommen. Dies ist bisher nur unzureichend geschehen. Wir treten für bundesweite Volksentscheide ein. Ein solcher Volksentscheid hat in der Schweiz zur Begrenzung der Gehälter von Spitzenmanagern geführt."
+      }
+  },
+    {
+    "title": "Vereinigte Staaten von Europa",
+    "question": "Die Europäische Union soll sich langfristig zu einem europäischen Bundesstaat entwickeln.",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "CDU" : 2,
+       "SPD" : 0,
+       "GRÜNE" : 0,
+       "FDP" : 0,
+       "LINKE" : 2,
+       "PIRATEN" : 0
+       }, 
+    "comments":
+      {
+       "CDU" : "Für die CDU sind die Nationalstaaten und die Identität ihrer Völker prägende Bestandteile eines Europas der Einheit in Vielfalt. Der Nationalstaat wird sich wandeln, aber auf Dauer Bestand haben. Im Rahmen der ihr von den Nationalstaaten zugewiesenen Kompetenzen arbeitet die Europäische Union jedoch nach bundesstaatlichen Prinzipien und Methoden.",
+       "SPD" : "Zunächst kommt es jetzt darauf an, dass Europa die Krise meistert und seine Probleme in den Griff bekommt. Ein neuer europäischer Verfassungskonvent ist eine darüber hinausgehende langfristige Perspektive. Von entscheidender Bedeutung wird es allerdings bei allen weiteren Reformschritten der EU sein, auf die Kritik und Sorgen der Menschen gegenüber der EU einzugehen und die Bürgerinnen und Bürger mitzunehmen. Europa hat nur eine Zukunft, wenn es neues Vertrauen gewinnt.",
+       "GRÜNE" : "Die EU ist weder ein herkömmlicher Bundesstaat noch ein traditioneller Staatenbund. Sie ist etwas eigenständiges Neues. Den Prozess der europäischen Integration wollen wir weiter vorantreiben mit dem Ziel einer demokratischeren, solidarischeren und stärkeren Union. Wir wollen Entscheidungen dort treffen, wo sie hingehören. Das heißt, weder eine zentralistische EU, die möglichst viele Entscheidungen auf die europäische Ebene verlagert, noch ein blindes Renationalisieren von Kompetenzen.",
+       "FDP" : "Dieser Weg mag noch weit sein, aber er ist das Gegenmodell zum Rückfall Europas in nationalstaatliche Kleinstaaterei. Schritt für Schritt wollen wir den Weg zum Bundesstaat schon heute begehen, indem wir die europäische Integration weiter vorantreiben. Dazu gehört eine zügige Fortschreibung der Verträge durch Einberufung eines Konvents, der nicht nur aus Parlamentariern und Regierungsvertretern besteht, sondern auch aus Vertretern der Zivilgesellschaft. .",
+       "LINKE" : "Ein Bundesstaat bietet nicht die Lösung der Grundprobleme der EU. Uns geht es um die Richtung der Entwicklung. Spätestens seit dem Vertrag von Maastricht gibt es eine umfassende neoliberale Ausrichtung der EU. Die Grundsatzverträge der EU sollten neu verhandelt werden, um einen Neustart für eine demokratische, soziale, ökologische und friedliche Europäische Union zu ermöglichen. Über neue EU-Verträge müssen in allen EU-Mitgliedstaaten Volksabstimmungen abgehalten werden.",
+       "PIRATEN" : "Wir streben für die Zukunft Europas einen offenen Prozess an, der von den Bürgerinnen und Bürgern Europas  gemeinsam getragen wird. Langfristig sehen wir die Chance, dass Europa als ein demokratischer  europäischer Bundesstaat mit eigener Verfassung gestaltet wird, die in einem direktdemokratischen Prozess mit breiter Mehrheit aller Europäer entworfen und in Referenden der Mitgliedsländer angenommen wird."
+      }
+  } 
+]
