@@ -95,8 +95,12 @@ function init ()
 			}
 			if (!preferences.questions.skipAndWeightInNewLine)
 			{
-				styleButtons += "<div class=\"question_button\" onclick=\"skipQuestion()\"> <img src=\"img/skip_icon.png\" class=\"answerIcon\" id=\"skipIcon\">#</div>"
-								.sharplate((preferences.questions.wrapAfterIcon ? "<br>" : "") + preferences.questions.skipText + preferences.questions.showKeyNumbers ? " (0)" : "");
+				styleButtons += "<div class=\"question_button\" onclick=\"skipQuestion()\">"
+							 +  (preferences.questions.showAnswerIcons ? "<img src=\"img/skip_icon.png\" class=\"answerIcon\" id=\"skipIcon\">" : "")
+							 +  (preferences.questions.wrapAfterIcon ? "<br>" : "")
+							 +  preferences.questions.skipText
+							 +  (preferences.questions.showKeyNumbers ? " (0)" : "")
+							 +  "</div>";
 				if(preferences.doubleWeight)
 					{styleButtons += "<div id=\"doubleWeightButton\" class=\"question_button\" onclick=\"doubleWeight()\" >  <img src=\"img/check.png\" id=\"weightimage\" class=\"answerIcon\">#</div>"
 										.sharplate((preferences.questions.wrapAfterIcon ? "<br>" : "") + preferences.questions.doubleWeightText);;}

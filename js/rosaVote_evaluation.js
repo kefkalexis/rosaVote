@@ -114,10 +114,9 @@ function buildEvaluationSite()
 		$(".ownAnswerCol").css("width", preferences.evaluation.ownAnswerColWidth).
 			css("max-width", preferences.evaluation.ownAnswerColWidth);
 		
-		setTimeout(reevaluate,2);
 		$("#evaluationTable").scrollTop(0);
-		
 		fixWidths();
+		reevaluate();
 	}
 
 
@@ -416,10 +415,11 @@ function fixWidths()
 	{
 		// -------------------------------
 		//Abstände werden korrigiert, damit Fragentabelle und Parteiendiagramm zusammenpassen
-		var questionwidth = $(".evalQuestRow td").first().outerWidth()
-		$("#lefttop_space").css("width", questionwidth)
 		//Höhe der Auswertungstabelle setzen
 		$("#evaluationTable").css("top",$("#tableheader").position().top + $("#tableheader").height());
+		var questionwidth = $(".evalQuestRow td").first().outerWidth()
+		$("#lefttop_space").css("width", questionwidth)
+
 	}
 
 
