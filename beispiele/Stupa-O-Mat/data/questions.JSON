@@ -1,0 +1,578 @@
+[
+  {
+    "title": "Stipendien",
+    "question": "Die Studienleistung soll das wesentliche Merkmal bei der Vergabe von Stipendien sein.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":0,"LHG":0,"PIRATEN":2,"Juso":2,"GAL":2,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Es haben sowohl leistungsorientierte als auch z.B. auf Basis sozialer Aspekte vergebene Stipendien eine Daseinsberechtigung. Diese Frage ist daher nicht eindeutig zu beantworten.",
+      "RCDS":"Die Studienleistung muss bei den vom KIT vergebenen Stipendien das Hauptkriterium sein. Daneben sollen aber auch das soziale Engagement, Praktika, sowie besondere persönliche oder familiäre Umstände eine Rolle spielen.",
+      "LHG":"Wir sind klar für eine leistungsorientierte Vergabe von Stipendien. Jedoch sollte neben den reinen Studienleistungen gleichberechtigt andere Aspekte berücksichtigt werden, wie z.B. Ehrenamt, Zivil- oder Wehrdienst als auch sportliche Leistungen.",
+      "PIRATEN":"Dinge, wie freiwilliges Engagement, Forschung oder soziale Benachteiligung sind mindestens gleichwertige Kriterien, welche nicht vernachlässigt werden sollten.",
+      "Juso":"Das ehrenamtliche und freiwillige Engagement neben dem Studium, sowie die Lebenssituation der Studierenden müssen berücksichtigt werden.",
+      "GAL":"Wir lehnen staatlich finanzierte Stipendien ab und setzen uns dafür ein, dass stattdessen das BAföG für alle Studierenden bedarfsdeckend ist. Zumindest aber sollten soziale Komponenten für die Stipendienvergabe eine wichtige Rolle spielen.",
+      "LISTE":"Die LISTE fordert die Schaffung von Stipendien, deren Vergabe sich nach der Anzahl der Hochschulsemester richtet.",
+      "LuSt":"Leistungsbegriffe sind im allgemeinen zu unspezifiziert. Bedeutet Studienleistung einfach ein möglichst guter Notenschnitt oder eine schelle Studienzeit? Es gibt wesentlich mehr Kriterien, die die Fähigkeiten und das wirkliche Wissen eines Menschen ausmachen. Auch ehrenamtliches Engagement ist etwas, das man in unseren Augen bei der Vergabe von Stipendien unbedingt beachten sollten."
+      }
+  },
+  {
+    "title": "BAföG",
+    "question": "Das BAföG soll elternunabhängig ausgezahlt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":0,"LHG":0,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Das BAföG soll so gestaltet sein, dass Leute gefördert werden, die die Unterstützung wirklich brauchen. Es sind vielfältige Änderungen anzustreben um Fälle im Grenzbereich individuell berücksichtigen zu können. Auch die BAföG-Sätze müssen an die Realität angepasst werden.",
+      "RCDS":"Wir wollen die BAföG-Förderung langfristig elternunabhängig ausgestalten. Die Finanzierung des Studiums muss auf seine Profiteure übertragen werden: die Studenten und die Gesellschaft. Die finanzielle Unterstützung muss allen Studenten zugänglich sein. Zur Erreichung dieses Zieles ist aus Gründen der Finanzierung eine Umstrukturierung des BAföG notwendig, so dass die erhaltenen Zahlungen zu 100 % zinslos zurückgezahlt werden müssen.",
+      "LHG":"Das Beziehen von BAföG sollte unabhängig vom Geldbeutel der Eltern möglich sein.",
+      "PIRATEN":"BAföG ist nicht viel mehr als ein Kredit, dessen Auszahlung nicht von den Eltern abhängen sollte. Zwar sind Gelder einklagbar, doch sollten Student*innen nicht unnötig dieser zusätzlichen Belastung ausgesetzt sein.",
+      "Juso":"Jede*r soll BAföG erhalten können. Inwiefern dies jedoch als Vollzuschuss oder als zinsloses Darlehen erfolgt, muss elternabhängig entschieden werden.",
+      "GAL":"Nicht jeder Studierende möchte seine Eltern verklagen, wenn diese ihm oder ihr nicht monatlich den für ein Studium benötigten Betrag überweisen. Die Angewiesenheit auf die finanzielle Unterstützung durch die Eltern bringt viele Studierende dazu, einen zeitaufwendigen Nebenjob aufzunehmen, wodurch ein Vollzeitstudium in Regelstudienzeit oft nicht mehr möglich wird.",
+      "LISTE":"Elitenförderung für alle! Die LISTE steht für Elitenförderung der breiten Masse. Wir fordern BAföG für alle sowie eine deutliche Anhebung des BAföG-Satzes. Außerdem soll zum Zwecke der Elitenförderung die Anzahl der Deutschlandstipendien am KIT von derzeit rund 190 auf 25.000 aufgestockt werden.",
+      "LuSt":"Jeder Mensch soll mit Erwerb der Volljährigkeit auch größtmögliche Unabhängigkeit erreichen. Dazu gehört auch nicht durch ein Studium zurück in eine Abhängigkeit von Eltern oder Banken getrieben zu werden."
+      }
+  },
+  {
+    "title": "Studiengebühren",
+    "question": "Studiengebühren sind in allen Formen abzulehnen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":2,"LHG":1,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Studiengebühren wurden in Baden-Württemberg zum Glück wieder abgeschafft. Zumindest das Erststudium inklusive Master soll kostenfrei sein, deshalb wollen wir, dass das so beibehalten wird.",
+      "RCDS":"Das Konzept, Studiengebühren i.H.v. 500 Euro pro Semester einzufordern, ist in Deutschland gescheitert. Die Beteiligung der Studenten bzw. Absolventen an den Kosten der Hochschulbildung - von der sie selbst massiv profitieren - ist nur fair und richtig. Modellen nachgelagerter Studiengebühren steht der RCDS daher offen gegenüber.",
+      "LHG":"Ideal wäre die teilweise Finanzierung durch berufstätige Absolventen einer Universität (Alumnibeitrag). Hierdurch würden junge und arme Studenten nicht belastet, aber der Uni ein angemessener Gegenwert für die Dauer der Ausbildung zur Verfügung gestellt. Außerdem hätte dadurch die Uni ein Interesse, ihre Studenten noch besser auszubilden, damit sie schnell verdienstreiche und sichere Positionen bekommen.",
+      "PIRATEN":"Studiengebühren schaffen unabhängig von der Ausgestaltung ein Zweiklassensystem, was nicht zu unterstützen ist.",
+      "Juso":"Bildung ist Grundrecht. Wir fordern kostenfreies Lernen von der Kita bis zur Hochschule.",
+      "GAL":"Bildung ist für alle da. Diesem Prinzip entsprechend lehnen wir Studiengebühren in jeder Form ab, da sie sozial ungerecht sind. Wir setzen uns stattdessen für eine stärkere Finanzierung der Hochschule durch Bund und Land ein, z.B. durch die Abschaffung des Kooperationsverbots.",
+      "LISTE":"Die LISTE lehnt allgemeine Studiengebühren grundsätzlich ab (Ausnahme: Studiengebühren für Mitglieder von RCDS und LHG). Als nächster Schritt nach der Abschaffung der Studiengebühren muss die Einführung einer allgemeine Studienvergütung stehen. Dadurch sollen zusätzliche Anreize geschaffen werden, sich mithilfe eines Studiums Wissen und Fähigkeiten anzueignen, die der gesamten Gesellschaft zugute kommen. Diese überragende und zukunftsweisende Forderung der LISTE wird wie keine andere ihren Beitrag leisten, um den akuten Fachkräftemangel, wie er zur Zeit z. B. akut in der Bundesregierung besteht, zu überwinden. Die Finanzierung der Studienvergütung ist dabei durch eine Abgabe für Unternehmen, die Bachelor- Absolventen beschäftigen möchten, zu gewährleisten. Die Kosten, die früher die Unternehmen im System der dualen Berufsausbildung zu tragen hatten, gingen im Zuge der Gründung der Fachhochschulen und noch vielmehr im Zuge der Bologna-Reform auf den Staat über",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Mindestlohn für Praktika",
+    "question": "Der Mindestlohn soll für studentische Praktika gelten.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":1,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Die Einführung eines Mindestlohnes für studentische Praktika hat sowohl für uns Studenten als auch für die Betriebe erhebliche Nachteile. Deshalb schließen wir uns der Meinung des Gesetzgebers an: Bei Pflichtpraktika ist der Mindestlohn nicht anzuwenden. Für zusätzliche Praktika sieht der Gesetzgeber momentan den Mindestlohn vor. Hier ist die Entwicklung in den nächsten Jahren aufmerksam zu beobachten.",
+      "RCDS":"Ein Mindestlohn für studentische Praktikanten birgt die Gefahr, dass viele Praktikumsplätze wegfallen bzw. die Qualität des Praktikums sich deutlich verschlechtert. Ein Praktikum dient nicht zum Bestreiten des Lebensunterhaltes, sondern zum Kennenlernen eines Unternehmens und einer Branche. Daher ist es anders zu behandeln als andere Arbeitsverhältnisse.",
+      "LHG":"(Pflicht-)Praktika von Studenten, zumindest im Bachelor, sind als Teil der Ausbildung zu sehen und produzieren auf Seite des Unternehmens zunächst Kosten, da eine enge Betreuung erfolgen muss. Eine Bezahlung am Maßstab Festangestellter ist daher unrealistisch. Bei längerfristigen Praktika und/oder Praktika mit abgeschlossenem Bachelor halten wir eine Bezahlung von 8,50 € aber durchaus für angemessen. Dies sollte jedoch nicht vom Gesetzgeber erzwungen werden.",
+      "PIRATEN":"Alles andere ist Lohndumping, teils mit hochqualifizierten Arbeitskräften.",
+      "Juso":"Wir fordern eine angemessene Betreuung und faire Entlohnung von Praktika.",
+      "GAL":"Arbeit ist Arbeit und sollte fair und gleich bezahlt werden, egal ob studentisches Praktikum oder HiWi-Stelle.",
+      "LISTE":"Studenten sind ja schließlich keine Zeitungsausträger.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Wohnheimplatzvergabe",
+    "question": "Studierende aus dem Ausland sollen bei der Wohnheimplatzvergabe bevorzugt behandelt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":2,"LHG":1,"PIRATEN":0,"Juso":1,"GAL":1,"LISTE":2,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"In den Wohnheimen sollten Plätze für ausländische Studierende wie bisher vorgehalten werden. Je weiter der Weg zum Studienort desto höher ist der Aufwand eine Wohnung auf eigene Faust zu finden.",
+      "RCDS":"Allein der ausländische Pass darf nicht zu einer bevorzugten Behandlung führen. Die Nähe zum ursprünglichen Wohnort sowie der zeitliche Eingang der Bewerbung auf einen Wohnheimplatz müssen viel eher berücksichtigt werden.",
+      "LHG":"Studierende aus dem Ausland haben es mit Sicherheit schwerer eine geeignete Bleibe für die Aufenthaltsdauer zu finden. Jedoch haben auch inländische Studenten mit der Wohnungsnot in Karlsruhe zu kämpfen.",
+      "PIRATEN":"Die PIRATEN-Liste setzt sich für eine Quotierung ein mit einer Mindestplatzanzahl für ausländische Student*innen. Soziale und kulturelle Durchmischung fördert die Internationalisierung der Studierendenschaft.",
+      "Juso":"Wir unterstützen die bestehende Quoten-Regelung. Dadurch muss eine ausreichende Anzahl an Wohnheimplätzen für ausländische Studierende sichergestellt werden.",
+      "GAL":"Bei einigen Wohnheimen in Karlsruhe gibt es jetzt schon Quoten für ausländische Studierende. Dies ist auch sinnvoll, da es für einige Studierende leider immer noch sehr schwer ist, auf dem freien Wohnungsmarkt eine Wohnung zu finden. Eine wichtige Fragen wäre, wie weit eine solche Quote/ Bevorzugung gehen sollte.",
+      "LISTE":"Die LISTE fordert: Schwaben sollen bei der Wohnheimplatzvergabe benachteiligt behandelt werden.",
+      "LuSt":"Prinzipiell heißen wir es gut Wohnheimplätze eher an Studenten zu vergeben, die nicht aus der Umgebung kommen. Das Ausland als Kriterium zu nehmen ist uns allerdings zu stumpf, insbesondere, da die französische Grenze gar nicht weit ist. Sinnvoller wäre es hier einen bestimmten Radius um Karlsruhe herum festzulegen."
+      }
+  },
+  {
+    "title": "Wohnheimsmiete",
+    "question": "Die Studierendenwohnheimsplätze sollen aus dem Mietanteil des BAföG bezahlbar sein.",
+    "annotation": "Der Mietanteil beim BAföG beträgt momentan 224€.",
+    "style": "standard",
+    "answers": {"FiPS":1,"RCDS":0,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Günstige Wohnheimszimmer sind sehr wichtig. Dennoch kann das BAföG nur eine Unterstützung sichern. Es ist nicht finanzierbar alle Wohnheimsplätze für die Wohnpauschale von 224 € anzubieten.",
+      "RCDS":"Das BAföG muss schnellstmöglich signifikant erhöht werden. Dass selbst eigentlich günstige Wohnheimplätze nicht aus dem Mietanteil des BAföG zu bezahlen sind, ist nicht hinnehmbar!",
+      "LHG":"Der Schlüssel des BAföG wird deutschlandweit berechnet. Lokale Gegebenheiten und Preisstrukturen sollten keine Berücksichtigung finden.",
+      "PIRATEN":"Ja, wobei hier nicht nur auf die Wohnheimplätze, sondern auch auf die Höhe des BAföGs Einfluss genommen werden sollte.",
+      "Juso":"Wohnheimplätze werden vor allem nach sozialen Kriterien vergeben. Folglich finanziert sich der Großteil der in Wohnheimen lebenden Studierenden durch das BAföG. Insofern muss ein Wohnheimplatz aus dem Mietanteil bezahlbar sein. Der Mietanteil des BAföG sollte jedoch regional differenziert gestaltet werden und muss deshalb gerade für Städte wie Karlsruhe erhöht werden. Wir unterstützen außerdem die Mietpreisbremse und die Neuordnung der Maklergebühren, dies entlastet alle Mieter.",
+      "GAL":"Natürlich müssen Studierendenwohnheimsplätze vom BAföG bezahlbar sein. Es sollte außerdem die Durchschnittsmiete in einer Stadt pro Studierendem/r vom BAföG bezahlbar sein, da man als Studierende*r vom BAföG leben können sollte und Wohnheimsplätze ja meist billiger als sonstige Wohnungen oder Zimmer sind.",
+      "LISTE":"Wir fordern: Der BAföG-Satz muss soweit erhöht werden, dass aus dem Mietanteil nicht nur Studierendenwohnheimsplätze sondern auch Penthouse-Wohnungen in bester Lage bezahlbar sind.",
+      "LuSt":"Wofür gibt es denn sonst den Mietanteil?"
+      }
+  },
+  {
+    "title": "Kinderbetreuung",
+    "question": "Das KIT soll Betreuungsmöglichkeiten, z.B. eine Kinderkrippe und einen Kindergarten für studierende Eltern anbieten.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":2,"LHG":0,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":2,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Auf jeden Fall! Gerade für studentische Eltern ist es sehr wichtig, dass ausreichend günstige und campusnahe Obhutsmöglichkeiten für Kinder vorhanden sind. Der KIT-Kindergarten sollte nicht nur für Mitarbeiter, sondern auch für Studenten offen sein.",
+      "RCDS":"Die Einrichtigung von Krippen und Kindergärten ist Aufgabe der Stadt. Der RCDS sieht das KIT vor dem Hintergrund beschränkter Ressourcen nicht in der Lage, Kinderbetreuung auf adäquatem Niveau zur Verfügung zu stellen. Eine Kooperation des KIT mit der Stadt steht der RCDS offen gegenüber.",
+      "LHG":"Die Größe der Einrichtungen sollte sich an der Nachfrage orientieren.",
+      "PIRATEN":"Studentische Lösungen wie die Kinderkiste haben nicht zum erhofften Erfolg geführt. Gleichzeitig ist genug Bedarf für ein solches Angebot gegeben.",
+      "Juso":"Bei einer Quote von 7% Studierenden mit Kind klaffen Betreuungsangebot und ‑nachfrage weit auseinander. Zur Erfüllung des Rechtsanspruchs auf einen Betreuungsplatz für unter Dreijährige fehlen in Karlsruhe noch immer viele Plätze. Deshalb fordern wir das KIT auf Betreuungsmöglichkeiten auszubauen und insbesondere die hochschuleigenen Betreuungsangebote, die sich bislang an Mitarbeiter*innen richten, auch für die Kinder von Studierenden zu öffnen.",
+      "GAL":"Studentische Eltern müssen vom KIT unterstützt werden. Diese Betreuungsmöglichkeiten müssen für die Studierenden kostenlos sein. Deswegen fordern wir z.B. außerdem die Einrichtung von Wickeltischen am Campus.",
+      "LISTE":"Wer meint, Plagen in die Welt setzten zu müssen, soll sich gefälligst auch selbst darum kümmern.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "fzs",
+    "question": "Die Studierendenschaft soll Mitglied im fzs (freier zusammenschluss von studentInnenschaften) werden.",
+    "annotation": "'Der fzs ist ein deutschlandweiter Dachverband von Studierendenvertretungen (<a href='http://www.fzs.de' target='_blank'>www.fzs.de</a>)'",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":1,"GAL":0,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Die Kosten für die Mitgliedschaft im fzs und der daraus resultierende Nutzen stehen aus unserer Sicht in einem sehr schlechten Verhältnis. Wir unterstützen das Veto der Fachschaftenkonferenz gegen den fzs-Beitritt mit eventueller Urabstimmung zum Thema fzs-Mitgliedschaft.",
+      "RCDS":"Der fzs ist ein linker und bisweilen sogar linksradikaler Zusammenschluss von Langzeitstudenten, die das Geld unserer Studentenschaft für sinnfreie Strukturdebatten verschwenden. Dies zeigen sowohl die Protokolle der Mitgliederversammlungen als auch die jüngste mediale Berichterstattung über den fzs. Eine bundesweite studentische Interessenvertretung halten wir für wichtig - diese ist der fzs allerdings nicht.",
+      "LHG":"Der fzs ist ein linksradikaler Bund, trifft sich mit der Antifa und leistet nichts für die Studenten. Dafür will er jährlich 20.000 Euro von euch. Wir sehen daher keinen Anlass dem fzs beizutreten.",
+      "PIRATEN":"Ja. Politische Arbeit ist insbesondere auf Bundesebene ohne diesen Verband schwer möglich.",
+      "Juso":"Eine gemeinsame Vertretung der Studierenden auf Bundesebene ist wichtig! Unter Anderem bedarf es eines Ansprechpartners für die Bundespolitik, wenn es z.B. ums BAföG geht. Gleichzeitig können wir Kritik am FZS  in einzelnen Punkten verstehen. Im Moment ist der Diskussionsprozess innerhalb unserer Hochschulgruppe noch nicht so weit gediehen, dass wir zu dieser komplexen Frage eine abschließende Position vertreten könnten. Das werden wir aber sehr bald ändern.",
+      "GAL":"Die Studierendenschaft braucht eine Interessenvertretung auf bundesweiter Ebene, da hier viele für Studierende relevante Themen entschieden werden, z.B. BAföG. Der einzige existierende überparteiliche Verband der dies leisten kann ist der fzs.",
+      "LISTE":"Die LISTE begrüßt zwar, dass sich der fzs Personen annimmt, die auf dem Arbeitsmarkt keine Verwendung finden und ihnen im Vorstand ein auskommen verschafft. Allerdings sehen wir es nicht als Aufgabe der Studierendenschaft an, solche Maßnahmen zu finanzieren. Schließlich bezahlen dafür inzwischen auch Studenten den Rundfunk„beitrag“.",
+      "LuSt":"Wir finden zu so einem wichtigen Thema sind alle Studierenden am KIT zu befragen. Immerhin kostet die Mitgliedschaft in wenigen Semestern eine ganze Stange Geld. Geld das von den Studierenden eingezogen wird. Darüber hinaus sehen wir keinen Vorteil, den die Studierendenschaft in den letzten Jahren aus der Mitgliedschaft gezogen haben soll."
+      }
+  },
+  {
+    "title": "Vorlesungsmaterialien",
+    "question": "Alle Vorlesungsmaterialien sollen öffentlich, kostenfrei und digital zur Verfügung gestellt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":1,"LHG":0,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Jein: Die Vorlesungsmaterialien sollen kostenfrei und digital zur Verfügung stehen - und das über eine am KIT einheitliche Plattform. Eine Veröffentlichung über Grenzen der Universität hinaus sollte nicht verpflichtend sein.",
+      "RCDS":"An einer Universität sollen alle Vorlesungsmaterialien online zur Verfügung gestellt werden - und das selbstverständlich kostenfrei. Aufgrund von datenschutzrechtlichen Vorgaben, z.B. bzgl. Abbildungen aus Lehrbüchern, können Vorlesungsunterlagen allerdings nicht öffentlich für Nicht-Studenten gemacht werden.",
+      "LHG":"Wir unterstützen die Bereitstellung von Material nach dem Vorbild des MIT.",
+      "PIRATEN":"Die PIRATEN-Liste erachtet dies als dringend geboten, trotz entstehender rechtlicher Schwierigkeiten.",
+      "Juso":"Der Zugang zu Lehrmaterialien ist so einfach, wie möglich zu gestalten. Steht das Urheberrecht einer Veröffentlichung entgegen, sollen die Materialien auf einer internen Plattform (z.B. Ilias) veröffentlicht werden.",
+      "GAL":"Diese Forderung ist generell wünschens- und unterstützenswert. Dabei müssen aber leider copyright-rechtliche Fragen bei einer Veröffentlichung berücksichtigt werden.",
+      "LISTE":"Ja soll man denn etwa wirklich in die Vorlesung gehen?",
+      "LuSt":"Universitäten haben einen Bildungsauftrag den Sie mit Hilfe von öffentlichen Geldern (die im übrigen leider nicht ausreichend sind) vollziehen. Unserer Meinung sollte alles von öffentlicher Hand bezahlte den Bürgern zur Verfügung stehen."
+      }
+  },
+  {
+    "title": "Open Source-Software",
+    "question": "Das KIT sollte bevorzugt frei verfügbare Software (Open Source) anstelle von Produkten kommerzieller Anbieter verwenden und den Studierenden bereitstellen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":0,"PIRATEN":0,"Juso":1,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Häufig hat proprietäre Software deutliche Vorteile gegenüber Open-Source-Anwendungen. Weiterhin wird sie von den Anbietern für Uni-Mitglieder sehr kostengünstig zur Verfügung gestellt. Das wollen wir ungern aufgeben. Open-Source-Software ist für Interessierte auch auf anderen Wegen erhältlich. Gerade in unserer Ausbildung ist es wichtig, dass man den Umgang mit Software lernt, die auch in der Wirtschaft verwendet wird.",
+      "RCDS":"In der Lehre am KIT soll mit der Software gearbeitet werden, die auch in der Wirtschaft am weitesten verbreitet ist, um den Studenten auf das Berufsleben optimal vorzubereiten. Die entsprechenden Lizenzen für diese  - ggf. kostenpflichtige - Software muss das KIT den Studenten kostenlos zur Verfügung stellen.",
+      "LHG":"Wir begrüßen den Einsatz von Open-Source Software aber die Qualität der Software sollte ausschlaggebend dafür sein, ob das KIT diese nutzt oder nicht. Ein pauschales 'Verbot' der Nutzung kommerzieller Software lehnen wir ab.",
+      "PIRATEN":"Ja, wann immer es eine zu kommerziellen Produkten gleichwertige freie Alternative gibt. Freie Software ermöglicht eine leichte Anpassung und Weiterentwicklung zugunsten des wissenschaftlichen Fortschritts, denn auch alle Forschungseinrichtungen können von den Weiterentwicklungen einzelner Einrichtungen profitieren.",
+      "Juso":"Bei gleichem Funktionsumfang ist es sinnvoll Open-Source-Software zu verwenden. Gleichwohl ist auf Schnittstellenprobleme zu achten, die es bei spezieller Software geben kann. Wissenschaftlerinnen und Wissenschaftler müssen weiterhin kommerzielle Software verwenden dürfen, wenn ihnen durch die Verwendung eines Open-Source-Pendants ein Nachteil entsteht. Hier ist Augenmaß gefragt.",
+      "GAL":"Diese These ist leider nicht  korrekt zu beantworten, da z.B. Google ebenfalls open-source-Code basierte Software produziert und trotzdem mit dem Einsatz dieser auch Geld verdient (also kommerziell ist). Wir sind generell aber dafür, dass wenn möglich freie Software eingesetzt wird und befürworten ebenfalls den Einsatz von Open-Source-Software.",
+      "LISTE":"Schönen Gruß an die PIRATEN-Liste, die jetzt schon ihren Werbespruch von unserem Vorsitzenden raubmordkopiert. Der Anwalt ist eingeschaltet!",
+      "LuSt":"Es mag Situationen geben, in denen man mit Open Source nicht weiter kommt. In allen anderen Fällen ist dieser Weg jedoch zu bevorzugen."
+      }
+  },
+  {
+    "title": "Open Access-Plattform",
+    "question": "Forschungsergebnisse sollen grundsätzlich über eine Open-Access-Plattform öffentlich und kostenfrei zur Verfügung gestellt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":1,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Vor allem bei Forschung mit Industriebeteiligung ist das weder angebracht noch praktikabel. Außerdem werden dadurch industriefinanzierte Forschungsprojekte geschwächt. Das hat für uns Studenten auch negative Auswirkungen auf Abschlussarbeiten und Praktika.",
+      "RCDS":"Der Zwang, alle Forschungsergebnisse veröffentlichen zu müssen, führt dazu, dass Kooperationen mit Unternehmen, z.B. in Form von Abschlussarbeiten, nicht mehr möglich sind. Unternehmen bestehen sehr oft darauf, dass die in einer Forschungskooperation entstandenen Ergebnisse nicht öffentlich gemacht werden.",
+      "LHG":"Ein Großteil der Forschung wird rein aus Steuergeldern finanziert und sollte daher öffentlich gemacht werden. In Einzelfällen oder bei berechtigtem Interesse muss es jedoch auch Möglich sein Ergebnisse nicht zu veröffentlichen.",
+      "PIRATEN":"Patente-Horten auf Staatskosten ist abzulehnen.",
+      "Juso":"Forschungsergebnisse, die an Einrichtungen der öffentlichen Hand erzielt wurden, sollen öffentlich und kostenfrei zugänglich sein, z.B. durch die Bereitstellung von Publikationen. Das gilt auch für Drittmittel-Forschung, schließlich greift sie auf öffentliches Eigentum zurück. Diese muss zumindest KIT-intern zugänglich sein. Für die Veröffentlichung von Forschungsergebnissen am KIT bietet sich eine einheitliche Plattform an.",
+      "GAL":"Eine Hochschule wird von öffentlicher Hand finanziert (zumindest sollte es so sein). Deswegen müssen die Ergebnisse der so finanzierten Forschung auch wieder öffentlich und kostenfrei der Gesellschaft zur Verfügung gestellt werden.",
+      "LISTE":"Das wurde ja auch von MEINEN Steuergeldern bezahlt!1!!",
+      "LuSt":"Die Forschung wird zu einem überwiegenden Teil von der öffentlichen Hand bezahlt. So ist es nur Folgerichtig allen Bürgern Zugang zu den Ergebnissen zu geben."
+      }
+  },
+  {
+    "title": "Maximalstudienzeit",
+    "question": "Die Maximalstudienzeit in den Prüfungsordnungen soll abgeschafft werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":1,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Das soll für jeden Studiengang individuell entschieden werden - unter Einbeziehung der studentischen Vertreter. Wichtiger sind uns sinnvolle Fristen und gute Regelungen für Härtefälle.",
+      "RCDS":"Die Maximalstudienzeit führt zum Anreiz, ein Studium in einer gewissen Zeit ernsthaft durchzuführen. Ein Langzeitstudent kostet das KIT unverhältnismäßig viel und bindet über lange Zeit Ressourcen, die im heutigen Hochschulalltag bereits knapp sind. Nur in besonderen Einzelfällen darf von dieser Regelung abgewichen werden.",
+      "LHG":"Die Maximalstudienzeit ist fair bemessen und die gängige Praxis am KIT hinsichtlich Härtefallanträgen reicht aus um Studenten, die die Maximalstudienzeit um ein Semester überschreiten, einen Abschluss zu ermöglichen.",
+      "PIRATEN":"Student*innen können und sollen selbst entscheiden, wie sie ihr Studium gestalten. Unnötiger Stress ist nicht zielführend.",
+      "Juso":"Die aktuelle Regelung zur Regel- und Höchststudiendauer lässt zu wenige Freiräume für individuelle Studiengestaltung. Wir setzten uns dafür ein, den Prüfungsdruck zu verringern. Zeit für Praxisbezug, Auslandsaufenthalte und Praktika muss eingeplant werden. Nur so kann Selbstständigkeit, eine wesentliche Qualifikation des Studiums, gefördert werden. Exmatrikulation nach Überschreiten der Höchststudiendauer kann nicht im Interesse der Hochschulen liegen. Dies trägt der individuellen Lebens- und Lernsituation keine Rechnung. Wir fordern daher: Höchststudiendauer abschaffen – Eigenverantwortung stärken!",
+      "GAL":"Ein Hochschulstudium soll nicht nur reines Wissen vermitteln, sondern unserer Meinung nach auch den Menschen an sich &quot",
+      "LISTE":"Die LISTE fordert: Lebenslanges Lernen – auch und gerade an der Hochschule. Bildungspolitik ist Zukunftspolitik und die Hochschulen spielen dabei eine zentrale Rolle. Erfolg durch Ausdauer! Auch an den Hochschulen muss sich Beharrlichkeit wieder lohnen. Wir sagen „Ja“ zum Langzeitstudium in Forschung und Lehre.",
+      "LuSt":"Die Maximalstudiendauer ist in unseren Augen ein unnötiger und unberechtigter Eingriff in das Grundrecht auf freie Berufswahl. Unabhängig von den Fristen in den Prüfungsordnungen sieht das LHG bereits die Exmatrikulation von Langzeitstudenten unter bestimmten Voraussetzungen vor."
+      }
+  },
+  {
+    "title": "Geschlechterquote",
+    "question": "Professuren sollen über eine verbindliche Geschlechterquote besetzt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":2,"GAL":0,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Professuren sollen nach Kompetenz und nicht nach Geschlecht besetzt werden - keine Bevorzugung in keiner Richtung!",
+      "RCDS":"Kompetenz in Lehre und Forschung sollen das Hauptkriterium in Berufungsverfahren sein. Wir brauchen am KIT keine Quoten-Professuren, die suggerieren, dass eine Person eine Stelle  aufgrund ihres Geschlechts erhalten hat.",
+      "LHG":"Eine Diskriminierung aufgrund religiöser oder geschlechterspezifischer Charakteristika lehnen wir ab - nur die Leistung sollte ausschlaggebend sein.",
+      "PIRATEN":"Von Quoten soll jedoch abgewichen werden können, sofern die Zusammensetzung der Bewerber eine Einhaltung unmöglich machen würde.",
+      "Juso":"Eine starre Quote halten wir nicht für zielführend. Trotzdem setzen wir uns auf allen Ebenen dafür ein, dass auf allen Stufen der wissenschaftlichen Laufbahn gleiche Chancen und Rechte für Männer und Frauen gelten. Wir fordern deshalb Entgeltgleichheit sowie die Festschreibung des sogenannten Kaskadenmodells für alle staatlich finanzierten wissenschaftlichen Einrichtungen. Nach dem Kaskadenmodell dient bei der Besetzung von Stellen der Anteil von Frauen bzw. Männern auf der vorhergehenden Qualifikationsstufe als anzustrebende Größe.",
+      "GAL":"Es gibt immer mehr Studentinnen in den Natur- und Ingenieurswissenschaften. Deshalb muss sich dies auch bei der Berufung von Professorinnen niederschlagen. Hier gibt es auch garantiert gleich- oder besser-qualifizierte Frauen für die Professorinnen-Stellen, dafür müssen Stellen aber auch frauenfreundlicher ausgeschrieben werden.",
+      "LISTE":"Andererseits: 0 % ist auch eine Quote.",
+      "LuSt":"Wir lehnen jegliche Quoten strikt ab. Insbesondere da gerade am KIT in einigen Fakultäten trotz expliziter Bemühungen um weibliche Bewerber innerhalb der Berufungskommissionen diese bei nahezu jeder Ausschreibung gleich Null ist."
+      }
+  },
+  {
+    "title": "Veganes Essen",
+    "question": "In der Mensa soll jeden Tag ein veganes Gericht angeboten werden. Dafür soll im Bedarfsfall ein Fleischgericht ersetzt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":2,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"Um vegane Ernährung in der Mensa weiter zu verbessern sind noch einige Änderungen nötig. Dazu gehört unter anderem die deutliche Kennzeichnung von veganem Essen.Grundsätzlich befürworten wir vegane Ernährung in der Mensa, welche jetzt schon überwiegend möglich ist! Dennoch finden wir diese These zu einseitig formuliert und lehnen sie daher ab.",
+      "RCDS":"Wir unterstützen grundsätzlich die Forderung nach vegetarischen und veganen Gerichten in der Mensa, möchten jedoch keine Beeinträchtigung anderer.",
+      "LHG":"Alleinig der Nachfrage der Studenten in der Mensa sollte Rechnung getragen werden. Wenn  vegane oder religiöse Gerichte stärker nachgefragt werden, sollte dieses Verhalten berücksichtigt werden.",
+      "PIRATEN":"Eine vegane Lebensweise sollte nicht durch das Mensaangebot erschwert werden, zumal derzeit genug Fleischkomponenten im Angebot sind.",
+      "Juso":"Ein vollwertiges veganes Gericht ist in den Speiseplan zu integrieren. Das kommt nicht nur Veganern zugute, sondern auch den Studierenden, die aufgrund einer Lebensmittelunverträglichkeit auf ihre Ernährung achten müssen.",
+      "GAL":"Immer mehr Menschen in Deutschland (ca. 10%) entscheiden sich für eine vegetarische oder vegane Lebensweise. Diese Entwicklung zeigt eine Änderung in der persönlichen Einstellung zu sich und dem eigenen Umgang mit der Umwelt. Bisher gibt es nicht jeden Tag ein veganes Gericht, nur vegetarische. Veganer müssen sich mit den Beilagen zu helfen wissen. Das finden wir nicht gerechtfertigt. Außerdem gibt es auch Studierende, die aufgrund religiöser Ansichten oder Allergien tierische Produkte nicht essen können. Dabei muss übrigens nicht unbedingt ein Fleischgericht ersetzt werden. Ein zusätzliches Angebot ist hier schlicht ausreichend. Auch die Ersetzung eines vegetarischen Gerichts wäre, nicht schlimm, da Vegetarier ebenso gut vegan essen können.",
+      "LISTE":"Die LISTE fühlt sich der Förderung der Tierzucht in besonderer Weise verpflichtet. Deshalb fordern wir ein generelles Verbot von veganen Gerichten. Des Weiteren sollen in der Mensa vegetarische Speisen nur noch als Beilage zu Gerichten mit Fleisch gereicht werden dürfen.",
+      "LuSt":"Die Intention dieses Anliegens können wir leider nicht nachvollziehen. Es ist seit vielen Jahren möglich sich jeden Tag vegan in der Mensa zu ernähren."
+      }
+  },
+  {
+    "title": "Landesweites Studiticket",
+    "question": "Ein durch einen Solidarbeitrag finanziertes bundeslandweites Feierabend- und Wochenendticket soll eingeführt werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":0,"LHG":2,"PIRATEN":1,"Juso":1,"GAL":1,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Wir begrüßen die Initiative, ein landesweites Studententicket einzuführen. Natürlich sind wir auch für andere Modelle offen. Auch Ermäßigungen auf die Ländertickets können eine Lösung sein, die dazu deutlich eher zu finanzieren ist. Das Ergebnis der Verhandlungen soll in der Studierendenschaft diskutiert und abgestimmt werden.",
+      "RCDS":"Der RCDS steht dem landesweiten Semesterticket grundsätzlich offen gegenüber. Wichtig ist uns, dass der Solidarbeitrag, der von allen Studenten gezahlt wird, eine vertretbare Höhe hat.",
+      "LHG":"Nein, Vorteile für Partialinteressengruppen auf Kosten der Allgemeinheit lehnen wir ab und möchten daher, dass alle Studierenden darüber abstimmen dürfen ob das bundeslandweite Ticket eingeführt werden soll oder nicht.",
+      "PIRATEN":"Ein derartiges Ticket brächte einen Mobilitätsgewinn mit sich, welcher grundsätzlich zu befürworten ist. Es muss allerdings abgewogen werden, ob die entstehenden Kosten angemessen für den entstehenden Nutzen sind und ob es eine Ausnahmeregelung für finanziell schlechter gestellte Student*innen geben soll.",
+      "Juso":"Wir unterstützen die Idee eines bundeslandweiten Feierabend- und Wochenendtickets. Die Studierendenvertreter der Hochschulen stehen in Verhandlung mit der DB AG, um bis Herbst 2014 ein möglichst gutes Angebot zu erreichen. Über die Annahme des Angebots werden die Studierenden in einer Urabstimmung entscheiden.",
+      "GAL":"Diese These ist so allgemein nicht zu unterstützen. Wir setzen uns dafür ein, dass Verhandlungen mit Bahn und Verkehrsverbünden hierzu geführt werden. Aber erst wenn die Konditionen ausgehandelt sind, kann hier eine Entscheidung getroffen werden. Wir setzen uns dafür ein, dass diese von einer Vollversammlung der Studierenden getroffen wird.",
+      "LISTE":"in bundeslandweites Feierabend- und Wochenendticket ist uns bei Weitem nicht genug. Wir werden uns für ein kostenloses Studiticket mit bundesweiter Gültigkeit inklusive ICE (mit Sitzplatzreservierung) und Inlandsflüge der Lufthansa einsetzen. Des Weiteren fordern wir eine Eingliederung des KVV ins ICE-Netz mit dem Ziel, in Zukunft am Durlacher Tor in den ICE oder TGV steigen zu können.",
+      "LuSt":"Wir halten ein derartiges Ticket für sinnvoll. Allerdings fänden wir es gut, wenn man dabei jeweils die geographische Situation der Hochschule beachtet. Im Fall von Karlsruhe wäre es hierbei wünschenswert noch einen Teil von Rheinland-Pfalz und gegebenenfalls sogar Frankreich befahren zu können."
+      }
+  },
+  {
+    "title": "Bildungsstreik",
+    "question": "Der AStA soll sich am bundesweiten Bildungsstreik beteiligen.",
+    "annotation": "Der Aufruf zum Bildungsstreik 2014 ist <a href='http://www.uni-erfurt.de/fileadmin/public-docs/Studierendenrat/pdf-Dokumente/Resolution_Bildungsstreik_2014.pdf' target='_blank'>hier</a> zu finden",
+    "style": "standard",
+    "answers": {"FiPS":1,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":1,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Wir sind für inhaltliche Entscheidungen und nicht für 'Streik des Streiks wegen'. Wir wollen zusammen mit Professoren und Universität konstruktive Lösungen finden.",
+      "RCDS":"Die Ziele des bundesweiten Bildungsstreiks und die Blockadehaltung der Teilnehmer sind für uns Karlsruher Studenten nicht zielführend. Eine Zusammenarbeit der BaWü-Vertretungen über die LandesAStenKonferenz ist weitaus wichtiger, da sich die LAK direkt an die Landesregierung wenden und z.B in Themen wie den Solidarpakt einschalten kann.",
+      "LHG":"Nein, da der Bildungsstreik populistisch, parteipolitisch und unsachlich diskutiert sowie weitergehende politische Forderungen erhebt.",
+      "PIRATEN":"Wir lehnen die Unterfinanzierung von Hochschulen ab.",
+      "Juso":"Um den heutigen Standard am KIT zu sichern sind Mehrausgaben notwendig, unter anderem eine um drei Prozent höhere Grundfinanzierung. Der Solidarpakt III sieht dagegen erhebliche Einsparungen an den Hochschulen vor. Weniger Studienplätze, Wahlmöglichkeiten und Zusatzangebote im Studium wären die Folge. Um das zu verhindern müssen sich die Studierenden Gehör verschaffen. Ein bundesweiter Bildungsstreik ist richtig, weil wir so besser sichtbar sind und nur eine Aufhebung des Kooperationsverbots die Probleme strukturell verbessern kann.",
+      "GAL":"Das Interesse und die Aufmerksamkeit von Medien und Politik lassen sich am besten mit gemeinsamen Aktionen aller Universitäten erlangen. Eine bundesweite Kommunikation und beispielsweise Demonstrationen am gleichen Kalendertag stärken nicht nur die Forderungen nach ausreichend finanzierter Bildung sondern helfen der Vernetzung der Asten allgemein.",
+      "LISTE":"Eigentlich möchten wir es dem Bildungsstreik nicht wünschen, dass sich der aktuelle AStA daran beteiligt.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Exzellenzinitiative",
+    "question": "Das KIT soll sich bei der nächsten Runde der Exzellenzinitiative oder vergleichbaren Förderprogrammen wieder engagieren.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":0,"LHG":0,"PIRATEN":1,"Juso":0,"GAL":2,"LISTE":0,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"Die dritte und letzte Runde der Exzellenzinitiative ist abgeschlossen (<a href='http://www.bmbf.de/de/1321.php' target='_blank'>http://www.bmbf.de/de/1321.php</a>). Ein Engagement ist hier also nicht mehr möglich. Andere Förderprogramme können sinnvoll sein. Wichtig ist, dass nicht nur die Forschung gefördert wird, sondern auch die Lehre nicht zu kurz kommt.",
+      "RCDS":"Die Exzellenzinitiative zur Förderung von Wissenschaft und Forschung an deutschen Hochschulen stellt eine wichtige Säule zur nachhaltigen Stärkung des Wissenschaftsstandortes und der Spitzenforschung in Deutschland dar und verbessert seine internationale Wettbewerbsfähigkeit. Wir meinen, dass sich das KIT als  eine Spitzenuniversität diesem Wettbewerb nicht entziehen darf. Allerdings muss die Lehre in zukünftigen Ausschreibungen eine größere Berücksichtigung finden.",
+      "LHG":"Bundesmittel sind immer willkommen - außerdem stärkt diese Auszeichnung die Chancen der Studenten auf dem Arbeitsmarkt und den Ruf der Stadt Karlsruhe sowie den des KIT.",
+      "PIRATEN":"Generell sind wir gegen Förderprogramme dieser Art, da sie ein Zweiklassensystem unter den Hochschulen etablieren. Einer Teilnahme stehen wir jedoch neutral gegenüber.",
+      "Juso":"Sollte es in Zukunft solche Förderprogramme geben, wird sich das KIT engagieren müssen, um seine Finanzierung zu sichern. Grundsätzlich fordern wir eine bessere Grundfinanzierung der Hochschulen statt zeitlich begrenzter Förderprogramme zur Auszeichnung von „Elite-Universitäten“.",
+      "GAL":"Jede Hochschule sollte exzellent sein und vor allem exzellente Lehre anbieten. Nur einzelne Hochschulen als Horte für die „Elite“ zu finanzieren ist der falsche Weg. Diese Elitegelder kommen i.d.R. auch „nur“ Forschungsprojekten zu gute.",
+      "LISTE":"Unbedingt. Nur so gibt es die Möglichkeit, den Exzellenz-Status noch einmal aberkannt zu bekommen.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Kameraüberwachung",
+    "question": "Wege und Freiplätze auf dem Campus sollen verstärkt kameraüberwacht werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":0,"LHG":2,"PIRATEN":2,"Juso":2,"GAL":2,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Kameraüberwachung verbessert die Sicherheitslage auf dem Campus in keiner Weise.",
+      "RCDS":"Eine Möglichkeit, die Sicherheit auf dem Campusgelände bei Nacht zu erhöhen, ist der Ausbau der Kameraüberwachung. Dass es aktuelle nur einen einzigen 'Sicheren Weg' auf dem Campus bei Nacht gibt, ist nicht hinnehmbar. Leider haben einige Vorfälle in der Vergangenheit gezeigt, dass im Punkto Sicherheit dringender Handlungsbedarf besteht.",
+      "LHG":"Freiheit ohne Überwachung ist unser Supergrundrecht!",
+      "PIRATEN":"Nichts wäre unpiratiger.",
+      "Juso":"Eine Videoüberwachung führt nachweislich nicht zu mehr Sicherheit, Verbrechen werden trotzdem begangen. Kameras könnten sogar zu einer Vernachlässigung der Zivilcourage führen.",
+      "GAL":"Eine Kameraüberwachung verhindert keine Straftaten. Da ist es doch sinnvoller die Wege am Campus besser zu beleuchten oder die Campus-Wache zu verstärken.",
+      "LISTE":"Wir halten es für ausreichend, im Internet vollumfänglich überwacht zu werden.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Sexismus",
+    "question": "Sexismus auf dem Campus ist ein aktuelles Problem, welches aktiv bekämpft werden muss.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":1,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"Wir sind gegen Geschlechterkampfmaßnahmen, aber für Beratung und Betreuung bei konkreten Fällen. Fachschaften gehen schon jetzt gegen Fälle von Sexismus vor. Auch im AStA gibt es eine Beratungsstelle.",
+      "RCDS":"Der RCDS sieht das Einstehen gegen Diskriminierung von Minderheiten auf dem Campus als extrem wichtig. Sexismus ist nach unserer Wahrnehmung allerdings kein solch gravierendes Problem, zu dem es einige andere Listen gerne machen.",
+      "LHG":"Wir stellen uns klar gegen Sexismus, stellen aber fest dass die Beurteilung dessen was Sexismus ist, stark im im Auge des Betrachters liegt. Wenn ein Problem besteht muss dieses angegangen werden - wir sehen derzeit aber keinen akuten Handlungsbedarf.",
+      "PIRATEN":"Auch vor dem KIT macht Sexismus leider keinen Halt. Die Piraten-LISTE ist für weitere Werbung der bereits vorhandenen Angebote und Informationsveranstaltungen.",
+      "Juso":"Sexismus ist ein Problem und kommt auch am KIT immer wieder vor. Ob im Studienbüro, in Tutorien, in Praktika oder Prüfungssituationen ist er jedoch häufig gut getarnt und wenig auffällig. Nichtsdestotrotz ist er durchaus ein ernstzunehmendes Problem, wie Betroffenenberichte und Statistiken im Zusammenhang mit der Einführung anonymisierter Bewertungsverfahren am KIT zeigen. Wir wollen Probleme nicht verdrängen, sondern angehen!",
+      "GAL":"Ob ein anzüglicher Kommentar oder handgreifliches Betatschen – Sexismus überschreitet die Grenzen der persönlichen und menschlichen Würde. Wir sind dafür, dass Beleidigungen und Anfeindungen nicht nur auf dem Campus verschwinden und unterstützen z. B. die Chancengleichheitsberatung des AStA aktiv mit Aktionen, damit ihr immer ein offenes Ohr für jegliche Probleme mit dem Thema Sexismus habt.",
+      "LISTE":"Die LISTE zeigt sich entsetzt über das Ausmaß an Sexismus am KIT. Es gibt deutlich mehr männliche Studierende als weibliche. Außerdem gibt es noch immer Männer in Führungspositionen. Daran zeigt sich eindeutig, dass Männer nicht in ausreichendem Maße diskriminiert werden. Deshalb fordern wir: Mehr Sexismus, und zwar sofort!",
+      "LuSt":"Selbstverständlich verachten wir Sexismus in jeglicher Form, allerdings sind uns zur Zeit keine Fälle von Sexismus auf dem Campus bekannt. Wir sehen daher kein aktuelles Problem darin."
+      }
+  },
+  {
+    "title": "Umweltschutzpapier",
+    "question": "An Universitätsdruckern soll ausschließlich Umweltschutz-Papier verwendet werden.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":1,"LHG":0,"PIRATEN":1,"Juso":1,"GAL":0,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Wir treten für das Studierendenparlament an. An der Uni gibt es größere und wichtigere Probleme als Recyclingpapier.",
+      "RCDS":"Sofern sich Kosten für Ausdrucke nicht erhöhen und die Qualität sich nicht verschlechtert, steht einer Benutzung von Umweltschutzpapier nichts im Weg.",
+      "LHG":"Wenn sich die Qualität des Papiers nicht verschlechtert, ist diese Forderung sinnvoll.",
+      "PIRATEN":"Da der ausschließliche Gebrauch von Umweltpapier insbesondere bei graphischen Darstellungen auf Probleme stößt, ist eine ausschließliche Nutzung kritisch zu sehen. Allgemein ist jedoch eine verbesserte Ökobilanz durch die großflächige Nutzung zu begrüßen.",
+      "Juso":"Wir befürworten die Benutzung von Recycling-Papier. Trotzdem sollte die Möglichkeit gegeben sein, sich für normales Papier entscheiden zu können, z.B. beim Druck von offiziellen Dokumenten.",
+      "GAL":"Umweltschutzpapier ist wesentlich nachhaltiger als konventionelles Papier und ist qualitäts-technisch fast auf gleicher Stufe wie konventionelles Papier. Jedoch auch gebleichtes (deinktes) Recyclingpapier ist wesentlich nachhaltiger als konventionelles Papier, und entspricht inzwischen im Weißheitsgrad konventionellem Papier.",
+      "LISTE":"Schluss mit dem Öko-Grau. Wir fordern anständiges weißes Papier aus frischen Bäumen für die anständigen Universitätsdrucker!",
+      "LuSt":"Wir können dieser These leider nicht pauschal zustimmen, da es immer wieder Situationen gibt, in denen man qualitativ hochwertiges Papier verwenden möchte. Oder wer hätte gerne schon ein Zeugnis auf dunkel Recyclingpapier, dass am besten in Ermangelung an Bleichmitteln noch relativ schnell vergilbt?"
+      }
+  },
+  {
+    "title": "Karrieremesse",
+    "question": "Das KIT soll keine konkurrierende Veranstaltungen zu etablierten studentisch organisierten Veranstaltungen (z.B. Karrieremesse) durchführen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":0,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":0,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"Wir sind davon überzeugt, dass dennoch alle zum Zuge kommen. Wir streben eine Zusammenarbeit zwischen KIT und Studierendenschaft an.",
+      "RCDS":"Das KIT soll viel eher studentische Initiativen unterstützen, statt sie vom Campus zu verdrängen. Einer Zusammenarbeit mit Hochschulgruppen muss das KIT offen gegenüberstehen.",
+      "LHG":"Wir unterstützen Vielfalt und Wettbewerb.",
+      "PIRATEN":"Ein Zusatzangebot ist zu begrüßen, konkurrierende Veranstaltungen sind doof.",
+      "Juso":"Studentisches Engagement sollte unterstützt und nicht untergraben werden.",
+      "GAL":"Die Bonding-Firmenkontaktmesse hat sich seit Jahren etabliert und erfreut sich unter Studierenden großer Beliebtheit. Es kommen auf die Bonding-Messe genauso viele Firmen wie auf die KIT-Karrieremesse. Dieses Jahr fanden die beiden Messen direkt aufeinander folgend statt. Dies ist unserer Ansicht nach unnötig und verschwendet nicht zuletzt finanzielle Ressourcen der Universität. Die Bonding-Firmenkontaktmesse unterstützen wir, da diese von Studierenden für Studierende organisiert wird und die Organisierenden durch die Durchführung der Messe für ihr späteres berufliches Leben viele wichtige Kompetenzen schon während dem Studium erlangen können (Veranstaltungsorganisation, Kundenkontakt, etc.).",
+      "LISTE":"Uns ist es lieber, ein obskurer Verein mit unsolidem Finanzgebaren verdient Geld mit der Karrieremesse, als Bonding.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Raum der Religionen",
+    "question": "Das KIT soll einen geeigneten Raum zur Religionsausübung zur Verfügung stellen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":1,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":1,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Das ist nicht Aufgabe des KIT. Es gibt die Möglichkeit als Hochschulgruppe Räume am KIT zu nutzen - auch für religiöse Zwecke.",
+      "RCDS":"Aufgrund des aktuell knappen Raumangebotes am KIT sieht der RCDS nicht die Möglichkeit einen Raum nur für die Religionsausübung zur Verfügung zu stellen, der den Anforderungen aller Religionen entspricht (Trennung Mann-Frau, Waschräume etc.). Viel eher treten wir für eine unbürokratische Lösung ein, bei der studentische Gruppen z.B. Räume am KIT regelmäßig buchen.",
+      "LHG":"Religion ist Privatsache und gehört nicht in staatliche Universitäten.",
+      "PIRATEN":"Insbesondere soll für den Raum der Stille ein besseres Nutzungskonzept mit den entsprechenden Hochschulgruppen erarbeitet bzw. um eine Waschmöglichkeit (Waschbecken) erweitert werden.",
+      "Juso":"Die Juso-Hochschulgruppe steht hinter dieser Forderung, was auch aus einem entsprechenden Antrag der Juso-HSG im Studierendenparlament ersichtlich ist. Dieser Raum soll explizit für die Ausübung der Religion zur Verfügung stehen und allen religiösen Gruppen gleichermaßen zur Verfügung stehen.",
+      "GAL":"Wir finden es wichtig, dass die Religionsausübung am KIT möglich ist. Dafür muss es eine Räumlichkeit mit entsprechendem Zubehör (z.B. Waschmöglichkeit) zur Verfügung gestellt werden. Es kann jedoch nicht sein, dass nur religiöse (bzw. einer Weltreligion zugehörige) Gruppierungen/Personen diesen nutzen können. Um Interessenkonflikte zu vermeiden, könnten Gruppierung den Raum entsprechend reservieren.",
+      "LISTE":"Hail Science! Eine Universität ist ein Ort der Wissenschaft. Religion und andere Esoterik haben hier nichts verloren. Wer mit seinem imaginären Freund sprechen will, kann das auch zu Hause tun.",
+      "LuSt":"Es ist nicht die Aufgabe einer Universität Räume zur Religionsausübung zur Verfügung zu stellen. Insbesondere dann nicht, wenn es sowieso so einen Raummangel gibt."
+      }
+  },
+  {
+    "title": "Politische Bildung",
+    "question": "Der AStA soll mehr Geld für Aktionen zur politischen Bildung der Studierenden ausgeben.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":0,"GAL":0,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Die politische Bildung von Studierenden ist wichtig. Dennoch sind Hochschulpolitik, Studierendenvertretung und Service für Studierende die Kernaufgaben des AStA. Es gibt andere Angebote zur politischen Bildung am Campus, zum Beispiel beim ZAK.",
+      "RCDS":"Der AStA soll in erster Linie einen Service für die Studenten leisten und die Studenten in hochschulpolitischen Fragen ggü. Universität und Politik vertreten. Veranstaltungen zur politischen Bildung, die keinen Bezug zur Hochschulpolitik haben, lehnt der RCDS daher ab.",
+      "LHG":"Nein, der AStA verbrennt schon genug von eurem Geld. Die politische Bildung soll und wird durch die (politischen) Hochschulgruppen vorangetrieben werden.",
+      "PIRATEN":"Politische Bildung? Immer.",
+      "Juso":"Das ist seine Aufgabe, siehe §65 Abs. 2 Nr. 3 LHG. Wir ermutigen den AStA sein Engagmentweiter auszubauen. Denn mündige Studis brauchen politische Bildung. Politische Hochschulgruppen tragen dazu bei, aber der AStA kann hier eine unabhängigere Rolle spielen.",
+      "GAL":"Die Studierendenschaft ist endlich verfasst und hat damit auch das recht bekommen, sich in alle politischen Fragen, die das studentische Leben betreffen einzumischen. Dies sollte sie auch ausführlich tun. Die politische Bildung der eigenen Studierenden gehört dazu und wird von uns als sehr wichtig angesehen.",
+      "LISTE":"Der Mitglieder des AStA sowie der ihn stellenden Fraktionen sollten sich erst einmal selbst politisch bilden. Einen erhöhten Finanzbedarf sehen wir dafür nicht.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Werbung in der Mensa",
+    "question": "Hochschulexterne Werbung in der Mensa soll unterbleiben.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":2,"GAL":1,"LISTE":2,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Das kann man dem Studentenwerk überlassen. Außerdem sind einige Angebote für Studenten durchaus interessant.",
+      "RCDS":"Werbung soll als wichtige Einnahmequelle des Studentenwerks weiterhin genutzt werden. Aus den Werbeeinnahmen können wichtige Investitionen getätigt werden, die unmittelbar den Studenten zu Gute kommen. Auf Maß und Art der Werbung muss dabei jedoch stets geachtet werden.",
+      "LHG":"Die Finanzierung des KIT sollte auch durch Externe gefördert werden, wenn die Studenten von diesen Geldern profitieren.",
+      "PIRATEN":"Die PIRATEN-Liste ist statt Werbung für Kunst in der Mensa (siehe Wahlprogramm). Einnahmen durch Werbung sehen wir nicht als legitimen Teil der Finanzierung des Studentenwerks. Kulturelle Ausnahmen sollten jedoch möglich sein.",
+      "Juso":"Die Werbung in der Mensa subventioniert den Essenspreis und ist deswegen eine willkommene Unterstützung für die Studierenden. Generell sind wir gegen Werbung auf dem Campus.",
+      "GAL":"Solange hochschulexterne Werbung nicht völlig überhand nimmt, liegt es unserer Meinung nach im Ermessensspielraum des Studierendenwerks zu entscheiden, wer in der Mensa werben darf und wie ausführlich das geschehen darf.",
+      "LISTE":"Es sollte noch deutlich mehr Werbung in der Mensa gemacht werden. Die Leute, die sich den Fraß dort antun, haben sowieso keinen Geschmack. Dann kann man sie auch mit Werbung zumüllen. Und besser das Essen wird durch die Werbung subventioniert, als durch den Studentenwerksbeitrag derer, die vernünftigerweise selbst kochen oder wo anders essen gehen.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Drittmittel",
+    "question": "Die Universität soll sich vermehrt um Drittmittel aus der freien Wirtschaft bemühen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":0,"LHG":0,"PIRATEN":1,"Juso":2,"GAL":2,"LISTE":0,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"Die Universität finanziert sich zu einem nicht unerheblichen Teil durch Forschungsaufträge aus der Wirtschaft. Lehre ist jedoch eine Aufgabe des Landes und sollte auch von diesem finanziert werden. Daher ist die Einmischung in die Drittmittelbeschaffung durch das StuPa unangebracht.",
+      "RCDS":"Leider kann die öffentliche Hand schon lange keine solide Finanzierung unser Hochschulen mehr gewährleisten - insbesondere vor dem Hintergrund der stark steigenden Studentenzahlen. Die Einwerbung von Drittmitteln ist vor diesem Hintergrund extrem wichtig.",
+      "LHG":"Das KIT kann aus der Kooperation mit Unternehmen lernen und interessante Forschungsprojekte akquirieren, daher begrüßen wir auch eine anwegandte Forschung.",
+      "PIRATEN":"Drittmittel bergen die Gefahr der Einflussnahme der freien Wirtschaft auf das KIT, was wir als kritisch sehen. Im Rahmen sind durch Drittmittel finanzierte Forschung, deren Ergebnisse offen/frei verfügbar sind (siehe Open Access). Wir sehen den Staat trotzdem in der Verantwortung, Forschung an Hochschulen zu fördern.",
+      "Juso":"Absolute Priorität muss eine ausreichende staatliche Grundfinanzierung der Forschung haben. Nur diese kann eine freie Wissenschaft garantieren. Forschung muss unabhängig von Interessen der Wirtschaft sein und deshalb dürfen Drittmittel nur als Ergänzung zur Grundfinanzierung dienen. Die gegenwärtige Abhängigkeit von Drittmitteln bindet in ungesundem Maß Ressourcen in der Anwerbung und Verwaltung. Dies sehen wir äußerst kritisch.",
+      "GAL":"Die GAL lehnt die Finanzierung der Forschung und damit oft auch der Hochschulen durch Drittmittel aus der Wirtschaft ab. Das Land muss für eine ausreichende Finanzierung der Hochschulen aufkommen und Drittmittel dürfen höchstens eine ergänzende Rolle spielen.",
+      "LISTE":"Bleibt ja wohl nichts anderes übrig, da die grün-rote Landesregierung offenbar fest entschlossen ist, die Universitäten zu Tode zu sparen. Außerdem: Besser abhängig von der Industrie als von der wissenschaftsfeindlichen Grünen Partei (der FDP des kleinen (dummen) Mannes).",
+      "LuSt":"Primär muss dafür Sorge getragen werden, dass die Grundfinanzierung durch das Land den Lehrbetrieb am KIT trägt. Drittmittel sind in unseren Augen zwar eine durchaus willkommene Ergänzung hierzu, allerdings sollte man sich nicht davon abhänig machen."
+      }
+  },
+  {
+    "title": "Hörsaalbenennung",
+    "question": "Hörsäle sollen nach einem Unternehmen benannt werden dürfen, wenn dieses die Universität finanziell oder materiell unterstützen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":0,"LHG":0,"PIRATEN":2,"Juso":2,"GAL":2,"LISTE":0,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"Daimler und Benz machen es vor. Die Hörsäle sind überdurchschnittlich gut ausgestattet. Wir denken, dieses Konzept sollte weiter verfolgt werden.",
+      "RCDS":"Für viele Studenten spielt der Name des Hörsaals kaum eine Rolle. Zurzeit sind viele Hörsäle in einem desolaten Zustand. Der Verkauf der Namensrechte an ein Unternehmen kann hier ein sinnvoller Lösungsansatz sein.",
+      "LHG":"Wir sind gegen einen 'Ausverkauf' der Universität, jedoch spricht nichts dagegen wenn bei entsprechender Unterstützung ein (rennomiertes) Unternehmen oder wohlhabende Privatpersonen im Rahmen einer Hörsaalbenennung verewigt werden.",
+      "PIRATEN":"Externe Werbung in diesem Ausmaß lehnen wir ab.",
+      "Juso":"Wir lehnen diese Art des Sponsorings ab. Auch nach außen hin muss das KIT als unabhängige Wissenschaftsorganisation sichtbar bleiben. Wir wollen keine Universität, die von der Gnade von Wirtschaftsbossen abhängig ist.",
+      "GAL":"Wo Drittmittel eine Einflussnahme der Wirtschaft auf die Forschung sind, ist solches Sponsoring durch die Wirtschaft eine Einflussnahme auf die Lehre und die Bildung. Die GAL ist deswegen strikt gegen solche Regelungen und setzt sich weiterhin dafür ein, dass vom Land genügend Mittel für Lehre und Forschung zur Verfügung gestellt werden, sodass ein „Sponsoring“ aus der Wirtschaft nicht nötig ist.",
+      "LISTE":"Um den Sanierungsrückstau abzubauen, muss in Zukunft noch stärker auf Hörsaal-Branding zurückgegriffen werden. Wir freuen uns schon jetzt auf den Heckler-&-Koch- und den Krauss-Maffei-Wegmann-Hörsaal. Des Weiteren sollen (gegen entsprechende Bezahlung) mehr Gebäude nach vorbestraften Steuerhinterziehern benannt werden.",
+      "LuSt":"&nbsp"
+      }
+  },
+  {
+    "title": "Raumvergabe",
+    "question": "Es ist wichtiger, zusätzliche Lernräume am KIT zu schaffen, als studentischen Initiativen Räume zur Verfügung zu stellen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":1,"LHG":2,"PIRATEN":0,"Juso":1,"GAL":1,"LISTE":0,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Studentische Initiativen sind ein wichtiger Teil der Hochschul- und Campuskultur. Dennoch sind Lernräume nicht weniger wichtig. Hochschulgruppen und Lerngruppen behindern sich nicht.",
+      "RCDS":"Insbesondere in der Prüfungszeit zeigt sich, dass es zu wenige Lernplätze am KIT gibt. Wir möchten allerdings nicht beide Gruppen gegeneinander ausspielen, sondern setzen uns z.B. für abschließbare Schränke in Gruppenräumen ein, in denen HSGs ihre Materialien aufbewahren können.",
+      "LHG":"Das studentische Engagement in Hochschulgruppen oder Fachschaften ist so wichtig, dass hier keinerlei Abstriche hingenommen werden dürfen.",
+      "PIRATEN":"Nach wie vor haben wir nur für 5,5% der Student*innen Lernplätze am Campus. Zwar begrüßen wir auch weitere Räumlichkeiten für Hochschulgruppen, allerdings ist die Dringlichkeit der Schaffung weiterer Lernplätze aus unserer Sicht derzeit höher.",
+      "Juso":"Die zu geringe Zahl an Räumen ist ein allgemeines Problem am KIT und betrifft beide Nutzungsvarianten. Der AStA ist deshalb in Gesprächen mit dem KIT zur Verbesserung dieser Umstände.",
+      "GAL":"Zusätzliche Lernräume sind zweifelsohne extrem wichtig. Studentische Initiativen oder Hochschulgruppen nutzen Gremienräume für ihre Sitzungen. Dies tun sie in der Regel abends, sprich ab 17 oder 18 Uhr. Ab diesem Zeitpunkt sind ausreichend Lernplätze in der KIT-Bibliothek verfügbar, so dass man eher Lern-, Seminar- und Sitzungsräume schaffen sollte, die von mehreren Interessengruppen zu verschiedenen Zeiten genutzt werden können.",
+      "LISTE":"Die prekäre Raumsituation des KIT soll durch die Annektierung von nicht sinnvoll genutzten Altbauten in der Umgebung des Campus (Schloss Gottesaue, Karlsruher Schloss, Finanzamt, Rathaus, ...) verbessert werden. Sobald dies erfolgt ist, werden ausreichend Räume fürs Lernen als auch für studentische Initiativen zur Verfügung stehen.",
+      "LuSt":"Solange die Bibliothek während der Klausurphasen bereits um 8:00 Uhr morgens aus allen Nähten quillt, sollten neue Lernräume die höchste Priorität sein. Studentische Initiativen haben es darüber hinaus sogar leichter zum Beispiel Abends einen Seminarraum in einem Institut zu bekommen."
+      }
+  },
+  {
+    "title": "Zivilklausel",
+    "question": "Am KIT soll eine verbindliche Zivilklausel eingeführt werden.",
+    "annotation": "'Erklärung zur Zivilklausel in der <a href='http://de.wikipedia.org/wiki/Zivilklausel' target='_blank'>Wikipedia</a>'",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":2,"LHG":2,"PIRATEN":1,"Juso":0,"GAL":0,"LISTE":0,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Die Zivilklausel ist zu starr. Die Grenzen zwischen militärischer und ziviler Forschung verschwimmen gerade an einer technischen Uni stark. Wir sind für Freiheit von Forschung und Lehre.",
+      "RCDS":"Die Freiheit der Forschung ist ein wichtiges Gut unserer Gesellschaft und deshalb auch in Artikel 5 Absatz 3 des Grundgesetzes geschützt. Freiheit der Forschung heißt für uns das Recht und die Pflicht für jeden einzelnen Forscher, sich mit den ethischen und sozialen Folgen seiner Tätigkeit auseinander zu setzen. Aus diesem Grund lehnen wir pauschale Begrenzungen von Forschung in Gesetzen und Grundordnungen der Hochschulen kategorisch ab.",
+      "LHG":"Wir treten für die akademische Freiheit und Eigenverantwortlichkeit in der Forschung ein. Aus ursprünglich militärischer Forschung entstehen gewöhnlich große Erleichterungen und Neuerungen für die Zivilgesellschaft. Beispiele sind satellitengestützte Navigationssysteme, Radio, Internet, Raketentechnik, der Luftverkehr und zahlreiche moderne Medikamente.",
+      "PIRATEN":"Die PIRATEN-Liste ist gegen eine pauschalisierende Zivilklausel und setzt sich stattdessen für eine lückenlose  Veröffentlichung der Finanzen des KIT inklusive der Drittmittel ein. Dadurch soll genug öffentlicher Druck gegen militärische Forschung entstehen.",
+      "Juso":"Universitäten haben durch ihren Auftrag der Wissensvermittlung und Forschung auch eine große moralische und ethische Verantwortung. Deshalb fordern wir eine Zivilklausel, also eine Verpflichtung zu ausschließlich ziviler und friedlicher Forschung und Lehre, die KIT-weit eingeführt und konsequent durchgesetzt wird. Die knappe staatliche Förderung sollte nicht in militärische Forschung fließen, sondern für bessere Ausstattung der Hochschulen verwendet werden.",
+      "GAL":"Eine Zivilklausel (,die jegliche militärische Forschung am KIT verhindert,) sollte an jeder öffentlichen Hochschule eingeführt werden, besonders am KIT. Es darf nicht sein, dass öffentliche Geldern für militärische Forschung zur Verfügung gestellt werden. Die GAL ist die einzige Liste die sich seit Jahren kontinuierlich und aktiv für eine Zivilklausel am KIT einsetzt. Das oft gebrachte Argument, dass eine Zivilklausel die Freiheit der Forschung einschränken würde, ist heuchlerisch. Mit einer Zivilklausel wird die Freiheit der Forschung gestärkt, da sie diese vor Einflussnahmen von Außen (z.B. durch die Bundeswehr oder Rüstungskonzerne) schützt.",
+      "LISTE":"Die LISTE engagiert sich ein für einen deutlichen Ausbau der Militärforschung am KIT. Ein Ausbau der Militärforschung bedeutet das Setzen wirtschaftlicher Impulse für die Region, Deutschland, Europa und die Welt. Wir sagen „Ja!“ zu Wirtschaftswachstum durch Krieg! Militärforschung ist Wirtschaftsförderung. Denn: Erst der Bombenteppich der Alliierten hat den Wiederaufbau und damit das Wirtschaftswunder der 1950er und 1960er Jahre möglich gemacht.",
+      "LuSt":"Eine verbindliche Zivilklausel lehnen wir strikt ab. Wir setzen uns aber für Gremium nach dem Darmstädter-Modell ein, dass über jedes Forschungsprojekt eine Einzelfallentscheidung nach deren Dual-Use-Nutzen fällen kann."
+      }
+  },
+  {
+    "title": "AStA-Referate",
+    "question": "Der Arbeitsaufwand eines AStA-Referats soll das Ehrenamt (14 Stunden je Woche) nicht überschreiten.",
+    "annotation": "Der momentane Arbeitsaufwand eines AStA-Referenten ist deutlich höher.",
+    "style": "standard",
+    "answers": {"FiPS":2,"RCDS":0,"LHG":2,"PIRATEN":2,"Juso":0,"GAL":2,"LISTE":1,"LuSt":1}, 
+    "comments":
+      {
+      "FiPS":"Ehrenamt lebt davon, dass Leute nach ihrem Ermessen Zeit für die Allgemeinheit investieren. Generell halten wir es für nicht zielführend, das Ehrenamt auf 14 Stunden pro Woche zu beschränken.",
+      "RCDS":"Die letzten Jahre haben gezeigt, dass immer weniger Studenten bereit sind ein AStA-Referat zu übernehmen, weil der zeitliche Aufwand zu hoch ist. Wir fordern die Reduzierung des Arbeitsaufwands, damit die Referenten neben ihrer Tätigkeit weiterhin studieren oder als HiWi arbeiten können. So würde die Möglichkeit, sich im AStA zu engagieren, deutliche mehr Studenten offen stehen.",
+      "LHG":"Sofern die AStA-Mitglieder noch über 400 Euro im Monat erhalten, sollten sie alles dafür geben, ihre Aufgaben vollständig und gewissenhaft auszuüben. Wenn dies nicht mehr der Fall ist sind die 14 Stunden einzuhalten.",
+      "PIRATEN":"Ein AStA-Referat ist unabhängig von der Stundenzahl ein Ehrenamt. Die anfallenden Aufgaben erfordern zudem teilweise mehr als 14 Stunden pro Woche.",
+      "Juso":"AStA-Referate sollen ehrenamtlich sein! Wir sagen aber auch: Bis sich die Last auf genügend Schultern verteilt, dass dies möglich ist, muss sich noch einiges tun. Wir gehen voran und stellen AStA-Referent*innen. Politische Interessenvertretung gegenüber KIT, Stadt und Land braucht Engagement, wenn man es gut machen möchte - für die Studierenden. Auch Beratungsangebote, Organisatorische Unterstützung von Fachschaften und O-Phasen, Besetzung der AStA-Theke in der Mensa, Fahrzeugvermietung, Deutschkurse und vieles andere sind wichtige Dienstleistungen für Studierende- zum Teil für Studierende, die unsere Unterstützung dringend brauchen. Die Erfüllung all dieser Aufgaben kann nur ein starker AStA sicher stellen.",
+      "GAL":"Laut Satzung der Studierendenschaft darf es maximal 12 AstA-Referenten geben. Die anfallende Arbeit für 12 Referate kann gar nicht überschätzt werden und 14 Stunden pro Woche reichen einfach nicht aus, um diese zu gewährleisten. Jede*r, die/der Interesse an einer starken Interessenvertretung und daran, dass der Service den der AStA anbietet nicht verringert wird (z.B. die Registrierung der Hochschulgruppen und vieles anderes), kann eine solche Forderung nicht unterstützen.",
+      "LISTE":"ch bedanke mich für diese Frage. Auf dieses Thema wäre ich auch gerade zu sprechen gekommen. Nur: Was zum Teufel hat „Ehrenamt“ mit „14 Stunden pro Woche“ zu tun?",
+      "LuSt":"Diese Forderung ist leider nicht für alle Referate umsetzbar. Die Erfahrung der letzten Jahre hat auch gezeigt, dass eine zu große Modularisierung der Referate insbesondere bei den arbeitsaufwändigeren Referaten gerade zu noch weniger Ergebnissen führt."
+      }
+  },
+  {
+    "title": "Politische Arbeit",
+    "question": "Der AStA soll sich in seiner politischen Arbeit auf hochschulpolitische Themen beschränken.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":0,"LHG":0,"PIRATEN":2,"Juso":2,"GAL":2,"LISTE":1,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Parteipolitik ist nicht Aufgabe einer Studierendenvertretung.",
+      "RCDS":"Die Verfasste Studentenschaft ist eine Zwangskörperschaft und darf sich dementsprechend laut LHG nur zu bestimmten Themen im Namen aller Studenten äußern bzw. nur bestimmte Tätigkeiten ausüben. Zwar kann der AStA grundsätzlich politische Bildungsarbeit betreiben, diese soll sich - so unsere Meinung - aber auf Hochschulpolitik beschränken. Auslandseinsätze der Bundeswehr, Stuttgart 21 und die Finanzkrise gehören nicht dazu. Die Interessen der Studenten müssen im Vordergrund stehen!",
+      "LHG":"Wir glauben nicht, dass es bezüglich der Auslegung des Hochschulgesetzes irgendwelche Unklarheiten gibt. Für ihre allgemeine politische Betätigung steht es den Mitgliedern des AStA frei, sich in Parteien, Verbänden und Vereinen zu betätigen, die ihrer persönlichen Ausrichtung entsprechen. Ihre persönlichen Interessen sollten sie von ihrer Amtsausübung trennen.",
+      "PIRATEN":"Der AStA soll die Anliegen der Student*innen vertreten. Diese sind nicht nur hochschulpolitischer Natur, sondern betreffen auch Stadt-, Land- und Bundespolitik.",
+      "Juso":"ein, denn nach §65 Absatz 2 Nr. 1 hat die Studierendenschaft die Aufgabe hochschulpolitische aber auch fachliche und fachübergreifende sowie soziale, wirtschaftliche und kulturelle Belange der Studierenden wahrzunehmen.",
+      "GAL":"Wie viele – um nicht zu sagen alle – Themen in der Politik, ist auch die Institution Hochschule mit anderen Bereichen der Gesellschaft verbunden. Eine Beschränkung des AStA auf rein hochschulpolitische Themen würde eine Einschränkung zum Beispiel im Bildungsstreik-Protest bedeuten, bei welchem gegen die Unterfinanzierung im Bildungssektor allgemein angegangen wird. Dazu gehören auch Schulen und der soziale Sektor wie Pflegeeinrichtungen. Wenn sich diese Bereiche miteinander vernetzen, kann die Hochschule in einem starken Bündnis gegenüber Bund und Ländern auftreten und wirken.",
+      "LISTE":"Der AStA sollte vor allem überhaupt mal politische Arbeit zu hochschulpolitischen Themen betreiben.",
+      "LuSt":"Falls sich Mitglieder des AStA außerhalb der Hochschulpolitik betätigen wollen, sollen sie dies privat in ihrer Freizeit tun und nicht während ihrer ehrenamtlichen Arbeit in der Studierendenschaft für die sie eine Aufwandsentschädigung erhalten, die direkt aus dem Geldbeutel der Studenten bezahlt wird."
+      }
+  },
+  {
+    "title": "AStA-Werbemittel",
+    "question": "Der AStA soll Eigenwerbemittel, z.B. bedruckte Stofftaschen verteilen.",
+    "annotation": "",
+    "style": "standard",
+    "answers": {"FiPS":0,"RCDS":2,"LHG":2,"PIRATEN":0,"Juso":1,"GAL":1,"LISTE":2,"LuSt":2}, 
+    "comments":
+      {
+      "FiPS":"Der AStA soll auf sein Engagement für uns Studenten aufmerksam machen und zur Mitarbeit in der Studierendenschaft aufrufen. Ob bedruckte Stofftaschen hier das richtige Mittel sind, halten wir für fraglich.",
+      "RCDS":"Das Verhältnis aus Kosten und Werbeerfolg stehen bei Stofftaschen in keinem Verhältnis. Außerdem ist zweifelhaft, ob eine große Nachfrage nach AStA-Stoffbeuteln bei den Studenten besteht. Im Gegensatz zu einem Infoheft kann ein Stoffbeutel zudem kaum Informationen vermitteln.",
+      "LHG":"Wir sind der Meinung dass ihr lieber niedrige Beitrage zahlen sollt, als dem AStA Geld zahlen zu müssen, das in sinnlose Anschaffungen wie Stofftaschen o.Ä.fliest die wieder nur einer Minderheit zu Gute kommen.",
+      "PIRATEN":"Nicht unbedingt Stofftaschen, aber Werben für den AStA und die anderen Organe der Verfassten Studierendenschaft ist definitiv legitim und notwendig. Reine Werbemittel sollten dabei allerdings immer nur als Begleitung von Informationsmaterial oder als Motivationsmittel gesehen werden.",
+      "Juso":"Präsenz durch Reklame kann helfen eine gewisse Aufmerksamkeit der Studierenden zu erhalten. Die zentrale Arbeit des AStAs und die damit einhergehende Akzeptanz der Studierendenvertretung ersetzen diese Mittel aber nicht.",
+      "GAL":"Der AStA wollte nie Eigenwerbemittel verteilen. Er möchte gerne Informationsmaterial mit Mehrwert an die Erstemester-Studierenden herausgeben. Bisher war das der KalendAStA, eine Infobroschüre mit Semesterkalender. Auch in Zukunft möchte der AStA den Erstis ein Geschenk mit Informationsgehalt geben, in welcher Gestalt ist noch unklar. Wir als kandidierende Liste für das Studierendenparlament unterstützen den AStA in diesem Vorhaben.",
+      "LISTE":"... außer natürlich es handelt sich um Freibier.",
+      "LuSt":"Bevor der AStA Werbemittel druckt und verteilt, sollte das Geld lieber in Informationsmaterial investiert werden, die dann gerne auch Eigenwerbung enthalten dürfen."
+      }
+  },
+  {
+    "title": "Beiträge",
+    "question": "5,99€ pro Studierendem je Semester sind für die Aufgaben der Studierendenschaft (Fachschaften und AStA)",
+    "annotation": "Der Studierendenschaftsbeitrag am KIT beträgt ab dem kommenden Wintersemester 5,99€",
+    "style": "beitrag",
+    "answers": {"FiPS":1,"RCDS":0,"LHG":0,"PIRATEN":2,"Juso":1,"GAL":2,"LISTE":2,"LuSt":0}, 
+    "comments":
+      {
+      "FiPS":"Die genaue Antwort auf diese Frage bleibt abzuwarten. Wir stehen erst am Anfang der Verfassten Studierendenschaft. Erst muss der Bedarf ermittelt werden, dann können die Beiträge angepasst werden.",
+      "RCDS":"Der Finanzreferent des AStA konnte glaubwürdig darlegen, dass ein Beitrag von 5.80 Euro für die Aufgaben der Studentenschaft genügen. Eine Erhöhung des Etats um über 4.000 Euro wurde im Parlament nicht begründet. Die willkürliche Festlegung der Beitragshöhe lehnt der RCDS ab.",
+      "LHG":"Erfahrungsgemäß wird 'Geld, das da ist' auch ausgegeben, daher setzen wir uns für eine Senkung des Beitrags auf das notwendige Minimum ein - um euch finanziell zu entlasten. Maßnahmen, um euch finanziell zu entlasten gibt es viele und wurden bereits (leider vergeblich) im StuPa vorgetragen.",
+      "PIRATEN":"Der aktuelle Beitrag basiert auf den wahrgenommenen Aufgaben des UStAs. Da mit der verfassten Studierendenschaft jedoch insbesondere politische Aufgaben hinzukommen werden, gehen wir davon aus, dass dieser langfristig nicht ausreichen wird.",
+      "Juso":"Wir haben ausführlich gerechnet und recherchiert. Förderung der studentischen Gruppen und Kultur, Finanzierung der O-Phasen, kostenlose Beratungsangebote für Studierende in Not und Verwaltung der Studierendenschaft (dazu gehören z.B. auch die Fachschafts-Finanzen) erzeugen Kosten, die gedeckt werden müssen. Wir sind der Meinung 5,99 € sind ein Betrag den jeder Studierende zahlen können sollte und der sicherstellt, dass die Studierendenschaft ihre Aufgaben erfüllen kann.",
+      "GAL":"Die Berechnungsgrundlage für diesen Beitrag hat noch viele Aufgaben und Kostenfaktoren noch nicht berücksichtigt. Andere Universitäten der Größenordnung des KIT haben Beiträge von ca. 7-8€ pro Semester. Wenn der AStA arbeitsfähig seien und die Interessen der Studierenden effektiv vertreten soll, dann muss der Beitrag angepasst werden.",
+      "LISTE":"Die LISTE fordert die Erhebung von Beiträgen in der Höhe von 17,98 € pro Monat. Diesen Betrag halten wir für sowohl notwendig als auch angemessen für die Finanzierung einer repräsentablen Studierendenvertretung mit eigener Fahrbereitschaft und Vertretungen in Stuttgart, Berlin und Brüssel. Des Weiteren soll mit den Beiträgen die Schaffung eines unabhängigen, studentischen, öffentlich-rechtlichen Rundfunks finanziert werden. Durch diese Maßnahme wollen wir sicherstellen, dass die Studierenden am KIT vollumfassend über die aktuellen Geschehnisse in der Studierendenschaft und insbesondere über Inkompetenz und Fehlverhalten der Mitglieder der Juso-Hochschulgruppe informiert werden.",
+      "LuSt":"Ein Betrag in dieser Höhe ist in unseren Augen eine bodenlose Frechheit. Bei den bisherigen Landesmitteln wurde den Fachschaften explizit kommuniziert, dass man diese Gelder unbedingt ausgeben muss, da sie ansonsten verfallen. In der Studierendenschaft man sich durchaus bewusst, dass man mit den Geldern aus den Beiträgen wesentlich konservativer vorzugehen hat. Außerdem haben der AStA und einige Fachschaften sehr viel Geld als Rücklagen in ihren privatrechtlichen Vereinen, so dass die Aussage, dass man das Geld aus den Beiträgen unbedingt braucht auch nur die Hälfte der Wahrheit ist."
+      }
+  }
+]

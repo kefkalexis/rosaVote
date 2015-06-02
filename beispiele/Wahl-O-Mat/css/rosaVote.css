@@ -1,0 +1,256 @@
+
+body {
+	text-align: center;
+}
+
+img {vertical-align: middle; margin: 0px 4px 0px 4px;}
+
+.pointer {cursor:pointer;}
+
+/* CSS-Tabellen */
+.csstable {
+	display: table;
+	width: 100%;
+	table-layout:fixed;
+	border-spacing: 10px;
+	border-collapse: separate;
+}
+
+a {color: black; margin: 10px;}
+a:hover {color:gray;}
+
+.nowrap {white-space: nowrap;overflow: visible;}
+.csstable_tight{border-spacing: 0px !important;}
+
+.csszeile {display: table-row;width: 100%;}
+.negmargintop {margin-top:-10px;} /* macht Sinn z. B. wenn zwei CSS-Tabellen bübereinander sinn*/
+.paddingleftright {padding: 0px 4px;} /* Für 100%-Tabellen mit Abstand zum Rand*/
+
+#headline  {font-size:200%;text-align:center;margin: 20px;font-weight: bold;}
+
+#rosaVoteContainer {
+	/* Hauptcontainer */
+	text-align:left; 
+	margin: 10px auto;
+	padding:0px;
+	overflow:hidden;
+	display:block;
+	position: relative;
+	display: none;
+}
+
+.bottom_of_container{
+	/*  Antwortbuttons und Fragentabelle sind am unteren Rand des Containers */
+	position: absolute;
+	bottom: 0;
+	width:100%;
+}
+
+.naviButton {
+	/* Navigationsleiste */
+	text-align: center;
+	display: table-cell;
+	padding:7px;
+	margin:0px 2px 2px 2px;
+	}
+
+.content_well
+{
+	display: block;
+	overflow-y: scroll;
+	position: absolute;
+	bottom:10px;
+	left:2px;
+	right:2px;
+	margin: 2px
+
+}
+
+
+/*-----------------------------------*/
+/*--------QuestionSite---------------*/
+/*-----------------------------------*/
+
+
+/* Fragen-Style */
+#question_title {
+	font-size:90%; 
+	margin-left: 30px;
+	margin-top:20px;
+	font-weight: bold;}
+
+#question_text {
+	font-size: 140%;
+	margin: 10px 50px 10px 50px;
+	line-height: 1.2;
+	font-weight: bold;}
+
+#question_explenation {margin:0px 30px 10px 30px;}
+
+/* Antwort-Buttons */
+.question_button {
+	/*Antowrt-Butitons*/
+	display: table-cell;
+	padding:7px;
+	margin: 2px 2px 2px 2px;
+	text-align: center;
+	margin-left: 5px;
+}
+/* Fragen-Tabelle */
+.questiontable_title {margin-left: 20px; margin-top: 10px;font-weight: bold;}
+
+.questiontable {margin: 7px;}
+
+.questiontable table{
+	width: 100%;
+	table-layout: fixed;
+	text-align: center;
+}
+
+
+.questiontable td {border: 1px solid #AAA;cursor: pointer;}
+.questiontable td:hover {font-weight: bold;}
+
+
+/* Doppelt gewichtete Fragen bekommen ! angehängt */
+.doubleweight:after {content: " !";}
+
+/*-----------------------------------*/
+/*-------EvaluationSite--------------*/
+/*-----------------------------------*/
+
+#evaluationTable {
+	top:500px;
+}
+
+.evalDetailTab {
+	width:100%;
+	border-collapse:collapse;
+	table-layout: fixed		
+}
+
+/*Auswertungstabelle streifen*/
+.evalQuestRow {
+	font-weight: bold;
+	border:1px solid black;
+	text-align: center;
+}
+.evalQuestRow td:first-child {padding:3px;} 
+
+
+/* Zeilen der Auswertunstabelle*/
+
+.evalQuestRow td {border:1px solid black;}
+.evalQuestRow td:first-child {text-align: left;width:100%;}  /* in der ersten Spalte wird dieFrage angezeigt*/
+/*.evalQuestRow td:nth-child(2) {width:67px;} /* in der zweiten Spalte eigene antwort und Gewichtung */
+
+.partyAnswerCol {width:50px;overflow: hidden; padding:0;}
+/* Detailtabelle mit Antworten der Listen, öffnet sich  bei Klick uf Fragezeile*/
+.evalCommentsRow {display:none;}
+.evalCommentsRow td {padding:0;}
+.evalCommentsTab {	
+	display: block;
+	width: 100%;
+	font-size:10pt;
+	padding:0;
+	text-align:justify;
+	padding-right:5px;
+	table-layout: auto;
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+.evalCommentsTab td{
+	border-top: 1px solid black;
+	padding:2px;
+}
+.evalCommentsTab td:first-child {
+	width:70px;
+	padding:4px;
+}
+.evalCommentsTab th{
+	padding: 2px 5px 2px 5px;
+	background:0;
+	border-collapse:collapse;
+	border:none;
+}
+
+/* Vertikales Diagram */
+#diagramTable {border-collapse: collapse;	margin-left: 1;}
+#diagramTable td{
+	font-size: 9pt;
+	overflow: hidden;
+	text-align:center;
+	position:relative;
+	vertical-align: bottom;
+	padding-left:1px;
+}
+
+#diagramTable tr:first-child{border-bottom: 1px solid black}
+#diagramTable img {margin:3 0 0 0;}
+
+.diagramBar {
+	display:inline-block;
+}
+.vertDiagramBar {width:90%;text-align: center;font-size: 9px;}
+
+.diagramBarName  {margin:-12px;display:inline-block;}
+
+.partyRow{
+	vertical-align: middle;
+	display:table-cell;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+/* Horizontales Diagram */
+#horizontal_diagram {width:100%; text-align:center;}
+#horizontal_diagram>table {display:inline-block;}
+.horDiagramBar {
+	vertical-align: middle; 
+	margin-right:2px; 
+	overflow:hidden;
+	padding-left: 2px;
+	font-size: 9px}
+
+#overEvalTable  {font-size:120%;text-align:center;margin: 10px;font-weight:bold}
+#overHorDiagram  {font-size:120%;text-align:center;margin: 10px;font-weight: bold}
+
+
+
+/*-----------------------------------*/
+/*---------CommentsSite--------------*/
+/*-----------------------------------*/
+#commentsQuestionName
+	{font-weight:bold;width:100%;font-size:130%;}
+
+.commentsAddon
+	{
+		float:right;
+		margin-right: 10px;
+		cursor:pointer;
+		text-decoration: underline;
+		font-size: 14px;
+	}
+
+
+
+/*-----------------------------------*/
+/*--------------Overlay--------------*/
+/*-----------------------------------*/
+/* Overlay*/
+#overlay {
+	/* Hauptcontainer */
+	text-align:left; 
+	padding:0px;
+	overflow:hidden;
+	display:none;
+	position: absolute;
+	width:600px;
+	height: 700px;
+	margin-top:-400px;
+	margin-left:-300px;
+	left:50%;
+	top:50%;
+	background-color:blue;
+}

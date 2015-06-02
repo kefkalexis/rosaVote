@@ -1,0 +1,65 @@
+{
+	"homepgageTitle":"Wahlo-O-Mat Beispiel mit rosaVote",
+	"headline": "Wahlo-O-Mat Beispiel mit rosaVote",
+	"theme": "simple",
+	"doubleWeight" : false,
+	"dynamicEvaluation": false,
+	"showCommentsInEvaluation": true,
+	"homepage":"",
+	"startFadeTime": 200,
+	"counter": "",
+	"favicon":"favicon32.png",
+	"dimensions":
+	{
+		"questionsiteWidth" : "650px", 
+		"questionsiteHeight": "620px",
+		"evaluationsiteWidth": "800px",
+		"evaluationsiteHeight": "95%",
+		"commentssiteWidth": "800px", 
+		"commentssiteHeight": "95%"
+	},
+	"questions":
+	{
+		"qestionsInRow" : 19,
+		"wrapAfterIcon" : false,
+		"showAnswerIcons" : false,
+		"skipAndWeightInNewLine": false,
+		"answerIconsWidth" : "20px",
+		"answerIconsHeight" : "20px",
+		"fadeSpeed" : 100,
+		"skipText" : "Überspringen",
+		"doubleWeightText": "doppelt gewichten",
+		"directLinkText" : "Direkt zu These springen:",
+		"showKeyNumbers": true
+	},
+	"evaluation":
+	{
+		"partyRowHeight" : "30px",
+		"verticalDiagramHeight" : "115px",
+		"partyAnswerColWidth" : "50px",
+		"ownAnswerColWidth" : "70px",
+		"textOverOwnAnswerCol" : "Deine Antwort",
+		"showNamesInsteadOfLogos" : false,
+		"tableAnimationSpeed" : 100,
+		"diagramSpeed" : 200,
+		"answerIconsWidth" : "20px",
+		"answerIconsHeight" : "20px",
+		"showVerticalDiagram": true,
+		"showHorizontalDiagram": false,
+		"showEvaluationTable": true,
+		"horizontalDiagramWidth": "500px",
+		"horizontalBarHeight":"20px",
+		"overHorDiagram":"Deine Auswertung",
+		"overEvalTable": "",
+		"logoClickAction": "link"
+	},
+	"comments":
+	{
+		"qestionsInRow" : 19,
+		"directLinkText" : "These anzeigen:"
+	},
+	"links":
+	[
+		{"url": "https://github.com/benkob/rosaVote","name":"rosaVote auf GitHub"}
+	]
+} 

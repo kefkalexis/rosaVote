@@ -1,0 +1,58 @@
+{
+  "RCDS":
+    {
+      "shortname" : "RCDS",
+      "longname" : "RCDS - Die CampusUnion",
+      "website" : "overlays/rcds",
+      "logo" : "logos/logo_rcds.png"
+    },
+  "LISTE":
+    {
+      "shortname" : "LISTE",
+      "longname" : "Liste für basisdemokratische Initiative Tierzucht und Elitenbeförderung (Die LISTE)",
+      "website" : "overlays/liste",
+      "logo" : "logos/logo_liste.png"
+    },
+  "FiPS":
+    {
+      "shortname" : "FiPS",
+      "longname" : "Fachschaftler im Parlament der Studierenden (FiPS)",
+      "website" : "overlays/fips",
+      "logo" : "logos/logo_fips.png"
+    },
+  "LuSt":
+    {
+      "shortname" : "LuSt",
+      "longname" : "Liste unabhängiger Studierender (LuSt)",
+      "website" : "overlays/lust",
+      "logo" : "logos/logo_lust.png"
+    },
+  "Juso":
+    {
+      "shortname" : "Juso",
+      "longname" : "Jusos - studentisch.demokratisch. solidarisch ",
+      "website" : "overlays/juso",
+      "logo" : "logos/logo_juso2.png"
+    },
+  "GAL":
+    {
+      "shortname" : "GAL",
+      "longname" : "GAL - Grüne Alternative Liste",
+      "website" : "overlays/gal",
+      "logo" : "logos/logo_gal.png"
+    },
+  "PIRATEN":
+    {
+      "shortname" : "PIRATEN",
+      "longname" : "PIRATEN-Liste",
+      "website" : "overlays/piraten",
+      "logo" : "logos/logo_piraten.png"
+    },
+  "LHG":
+    {
+      "shortname" : "LHG",
+      "longname" : "Liberale Hochschulgruppe (LHG) ",
+      "website" : "overlays/lhg",
+      "logo" : "logos/logo_lhg.png"
+    }
+}

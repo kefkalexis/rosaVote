@@ -1,0 +1,16 @@
+{
+  "Liste1":
+    {
+      "shortname" : "Liste1",
+      "longname" : "Die erste Liste",
+      "website" : "",
+      "logo" : ""
+    },
+  "Liste2":
+    {
+      "shortname" : "Liste2",
+      "longname" : "Die zweite Liste",
+      "website" : "",
+      "logo" : ""
+    }
+}

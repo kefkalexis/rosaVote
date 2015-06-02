@@ -1,0 +1,65 @@
+
+/* Hintergund der Seite */
+body {
+	font: normal 1em Ubuntu, sans-serif;
+	color: black;
+	background-color: #FF3399;
+	background-attachment: fixed;
+}
+
+
+/* Die Box, die alle weiteren Objekte enthält*/
+#rosaVoteContainer {
+	/* Hauptcontainer */
+	background-color: white;
+	
+	border: 2px solid black 
+}
+
+
+/* Kopfzeile */
+#headline  {font-size:200%;text-align:center;margin: 20px;font-weight: bold;}
+/* Die Buttons in der Navigationsleiste */
+.naviButton {	
+	border: 1px solid #aaaaaa;
+	text-align: center;
+	font: bold 13pt/110% Ubuntu, sans-serif;
+	background-color:rgba(200,200,200,0.2);
+	cursor:pointer;
+}
+
+
+.naviButton:hover {border-color: black;background-color:rgba(200,200,200,0.8);}
+
+
+/*Antwort-Buttons*/
+.question_button {
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	cursor: pointer;
+}
+
+
+.question_button:hover {border-color: black;font-weight: bold}
+
+
+/* Fragenübersicht*/
+
+
+/* Einzelne Zellen der Fragentabelle*/
+.questiontable td {border: 1px solid #AAA;cursor: pointer;}
+.questiontable td:hover {font-weight: bold;}
+
+
+/* aktuelle Frage wird markiert*/
+.selectedcell {border: 2px solid black !important}
+
+
+/* Detailtabelle in Evaluation*/
+.evalDetailTab:nth-child(2n){background-color:white;}
+.evalDetailTab:nth-child(2n+1){background-color:white;}
+.evalQuestRow:hover{background-color: lime;}
+
+
+.diagramBar {background-color:aqua;}

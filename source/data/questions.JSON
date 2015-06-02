@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Frage 1",
+    "question": "Fragentext1",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "Liste1" : 0,
+       "Liste2" : 0
+       }, 
+    "comments":
+      {
+       "Liste1" : "Meinung Liste 1",
+       "Liste2" : "Meinung Liste 2"
+      }
+  },
+  {
+    "title": "Frage 2",
+    "question": "Fragentext2",
+    "annotation": "",
+    "style": "standard",
+    "answers": 
+       {
+       "Liste1" : 0,
+       "Liste2" : 0
+       }, 
+    "comments":
+      {
+       "Liste1" : "Meinung Liste 1",
+       "Liste2" : "Meinung Liste 2"
+      }
+  }
+]

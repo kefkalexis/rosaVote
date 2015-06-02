@@ -1,0 +1,8 @@
+{
+  "standard": {
+    "answers" : ["pro", "neutral", "contra"],
+    "icons": ["img/pro_icon.png" , "img/neutral_icon.png","img/contra_icon.png"],
+    "colors":["rgba(0,255,0,0.2)","rgba(255,255,0,0.2)","rgba(255,0,0,0.2)"],
+    "rating":[[2,1,0],[1,2,1],[0,1,2]]
+  }
+}

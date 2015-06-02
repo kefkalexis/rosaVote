@@ -1,0 +1,96 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/rosaVote.css"/>
+	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+	<script type="text/javascript" src="js/rosaVote_questions.js"></script>
+	<script type="text/javascript" src="js/rosaVote_evaluation.js"></script>
+	<script type="text/javascript" src="js/rosaVote_comments.js"></script>
+	<script type="text/javascript" src="js/rosaVote.js"></script>
+	<!--share-Plugin-->
+	<!--<script type="text/javascript" src="share/rosaVote_share.js"></script>-->
+</head>
+<body>
+	<div id="rosaVoteContainer" class="container1">
+		<!-- Kopfzeile -->
+		<div id="headline"></div>
+		<!-- Navigationsleiste -->
+			<div class="csstable" id="navigation">	<div class="csszeile">
+				<div class="naviButton" id="hompageBtn" onclick="homepage()"> Startseite </div> 
+				<div class="naviButton" onclick="location.reload()"> Neustart </div>
+				<div class="naviButton" onclick="showSiteQuestions()"> Fragen </div>
+				<div class="naviButton" onclick="showSiteEvaluation()"> Auswertung </div>
+				<div class="naviButton" onclick="showSiteComments()"> Kommentare </div>
+			</div></div>
+
+<!-- Fragen -->
+
+		<!-- Fragenblock -->
+		<div id="question" class="questionSite">
+			<div id="question_title"></div>
+			<div id="question_text"></div>
+			<div id="question_explenation"></div>
+		</div>
+
+		<!-- Antwortmöglichkeiten und Tabelle sollen unten in container stehen -->
+		<div class="bottom_of_container questionSite">
+			<!-- Antwortbuttons -->
+
+			<div id="buttontable">
+
+				<div class="csstable">	<div class="csszeile" id="answerbuttons"><span></span>
+				</div></div>
+				<div id = "skipWeightButtons" class="csstable negmargintop">	<div class="csszeile">
+					<div class="question_button" onclick="skipQuestion()"> <img src="img/skip_icon.png" class="answerIcon" id="skipIcon"><span id="skipText"></span> </div>
+					<div id="doubleWeightButton" class="question_button" onclick="doubleWeight()" style="display:none">  <img src="img/check.png" id="weightimage" class="answerIcon"><span id="doubleWeightText"></span></div>
+				</div></div>
+			</div>
+
+			<!-- Fragentabelle -->
+			<div id="questiontable">
+				<div class="questiontable_title"><span id="directLinkText"></span> <span id="questiontable_title"></span></div>
+				<div id="questTable" class="questiontable"></div>
+			</div>
+		</div>
+
+<!-- Auswertung -->
+		<div id = "evaluationTable" class="evaluationSite content_well">
+			<table style="border:1px solid black;width:100%"><tr><td></td></tr></table>
+		</div>
+
+		<div id="overHorDiagram" class="evaluationSite"></div>
+		<div id="horizontal_diagram" class="evaluationSite"></div>
+		<div id="overEvalTable" class="evaluationSite"></div>
+			
+		<div class="paddingleftright evaluationSite">
+			<div class="csstable csstable_tight">	<div class="csszeile">
+				<div id ="lefttop_space" style="display:table-cell;"></div> 
+				<div id="tableheader" style="display:table-cell;"> </div>
+			</div></div>
+		</div>
+
+<!-- Kommentare -->
+		<div  class="commentsSite">
+					<div id = "comments_well" class="commentsSite content_well"></div>
+			<div id="comments_questiontable">
+				<div class="questiontable_title">
+					<span id="comments_directLinkText"></span> 
+					<span id="comments_questiontable_title"></span>
+				</div>
+				<div id="comments_questTable" class="questiontable">
+				</div>
+			</div>
+
+			<table id="comments_question_text">
+			<tr>
+				<td><img style="cursor:pointer" src="img/arrowleft.png" titel="Vorherige These" alt="Vorherige These" onclick="next_comment_question(-1)"></td>
+				<td id="commentsQuestionName" align="center"></td>
+				<td><img src="img/arrowright.png" titel="Nächste These" alt="Nächste These" onclick="next_comment_question(1)" style="cursor:pointer"></td></tr>			
+			</table>
+		</div>
+	</div>
+	<!-- Overlay -->
+	<div id="overlay"></div>
+</body>
+</html>
