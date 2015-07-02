@@ -6,7 +6,7 @@
 	if (!isset($_GET["id"]))
 		{header('location: ../rosaVote.html'); }
 
-	$file = file_get_contents("../data/perties.JSON");
+	$file = file_get_contents("../data/parties.JSON");
 	$parties = json_decode($file, true);
 
 	$data = $_GET["id"];

@@ -54,6 +54,12 @@
 	<meta property="og:image:height" content="200">
 	<meta property="og:description" content="Der StuPa-O-Mat für die Wahlen zum Studierendenparlament am KIT vom 6. bis 10. Juli 2015">
 
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@asta_am_kit" />
+	<meta name="twitter:title" content="StuPa-O-Mat zru StuPa-Wahl 2015" />
+	<meta name="twitter:description" content="Mein Ergebnis des StuPa-O-Mat zur Wahl des Studierendennparlaments vom 6. bis 10.7.2015." />
+	<meta name="twitter:image" content="mystupaomat_png.php?id=<?php echo $data?>" />
+	
 	<link rel="stylesheet" type="text/css" href="mystupaomat.css">
 
 </head>
