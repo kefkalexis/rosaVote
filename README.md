@@ -1,5 +1,5 @@
 # rosaVote
-Ein rosafariges Voting Advice Application Framework in rosa
+Ein rosafarbiges Voting Advice Application Framework in rosa
 
 rosaVote wurde als freie Wahl-o-Mat-Alternative für die Wahlen zum Studierendenparlament am Karlsruher Institut für Technologie entwickelt.
 
